@@ -1,0 +1,939 @@
+{
+    "data": [
+        {
+            "id": "100b272c02934631",
+            "url": "https://api.twitter.com/1.1/geo/id/100b272c02934631.json",
+            "place_type": "city",
+            "name": "Gateshead",
+            "full_name": "Gateshead, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.619675,
+                            54.9131098
+                        ],
+                        [
+                            -1.517516,
+                            54.9131098
+                        ],
+                        [
+                            -1.517516,
+                            54.9699803
+                        ],
+                        [
+                            -1.619675,
+                            54.9699803
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "100b272c02934631",
+            "url": "https://api.twitter.com/1.1/geo/id/100b272c02934631.json",
+            "place_type": "city",
+            "name": "Gateshead",
+            "full_name": "Gateshead, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.619675,
+                            54.9131098
+                        ],
+                        [
+                            -1.517516,
+                            54.9131098
+                        ],
+                        [
+                            -1.517516,
+                            54.9699803
+                        ],
+                        [
+                            -1.619675,
+                            54.9699803
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "100b272c02934631",
+            "url": "https://api.twitter.com/1.1/geo/id/100b272c02934631.json",
+            "place_type": "city",
+            "name": "Gateshead",
+            "full_name": "Gateshead, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.619675,
+                            54.9131098
+                        ],
+                        [
+                            -1.517516,
+                            54.9131098
+                        ],
+                        [
+                            -1.517516,
+                            54.9699803
+                        ],
+                        [
+                            -1.619675,
+                            54.9699803
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "100b272c02934631",
+            "url": "https://api.twitter.com/1.1/geo/id/100b272c02934631.json",
+            "place_type": "city",
+            "name": "Gateshead",
+            "full_name": "Gateshead, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.619675,
+                            54.9131098
+                        ],
+                        [
+                            -1.517516,
+                            54.9131098
+                        ],
+                        [
+                            -1.517516,
+                            54.9699803
+                        ],
+                        [
+                            -1.619675,
+                            54.9699803
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "002f479379291074",
+            "url": "https://api.twitter.com/1.1/geo/id/002f479379291074.json",
+            "place_type": "city",
+            "name": "Phlap Phla",
+            "full_name": "Phlap Phla, Thailand",
+            "country_code": "TH",
+            "country": "Thailand",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.5961611,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7867882
+                        ],
+                        [
+                            100.5961611,
+                            13.7867882
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "002f479379291074",
+            "url": "https://api.twitter.com/1.1/geo/id/002f479379291074.json",
+            "place_type": "city",
+            "name": "Phlap Phla",
+            "full_name": "Phlap Phla, Thailand",
+            "country_code": "TH",
+            "country": "Thailand",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.5961611,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7867882
+                        ],
+                        [
+                            100.5961611,
+                            13.7867882
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633076041454321666
+        },
+        {
+            "id": "002f479379291074",
+            "url": "https://api.twitter.com/1.1/geo/id/002f479379291074.json",
+            "place_type": "city",
+            "name": "Phlap Phla",
+            "full_name": "Phlap Phla, Thailand",
+            "country_code": "TH",
+            "country": "Thailand",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.5961611,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7867882
+                        ],
+                        [
+                            100.5961611,
+                            13.7867882
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632967631690158081
+        },
+        {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632959731978436611
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633076041454321666
+        },
+        {
+            "id": "002f479379291074",
+            "url": "https://api.twitter.com/1.1/geo/id/002f479379291074.json",
+            "place_type": "city",
+            "name": "Phlap Phla",
+            "full_name": "Phlap Phla, Thailand",
+            "country_code": "TH",
+            "country": "Thailand",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.5961611,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7867882
+                        ],
+                        [
+                            100.5961611,
+                            13.7867882
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632967631690158081
+        },
+        {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632959731978436611
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633076041454321666
+        },
+        {
+            "id": "002f479379291074",
+            "url": "https://api.twitter.com/1.1/geo/id/002f479379291074.json",
+            "place_type": "city",
+            "name": "Phlap Phla",
+            "full_name": "Phlap Phla, Thailand",
+            "country_code": "TH",
+            "country": "Thailand",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.5961611,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7867882
+                        ],
+                        [
+                            100.5961611,
+                            13.7867882
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632967631690158081
+        },
+        {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632959731978436611
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633076041454321666
+        },
+        {
+            "id": "002f479379291074",
+            "url": "https://api.twitter.com/1.1/geo/id/002f479379291074.json",
+            "place_type": "city",
+            "name": "Phlap Phla",
+            "full_name": "Phlap Phla, Thailand",
+            "country_code": "TH",
+            "country": "Thailand",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            100.5961611,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7509623
+                        ],
+                        [
+                            100.6305456,
+                            13.7867882
+                        ],
+                        [
+                            100.5961611,
+                            13.7867882
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632967631690158081
+        },
+        {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632959731978436611
+        },
+        {
+            "id": "6863fd050de21120",
+            "url": "https://api.twitter.com/1.1/geo/id/6863fd050de21120.json",
+            "place_type": "city",
+            "name": "Leeds",
+            "full_name": "Leeds, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.706057,
+                            53.7363694
+                        ],
+                        [
+                            -1.424923,
+                            53.7363694
+                        ],
+                        [
+                            -1.424923,
+                            53.867543
+                        ],
+                        [
+                            -1.706057,
+                            53.867543
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634862324493299713
+        },
+        {
+            "id": "1027fcd83c280af3",
+            "url": "https://api.twitter.com/1.1/geo/id/1027fcd83c280af3.json",
+            "place_type": "city",
+            "name": "Lagos de Moreno",
+            "full_name": "Lagos de Moreno, Jalisco",
+            "country_code": "MX",
+            "country": "Mexico",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -102.16888,
+                            21.1778369
+                        ],
+                        [
+                            -101.568873,
+                            21.1778369
+                        ],
+                        [
+                            -101.568873,
+                            21.8892021
+                        ],
+                        [
+                            -102.16888,
+                            21.8892021
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634623288977629184
+        },
+        {
+            "id": "015c383300a1d127",
+            "url": "https://api.twitter.com/1.1/geo/id/015c383300a1d127.json",
+            "place_type": "city",
+            "name": "Koforidua",
+            "full_name": "Koforidua, Ghana",
+            "country_code": "GH",
+            "country": "Ghana",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.2960049,
+                            6.0318484
+                        ],
+                        [
+                            -0.2350206,
+                            6.0318484
+                        ],
+                        [
+                            -0.2350206,
+                            6.127119
+                        ],
+                        [
+                            -0.2960049,
+                            6.127119
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643377628320079876
+        },
+        {
+            "id": "7e0b3752623e1d72",
+            "url": "https://api.twitter.com/1.1/geo/id/7e0b3752623e1d72.json",
+            "place_type": "country",
+            "name": "Ivory Coast",
+            "full_name": "Ivory Coast",
+            "country_code": "CI",
+            "country": "Ivory Coast",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.6012434,
+                            4.3616546
+                        ],
+                        [
+                            -2.4966316,
+                            4.3616546
+                        ],
+                        [
+                            -2.4966316,
+                            10.7382464
+                        ],
+                        [
+                            -8.6012434,
+                            10.7382464
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643372881705934848
+        },
+        {
+            "id": "60160252aeb7e3e5",
+            "url": "https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json",
+            "place_type": "admin",
+            "name": "West Midlands",
+            "full_name": "West Midlands, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.23560072135158,
+                            51.8259029271059
+                        ],
+                        [
+                            -1.17213601934124,
+                            51.8259029271059
+                        ],
+                        [
+                            -1.17213601934124,
+                            53.2262100153425
+                        ],
+                        [
+                            -3.23560072135158,
+                            53.2262100153425
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644052802983931905
+        }
+    ]
+}

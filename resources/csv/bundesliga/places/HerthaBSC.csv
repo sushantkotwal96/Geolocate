@@ -1,0 +1,3 @@
+id,url,place_type,name,full_name,country_code,country,contained_within,tweet_id,bounding_box.type,bounding_box.coordinates
+3078869807f9dd36,https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json,city,Berlin,"Berlin, Germany",DE,Germany,[],1632155195034542081,Polygon,"[[[13.088304, 52.338079], [13.760909, 52.338079], [13.760909, 52.675323], [13.088304, 52.675323]]]"
+3078869807f9dd36,https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json,city,Berlin,"Berlin, Germany",DE,Germany,[],1632155195034542081,Polygon,"[[[13.088304, 52.338079], [13.760909, 52.338079], [13.760909, 52.675323], [13.088304, 52.675323]]]"

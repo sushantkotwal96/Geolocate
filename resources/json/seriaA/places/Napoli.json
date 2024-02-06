@@ -1,0 +1,179 @@
+{
+    "data": [
+        {
+            "id": "5c62ffb0f0f3479d",
+            "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json",
+            "place_type": "city",
+            "name": "Phoenix",
+            "full_name": "Phoenix, AZ",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -112.3239143,
+                            33.29026
+                        ],
+                        [
+                            -111.9254391,
+                            33.29026
+                        ],
+                        [
+                            -111.9254391,
+                            33.8154652
+                        ],
+                        [
+                            -112.3239143,
+                            33.8154652
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633299622147006464
+        },
+        {
+            "id": "a592bd6ceb1319f7",
+            "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+            "place_type": "city",
+            "name": "San Diego",
+            "full_name": "San Diego, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -117.282538,
+                            32.53962
+                        ],
+                        [
+                            -116.9274403,
+                            32.53962
+                        ],
+                        [
+                            -116.9274403,
+                            33.0804044
+                        ],
+                        [
+                            -117.282538,
+                            33.0804044
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633299187923288064
+        },
+        {
+            "id": "639ba0c01b9a6fcc",
+            "url": "https://api.twitter.com/1.1/geo/id/639ba0c01b9a6fcc.json",
+            "place_type": "city",
+            "name": "Ardrossan",
+            "full_name": "Ardrossan, Scotland",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.8248083,
+                            55.6312366
+                        ],
+                        [
+                            -4.771057,
+                            55.6312366
+                        ],
+                        [
+                            -4.771057,
+                            55.6596112
+                        ],
+                        [
+                            -4.8248083,
+                            55.6596112
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633297277790896130
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633285860475936769
+        },
+        {
+            "id": "038247c1b5bb34c9",
+            "url": "https://api.twitter.com/1.1/geo/id/038247c1b5bb34c9.json",
+            "place_type": "city",
+            "name": "Greenwich",
+            "full_name": "Greenwich, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.0335507,
+                            51.436221
+                        ],
+                        [
+                            0.06353,
+                            51.436221
+                        ],
+                        [
+                            0.06353,
+                            51.506788
+                        ],
+                        [
+                            -0.0335507,
+                            51.506788
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633269269109538818
+        }
+    ]
+}

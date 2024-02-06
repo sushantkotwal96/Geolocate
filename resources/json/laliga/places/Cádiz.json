@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "0122d29f06c0242c",
+            "url": "https://api.twitter.com/1.1/geo/id/0122d29f06c0242c.json",
+            "place_type": "city",
+            "name": "Aboadze",
+            "full_name": "Aboadze, Ghana",
+            "country_code": "GH",
+            "country": "Ghana",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6633812,
+                            4.9679659
+                        ],
+                        [
+                            -1.6352558,
+                            4.9679659
+                        ],
+                        [
+                            -1.6352558,
+                            4.9888016
+                        ],
+                        [
+                            -1.6633812,
+                            4.9888016
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633210404699615241
+        }
+    ]
+}

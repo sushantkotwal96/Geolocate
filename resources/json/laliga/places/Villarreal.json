@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "c484d6c5cd72beb0",
+            "url": "https://api.twitter.com/1.1/geo/id/c484d6c5cd72beb0.json",
+            "place_type": "city",
+            "name": "Katy",
+            "full_name": "Katy, TX",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.87417,
+                            29.7367727
+                        ],
+                        [
+                            -95.774936,
+                            29.7367727
+                        ],
+                        [
+                            -95.774936,
+                            29.8312188
+                        ],
+                        [
+                            -95.87417,
+                            29.8312188
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633152843656904704
+        }
+    ]
+}

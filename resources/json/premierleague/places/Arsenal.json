@@ -1,0 +1,973 @@
+{
+    "data": [
+        {
+            "id": "011d05962ca1154c",
+            "url": "https://api.twitter.com/1.1/geo/id/011d05962ca1154c.json",
+            "place_type": "admin",
+            "name": "Manicaland",
+            "full_name": "Manicaland, Zimbabwe",
+            "country_code": "ZW",
+            "country": "Zimbabwe",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            31.1875684,
+                            -21.3396758
+                        ],
+                        [
+                            33.0681312,
+                            -21.3396758
+                        ],
+                        [
+                            33.0681312,
+                            -17.2486826
+                        ],
+                        [
+                            31.1875684,
+                            -17.2486826
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "000c69ad123213a8",
+            "url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json",
+            "place_type": "admin",
+            "name": "Kampala",
+            "full_name": "Kampala, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.4166234,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.4136818
+                        ],
+                        [
+                            32.4166234,
+                            0.4136818
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "00e55e2b4c491c5f",
+            "url": "https://api.twitter.com/1.1/geo/id/00e55e2b4c491c5f.json",
+            "place_type": "city",
+            "name": "Abuja",
+            "full_name": "Abuja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            7.3045544,
+                            8.961887
+                        ],
+                        [
+                            7.5436339,
+                            8.961887
+                        ],
+                        [
+                            7.5436339,
+                            9.1854407
+                        ],
+                        [
+                            7.3045544,
+                            9.1854407
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "3178a2f5b3c63ea4",
+            "url": "https://api.twitter.com/1.1/geo/id/3178a2f5b3c63ea4.json",
+            "place_type": "city",
+            "name": "Elche",
+            "full_name": "Elche, Spain",
+            "country_code": "ES",
+            "country": "Spain",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.7824914,
+                            38.1277872
+                        ],
+                        [
+                            -0.5101526,
+                            38.1277872
+                        ],
+                        [
+                            -0.5101526,
+                            38.3446452
+                        ],
+                        [
+                            -0.7824914,
+                            38.3446452
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01898b4d7e969f7d",
+            "url": "https://api.twitter.com/1.1/geo/id/01898b4d7e969f7d.json",
+            "place_type": "city",
+            "name": "Loganville",
+            "full_name": "Loganville, GA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.935379,
+                            33.80308
+                        ],
+                        [
+                            -83.860408,
+                            33.80308
+                        ],
+                        [
+                            -83.860408,
+                            33.8672113
+                        ],
+                        [
+                            -83.935379,
+                            33.8672113
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "535f0c2de0121451",
+            "url": "https://api.twitter.com/1.1/geo/id/535f0c2de0121451.json",
+            "place_type": "city",
+            "name": "Warsaw",
+            "full_name": "Warsaw, Poland",
+            "country_code": "PL",
+            "country": "Poland",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            20.8525518,
+                            52.0977088
+                        ],
+                        [
+                            21.2710282,
+                            52.0977088
+                        ],
+                        [
+                            21.2710282,
+                            52.3679617
+                        ],
+                        [
+                            20.8525518,
+                            52.3679617
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "7929cea6bd5b32bd",
+            "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+            "place_type": "city",
+            "name": "Mumbai",
+            "full_name": "Mumbai, India",
+            "country_code": "IN",
+            "country": "India",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            72.74484,
+                            18.845343
+                        ],
+                        [
+                            73.003648,
+                            18.845343
+                        ],
+                        [
+                            73.003648,
+                            19.502937
+                        ],
+                        [
+                            72.74484,
+                            19.502937
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "463f5d9615d7d1be",
+            "url": "https://api.twitter.com/1.1/geo/id/463f5d9615d7d1be.json",
+            "place_type": "admin",
+            "name": "Maine",
+            "full_name": "Maine, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.084335,
+                            42.917127
+                        ],
+                        [
+                            -66.885075,
+                            42.917127
+                        ],
+                        [
+                            -66.885075,
+                            47.459687
+                        ],
+                        [
+                            -71.084335,
+                            47.459687
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "dd9c503d6c35364b",
+            "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+            "place_type": "admin",
+            "name": "Pennsylvania",
+            "full_name": "Pennsylvania, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.519851,
+                            39.719801
+                        ],
+                        [
+                            -74.689517,
+                            39.719801
+                        ],
+                        [
+                            -74.689517,
+                            42.516072
+                        ],
+                        [
+                            -80.519851,
+                            42.516072
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01de17883224efff",
+            "url": "https://api.twitter.com/1.1/geo/id/01de17883224efff.json",
+            "place_type": "city",
+            "name": "Ilobu",
+            "full_name": "Ilobu, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.4740267,
+                            7.8143639
+                        ],
+                        [
+                            4.5026116,
+                            7.8143639
+                        ],
+                        [
+                            4.5026116,
+                            7.8576892
+                        ],
+                        [
+                            4.4740267,
+                            7.8576892
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0118511d04b9cd19",
+            "url": "https://api.twitter.com/1.1/geo/id/0118511d04b9cd19.json",
+            "place_type": "admin",
+            "name": "Kitgum",
+            "full_name": "Kitgum, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.1961352,
+                            3.0716175
+                        ],
+                        [
+                            33.7424722,
+                            3.0716175
+                        ],
+                        [
+                            33.7424722,
+                            3.8909003
+                        ],
+                        [
+                            32.1961352,
+                            3.8909003
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "34031d61ef79585f",
+            "url": "https://api.twitter.com/1.1/geo/id/34031d61ef79585f.json",
+            "place_type": "city",
+            "name": "Davie",
+            "full_name": "Davie, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.369507,
+                            26.0295373
+                        ],
+                        [
+                            -80.2008709,
+                            26.0295373
+                        ],
+                        [
+                            -80.2008709,
+                            26.1268035
+                        ],
+                        [
+                            -80.369507,
+                            26.1268035
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633290312868065280
+        },
+        {
+            "id": "d66ca907ceb62690",
+            "url": "https://api.twitter.com/1.1/geo/id/d66ca907ceb62690.json",
+            "place_type": "country",
+            "name": "Jamaica",
+            "full_name": "Jamaica",
+            "country_code": "JM",
+            "country": "Jamaica",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.3688776,
+                            17.7057855
+                        ],
+                        [
+                            -76.183028,
+                            17.7057855
+                        ],
+                        [
+                            -76.183028,
+                            18.5250291
+                        ],
+                        [
+                            -78.3688776,
+                            18.5250291
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633299734415720450
+        },
+        {
+            "id": "01f06d712cfceb2f",
+            "url": "https://api.twitter.com/1.1/geo/id/01f06d712cfceb2f.json",
+            "place_type": "city",
+            "name": "Addo",
+            "full_name": "Addo, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.5750048,
+                            6.4825679
+                        ],
+                        [
+                            3.6243404,
+                            6.4825679
+                        ],
+                        [
+                            3.6243404,
+                            6.5127935
+                        ],
+                        [
+                            3.5750048,
+                            6.5127935
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633298280577740800
+        },
+        {
+            "id": "d66ca907ceb62690",
+            "url": "https://api.twitter.com/1.1/geo/id/d66ca907ceb62690.json",
+            "place_type": "country",
+            "name": "Jamaica",
+            "full_name": "Jamaica",
+            "country_code": "JM",
+            "country": "Jamaica",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.3688776,
+                            17.7057855
+                        ],
+                        [
+                            -76.183028,
+                            17.7057855
+                        ],
+                        [
+                            -76.183028,
+                            18.5250291
+                        ],
+                        [
+                            -78.3688776,
+                            18.5250291
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633299734415720450
+        },
+        {
+            "id": "01f06d712cfceb2f",
+            "url": "https://api.twitter.com/1.1/geo/id/01f06d712cfceb2f.json",
+            "place_type": "city",
+            "name": "Addo",
+            "full_name": "Addo, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.5750048,
+                            6.4825679
+                        ],
+                        [
+                            3.6243404,
+                            6.4825679
+                        ],
+                        [
+                            3.6243404,
+                            6.5127935
+                        ],
+                        [
+                            3.5750048,
+                            6.5127935
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633298280577740800
+        },
+        {
+            "id": "d66ca907ceb62690",
+            "url": "https://api.twitter.com/1.1/geo/id/d66ca907ceb62690.json",
+            "place_type": "country",
+            "name": "Jamaica",
+            "full_name": "Jamaica",
+            "country_code": "JM",
+            "country": "Jamaica",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.3688776,
+                            17.7057855
+                        ],
+                        [
+                            -76.183028,
+                            17.7057855
+                        ],
+                        [
+                            -76.183028,
+                            18.5250291
+                        ],
+                        [
+                            -78.3688776,
+                            18.5250291
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633299734415720450
+        },
+        {
+            "id": "01f06d712cfceb2f",
+            "url": "https://api.twitter.com/1.1/geo/id/01f06d712cfceb2f.json",
+            "place_type": "city",
+            "name": "Addo",
+            "full_name": "Addo, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.5750048,
+                            6.4825679
+                        ],
+                        [
+                            3.6243404,
+                            6.4825679
+                        ],
+                        [
+                            3.6243404,
+                            6.5127935
+                        ],
+                        [
+                            3.5750048,
+                            6.5127935
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633298280577740800
+        },
+        {
+            "id": "000c69ad123213a8",
+            "url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json",
+            "place_type": "admin",
+            "name": "Kampala",
+            "full_name": "Kampala, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.4166234,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.4136818
+                        ],
+                        [
+                            32.4166234,
+                            0.4136818
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633527943610654733
+        },
+        {
+            "id": "00d9827647c0ff5a",
+            "url": "https://api.twitter.com/1.1/geo/id/00d9827647c0ff5a.json",
+            "place_type": "admin",
+            "name": "Dar es Salaam",
+            "full_name": "Dar es Salaam, Tanzania",
+            "country_code": "TZ",
+            "country": "Tanzania",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            39.0081106,
+                            -7.1906489
+                        ],
+                        [
+                            39.5566698,
+                            -7.1906489
+                        ],
+                        [
+                            39.5566698,
+                            -6.5669735
+                        ],
+                        [
+                            39.0081106,
+                            -6.5669735
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633527565133438991
+        },
+        {
+            "id": "13dd0eca94d322f1",
+            "url": "https://api.twitter.com/1.1/geo/id/13dd0eca94d322f1.json",
+            "place_type": "city",
+            "name": "Basildon",
+            "full_name": "Basildon, East",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.3836341,
+                            51.5463777
+                        ],
+                        [
+                            0.530637,
+                            51.5463777
+                        ],
+                        [
+                            0.530637,
+                            51.594472
+                        ],
+                        [
+                            0.3836341,
+                            51.594472
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634958143343194112
+        },
+        {
+            "id": "8ef32ff56ef11c22",
+            "url": "https://api.twitter.com/1.1/geo/id/8ef32ff56ef11c22.json",
+            "place_type": "admin",
+            "name": "England",
+            "full_name": "England, United Kingdom",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.3651943,
+                            49.8825312
+                        ],
+                        [
+                            1.768926,
+                            49.8825312
+                        ],
+                        [
+                            1.768926,
+                            55.8116485
+                        ],
+                        [
+                            -6.3651943,
+                            55.8116485
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634998751034212355
+        },
+        {
+            "id": "3b77caf94bfc81fe",
+            "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+            "place_type": "city",
+            "name": "Los Angeles",
+            "full_name": "Los Angeles, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -118.668404,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            34.337041
+                        ],
+                        [
+                            -118.668404,
+                            34.337041
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634998525036761089
+        },
+        {
+            "id": "00ab941b685334e3",
+            "url": "https://api.twitter.com/1.1/geo/id/00ab941b685334e3.json",
+            "place_type": "city",
+            "name": "Nashville",
+            "full_name": "Nashville, TN",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.022482,
+                            35.9945681
+                        ],
+                        [
+                            -86.560616,
+                            35.9945681
+                        ],
+                        [
+                            -86.560616,
+                            36.405448
+                        ],
+                        [
+                            -87.022482,
+                            36.405448
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1635001104193970176
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636944789512896512
+        },
+        {
+            "id": "0141c0f05451215f",
+            "url": "https://api.twitter.com/1.1/geo/id/0141c0f05451215f.json",
+            "place_type": "admin",
+            "name": "Bailiwick of Jersey",
+            "full_name": "Bailiwick of Jersey, United Kingdom",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.2540718,
+                            49.1626564
+                        ],
+                        [
+                            -2.0109361,
+                            49.1626564
+                        ],
+                        [
+                            -2.0109361,
+                            49.2625567
+                        ],
+                        [
+                            -2.2540718,
+                            49.2625567
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636941667365257218
+        },
+        {
+            "id": "a6c257c61f294ec1",
+            "url": "https://api.twitter.com/1.1/geo/id/a6c257c61f294ec1.json",
+            "place_type": "city",
+            "name": "Greensboro",
+            "full_name": "Greensboro, NC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.0295184,
+                            35.962623
+                        ],
+                        [
+                            -79.6852086,
+                            35.962623
+                        ],
+                        [
+                            -79.6852086,
+                            36.218171
+                        ],
+                        [
+                            -80.0295184,
+                            36.218171
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636940981906862080
+        },
+        {
+            "id": "c500c6f8494a90ac",
+            "url": "https://api.twitter.com/1.1/geo/id/c500c6f8494a90ac.json",
+            "place_type": "city",
+            "name": "Cork",
+            "full_name": "Cork, Ireland",
+            "country_code": "IE",
+            "country": "Ireland",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -10.2254601,
+                            51.4192154
+                        ],
+                        [
+                            -7.8411533,
+                            51.4192154
+                        ],
+                        [
+                            -7.8411533,
+                            52.3885113
+                        ],
+                        [
+                            -10.2254601,
+                            52.3885113
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644413545587646470
+        }
+    ]
+}

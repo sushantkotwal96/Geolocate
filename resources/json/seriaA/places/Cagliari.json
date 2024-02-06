@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "id": "c500c6f8494a90ac",
+            "url": "https://api.twitter.com/1.1/geo/id/c500c6f8494a90ac.json",
+            "place_type": "city",
+            "name": "Cork",
+            "full_name": "Cork, Ireland",
+            "country_code": "IE",
+            "country": "Ireland",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -10.2254601,
+                            51.4192154
+                        ],
+                        [
+                            -7.8411533,
+                            51.4192154
+                        ],
+                        [
+                            -7.8411533,
+                            52.3885113
+                        ],
+                        [
+                            -10.2254601,
+                            52.3885113
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632510747589636096
+        },
+        {
+            "id": "e0060cda70f5f341",
+            "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json",
+            "place_type": "admin",
+            "name": "Texas",
+            "full_name": "Texas, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -106.645646,
+                            25.837092
+                        ],
+                        [
+                            -93.508131,
+                            25.837092
+                        ],
+                        [
+                            -93.508131,
+                            36.500695
+                        ],
+                        [
+                            -106.645646,
+                            36.500695
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632060641878982659
+        },
+        {
+            "id": "eae37a5f578d9179",
+            "url": "https://api.twitter.com/1.1/geo/id/eae37a5f578d9179.json",
+            "place_type": "city",
+            "name": "Old Bridge",
+            "full_name": "Old Bridge, NJ",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.383156,
+                            40.318344
+                        ],
+                        [
+                            -74.246891,
+                            40.318344
+                        ],
+                        [
+                            -74.246891,
+                            40.450778
+                        ],
+                        [
+                            -74.383156,
+                            40.450778
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1631424597898739718
+        },
+        {
+            "id": "03a5820911d90b76",
+            "url": "https://api.twitter.com/1.1/geo/id/03a5820911d90b76.json",
+            "place_type": "city",
+            "name": "Southend-on-Sea",
+            "full_name": "Southend-on-Sea, East",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.624134,
+                            51.522076
+                        ],
+                        [
+                            0.818367,
+                            51.522076
+                        ],
+                        [
+                            0.818367,
+                            51.576801
+                        ],
+                        [
+                            0.624134,
+                            51.576801
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1631321799374848004
+        }
+    ]
+}

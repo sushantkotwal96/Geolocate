@@ -1,0 +1,481 @@
+{
+    "data": [
+        {
+            "id": "0f704bf8c0429522",
+            "url": "https://api.twitter.com/1.1/geo/id/0f704bf8c0429522.json",
+            "place_type": "city",
+            "name": "Leiston",
+            "full_name": "Leiston, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.5620175,
+                            52.1976597
+                        ],
+                        [
+                            1.597286,
+                            52.1976597
+                        ],
+                        [
+                            1.597286,
+                            52.217291
+                        ],
+                        [
+                            1.5620175,
+                            52.217291
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "000c69ad123213a8",
+            "url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json",
+            "place_type": "admin",
+            "name": "Kampala",
+            "full_name": "Kampala, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.4166234,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.4136818
+                        ],
+                        [
+                            32.4166234,
+                            0.4136818
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0f704bf8c0429522",
+            "url": "https://api.twitter.com/1.1/geo/id/0f704bf8c0429522.json",
+            "place_type": "city",
+            "name": "Leiston",
+            "full_name": "Leiston, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.5620175,
+                            52.1976597
+                        ],
+                        [
+                            1.597286,
+                            52.1976597
+                        ],
+                        [
+                            1.597286,
+                            52.217291
+                        ],
+                        [
+                            1.5620175,
+                            52.217291
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "000c69ad123213a8",
+            "url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json",
+            "place_type": "admin",
+            "name": "Kampala",
+            "full_name": "Kampala, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.4166234,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.4136818
+                        ],
+                        [
+                            32.4166234,
+                            0.4136818
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0f704bf8c0429522",
+            "url": "https://api.twitter.com/1.1/geo/id/0f704bf8c0429522.json",
+            "place_type": "city",
+            "name": "Leiston",
+            "full_name": "Leiston, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.5620175,
+                            52.1976597
+                        ],
+                        [
+                            1.597286,
+                            52.1976597
+                        ],
+                        [
+                            1.597286,
+                            52.217291
+                        ],
+                        [
+                            1.5620175,
+                            52.217291
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "5635c19c2b5078d1",
+            "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+            "place_type": "admin",
+            "name": "Virginia",
+            "full_name": "Virginia, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.67529,
+                            36.540739
+                        ],
+                        [
+                            -75.16644,
+                            36.540739
+                        ],
+                        [
+                            -75.16644,
+                            39.466012
+                        ],
+                        [
+                            -83.67529,
+                            39.466012
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "015c383300a1d127",
+            "url": "https://api.twitter.com/1.1/geo/id/015c383300a1d127.json",
+            "place_type": "city",
+            "name": "Koforidua",
+            "full_name": "Koforidua, Ghana",
+            "country_code": "GH",
+            "country": "Ghana",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.2960049,
+                            6.0318484
+                        ],
+                        [
+                            -0.2350206,
+                            6.0318484
+                        ],
+                        [
+                            -0.2350206,
+                            6.127119
+                        ],
+                        [
+                            -0.2960049,
+                            6.127119
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "3e1157a1c0f0ab13",
+            "url": "https://api.twitter.com/1.1/geo/id/3e1157a1c0f0ab13.json",
+            "place_type": "city",
+            "name": "Crayford",
+            "full_name": "Crayford, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.120663,
+                            51.448872
+                        ],
+                        [
+                            0.2030438,
+                            51.448872
+                        ],
+                        [
+                            0.2030438,
+                            51.5101512
+                        ],
+                        [
+                            0.120663,
+                            51.5101512
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "5635c19c2b5078d1",
+            "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+            "place_type": "admin",
+            "name": "Virginia",
+            "full_name": "Virginia, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.67529,
+                            36.540739
+                        ],
+                        [
+                            -75.16644,
+                            36.540739
+                        ],
+                        [
+                            -75.16644,
+                            39.466012
+                        ],
+                        [
+                            -83.67529,
+                            39.466012
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "015c383300a1d127",
+            "url": "https://api.twitter.com/1.1/geo/id/015c383300a1d127.json",
+            "place_type": "city",
+            "name": "Koforidua",
+            "full_name": "Koforidua, Ghana",
+            "country_code": "GH",
+            "country": "Ghana",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.2960049,
+                            6.0318484
+                        ],
+                        [
+                            -0.2350206,
+                            6.0318484
+                        ],
+                        [
+                            -0.2350206,
+                            6.127119
+                        ],
+                        [
+                            -0.2960049,
+                            6.127119
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "00486f39ae8bd30d",
+            "url": "https://api.twitter.com/1.1/geo/id/00486f39ae8bd30d.json",
+            "place_type": "city",
+            "name": "Ilford",
+            "full_name": "Ilford, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0103975,
+                            51.543815
+                        ],
+                        [
+                            0.147328,
+                            51.543815
+                        ],
+                        [
+                            0.147328,
+                            51.626165
+                        ],
+                        [
+                            0.0103975,
+                            51.626165
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "38d05a66be6d4ee1",
+            "url": "https://api.twitter.com/1.1/geo/id/38d05a66be6d4ee1.json",
+            "place_type": "city",
+            "name": "Colchester",
+            "full_name": "Colchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.845165,
+                            51.853339
+                        ],
+                        [
+                            0.9526169,
+                            51.853339
+                        ],
+                        [
+                            0.9526169,
+                            51.9240639
+                        ],
+                        [
+                            0.845165,
+                            51.9240639
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "00486f39ae8bd30d",
+            "url": "https://api.twitter.com/1.1/geo/id/00486f39ae8bd30d.json",
+            "place_type": "city",
+            "name": "Ilford",
+            "full_name": "Ilford, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.0103975,
+                            51.543815
+                        ],
+                        [
+                            0.147328,
+                            51.543815
+                        ],
+                        [
+                            0.147328,
+                            51.626165
+                        ],
+                        [
+                            0.0103975,
+                            51.626165
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633207768344678401
+        }
+    ]
+}

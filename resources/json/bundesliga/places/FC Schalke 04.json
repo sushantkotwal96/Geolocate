@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "227ab02aca7f4b08",
+            "url": "https://api.twitter.com/1.1/geo/id/227ab02aca7f4b08.json",
+            "place_type": "admin",
+            "name": "Bavaria",
+            "full_name": "Bavaria, Germany",
+            "country_code": "DE",
+            "country": "Germany",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.976041,
+                            47.270127
+                        ],
+                        [
+                            13.839928,
+                            47.270127
+                        ],
+                        [
+                            13.839928,
+                            50.564736
+                        ],
+                        [
+                            8.976041,
+                            50.564736
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632026927358701568
+        },
+        {
+            "id": "227ab02aca7f4b08",
+            "url": "https://api.twitter.com/1.1/geo/id/227ab02aca7f4b08.json",
+            "place_type": "admin",
+            "name": "Bavaria",
+            "full_name": "Bavaria, Germany",
+            "country_code": "DE",
+            "country": "Germany",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.976041,
+                            47.270127
+                        ],
+                        [
+                            13.839928,
+                            47.270127
+                        ],
+                        [
+                            13.839928,
+                            50.564736
+                        ],
+                        [
+                            8.976041,
+                            50.564736
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632026927358701568
+        }
+    ]
+}

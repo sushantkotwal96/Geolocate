@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "013c94bf4d5073c9",
+            "url": "https://api.twitter.com/1.1/geo/id/013c94bf4d5073c9.json",
+            "place_type": "admin",
+            "name": "Kano",
+            "full_name": "Kano, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            7.7042185,
+                            10.5496647
+                        ],
+                        [
+                            9.4005112,
+                            10.5496647
+                        ],
+                        [
+                            9.4005112,
+                            12.6105891
+                        ],
+                        [
+                            7.7042185,
+                            12.6105891
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633182960659693569
+        },
+        {
+            "id": "44a5545331e3af09",
+            "url": "https://api.twitter.com/1.1/geo/id/44a5545331e3af09.json",
+            "place_type": "city",
+            "name": "Pollença",
+            "full_name": "Pollença, Spain",
+            "country_code": "ES",
+            "country": "Spain",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.9210611,
+                            39.8166568
+                        ],
+                        [
+                            3.2149513,
+                            39.8166568
+                        ],
+                        [
+                            3.2149513,
+                            39.9628735
+                        ],
+                        [
+                            2.9210611,
+                            39.9628735
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633167604322893827
+        }
+    ]
+}

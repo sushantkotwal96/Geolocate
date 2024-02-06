@@ -1,0 +1,818 @@
+created_at,id,id_str,full_text,truncated,display_text_range,source,in_reply_to_status_id,in_reply_to_status_id_str,in_reply_to_user_id,in_reply_to_user_id_str,in_reply_to_screen_name,geo,coordinates,place,contributors,is_quote_status,retweet_count,favorite_count,favorited,retweeted,lang,metadata.iso_language_code,metadata.result_type,user.id,user.id_str,user.name,user.screen_name,user.location,user.description,user.url,user.entities.description.urls,user.protected,user.followers_count,user.friends_count,user.listed_count,user.created_at,user.favourites_count,user.utc_offset,user.time_zone,user.geo_enabled,user.verified,user.statuses_count,user.lang,user.contributors_enabled,user.is_translator,user.is_translation_enabled,user.profile_background_color,user.profile_background_image_url,user.profile_background_image_url_https,user.profile_background_tile,user.profile_image_url,user.profile_image_url_https,user.profile_banner_url,user.profile_link_color,user.profile_sidebar_border_color,user.profile_sidebar_fill_color,user.profile_text_color,user.profile_use_background_image,user.has_extended_profile,user.default_profile,user.default_profile_image,user.following,user.follow_request_sent,user.notifications,user.translator_type,user.withheld_in_countries,possibly_sensitive,user.entities.url.urls,quoted_status_id,quoted_status_id_str,quoted_status.created_at,quoted_status.id,quoted_status.id_str,quoted_status.full_text,quoted_status.truncated,quoted_status.display_text_range,quoted_status.metadata.iso_language_code,quoted_status.metadata.result_type,quoted_status.source,quoted_status.in_reply_to_status_id,quoted_status.in_reply_to_status_id_str,quoted_status.in_reply_to_user_id,quoted_status.in_reply_to_user_id_str,quoted_status.in_reply_to_screen_name,quoted_status.user.id,quoted_status.user.id_str,quoted_status.user.name,quoted_status.user.screen_name,quoted_status.user.location,quoted_status.user.description,quoted_status.user.url,quoted_status.user.entities.url.urls,quoted_status.user.entities.description.urls,quoted_status.user.protected,quoted_status.user.followers_count,quoted_status.user.friends_count,quoted_status.user.listed_count,quoted_status.user.created_at,quoted_status.user.favourites_count,quoted_status.user.utc_offset,quoted_status.user.time_zone,quoted_status.user.geo_enabled,quoted_status.user.verified,quoted_status.user.statuses_count,quoted_status.user.lang,quoted_status.user.contributors_enabled,quoted_status.user.is_translator,quoted_status.user.is_translation_enabled,quoted_status.user.profile_background_color,quoted_status.user.profile_background_image_url,quoted_status.user.profile_background_image_url_https,quoted_status.user.profile_background_tile,quoted_status.user.profile_image_url,quoted_status.user.profile_image_url_https,quoted_status.user.profile_banner_url,quoted_status.user.profile_link_color,quoted_status.user.profile_sidebar_border_color,quoted_status.user.profile_sidebar_fill_color,quoted_status.user.profile_text_color,quoted_status.user.profile_use_background_image,quoted_status.user.has_extended_profile,quoted_status.user.default_profile,quoted_status.user.default_profile_image,quoted_status.user.following,quoted_status.user.follow_request_sent,quoted_status.user.notifications,quoted_status.user.translator_type,quoted_status.user.withheld_in_countries,quoted_status.geo,quoted_status.coordinates,quoted_status.place,quoted_status.contributors,quoted_status.is_quote_status,quoted_status.retweet_count,quoted_status.favorite_count,quoted_status.favorited,quoted_status.retweeted,quoted_status.possibly_sensitive,quoted_status.lang,place.id,place.url,place.place_type,place.name,place.full_name,place.country_code,place.country,place.contained_within,place.bounding_box.type,place.bounding_box.coordinates,place.tweet_id
+Wed Mar 08 00:20:29 +0000 2023,1633261369901416448,1633261369901416448,"@cutecule @1neOf6 @MadridXtra @tgm46 1st question: Did you just say Cadiz Getafe Celta Vigo and Osasuna are clear of Arsenal?.. 
+2nd : Do you live near power lines?",False,"[37, 164]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",1.633249601988731e+18,1633249601988730882,7.85947930935042e+17,785947930935042049,cutecule,,,,,False,0,0,False,False,en,en,recent,1578074533952737280,1578074533952737280,Invincible Galactico,Rydinspinnaz,,"Forgive my vulgarity
+ 
+supporter of  Real Madrid  x Arsenal
+
+Since H14 & R9 - Till the end",,[],False,28,247,1,Thu Oct 06 17:27:55 +0000 2022,1677,,,False,False,1418,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1632879041773703168/w4U5_ynb_normal.jpg,https://pbs.twimg.com/profile_images/1632879041773703168/w4U5_ynb_normal.jpg,https://pbs.twimg.com/profile_banners/1578074533952737280/1665079837,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 23:28:22 +0000 2023,1633248254715469827,1633248254715469827,"@MadridXtra @tgm46 Leave arsenal to manage against teams like Cadiz, getafe, Celta Vigo &amp; osasuna. Have some shame lol",False,"[19, 122]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",1.6332473840452526e+18,1633247384045252608,1.3265641522913157e+18,1326564152291315713,MadridXtra,,,,,False,0,17,False,False,en,en,recent,872835090220503041,872835090220503041,1NNaWAY,1neOf6,,Sulemana Stan,,[],False,189,2269,1,Thu Jun 08 15:17:56 +0000 2017,12342,,,False,False,6517,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1602767199613100034/3tz8SITR_normal.jpg,https://pbs.twimg.com/profile_images/1602767199613100034/3tz8SITR_normal.jpg,https://pbs.twimg.com/profile_banners/872835090220503041/1675714764,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 21:32:05 +0000 2023,1633218989303234562,1633218989303234562,"@LilMoGh That win both halves option hasn’t been good to us these days. Celta Vigo did us dirty with that option on our last slip, today too Chelsea. More time though.",False,"[9, 167]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",1.6332168173961544e+18,1633216817396154369,1.1437925631214674e+18,1143792563121467393,LilMoGh,,,,,False,0,0,False,False,en,en,recent,844889244195807233,844889244195807233,Sir Bamba,AlmuassasBamba,Where i suppose to be,Optimistic about possibilities. Sports lover.,,[],False,169,263,0,Thu Mar 23 12:31:07 +0000 2017,69536,,,True,False,5684,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1356265250941759490/dZNQee_N_normal.jpg,https://pbs.twimg.com/profile_images/1356265250941759490/dZNQee_N_normal.jpg,https://pbs.twimg.com/profile_banners/844889244195807233/1612194240,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 19:56:33 +0000 2023,1633194949263990792,1633194949263990792,"🚨 Celta Vigo central midfielder Gabri Veiga is courting interest from Manchester United, Arsenal and Newcastle. His release clause is €40m. 
+
+(Source: Matteo Moretto)⭐ https://t.co/qAOrUC1bqR",False,"[0, 167]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,False,0,2,False,False,en,en,recent,1307274012976984066,1307274012976984066,@Baruch Kelvin 14,Baruchkelvin14,"Manchester, England","Football Journalist 
+IT HAPPENS HERE©",https://t.co/h3nrVY72lg,[],False,10536,4667,9,Sat Sep 19 11:03:36 +0000 2020,7069,,,False,False,6233,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1424646941967847424/wdQcECBd_normal.jpg,https://pbs.twimg.com/profile_images/1424646941967847424/wdQcECBd_normal.jpg,https://pbs.twimg.com/profile_banners/1307274012976984066/1662096790,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,"[{'url': 'https://t.co/h3nrVY72lg', 'expanded_url': 'https://youtube.com/@baruchkelvin14', 'display_url': 'youtube.com/@baruchkelvin14', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 18:36:12 +0000 2023,1633174727974944768,1633174727974944768,"Players with the most games with Celta Vigo in La Liga history:
+
+300 - Hugo Mallo 
+293 - Iago Aspas 
+235 - Aleksandr Mostovoi",False,"[0, 125]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,2,20,False,False,en,en,recent,1206189021661192197,1206189021661192197,Get Spanish Football News,GSpanishFN,,Get Spanish Football News (GSFN) - Your Home of Spanish Football in English.,https://t.co/cj4oFFFY1f,[],False,32259,210,532,Sun Dec 15 12:27:37 +0000 2019,192,,,True,False,14123,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1623023265986772993/D9oITBZS_normal.jpg,https://pbs.twimg.com/profile_images/1623023265986772993/D9oITBZS_normal.jpg,https://pbs.twimg.com/profile_banners/1206189021661192197/1675793876,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,"[{'url': 'https://t.co/cj4oFFFY1f', 'expanded_url': 'http://www.getfootballnewsspain.com', 'display_url': 'getfootballnewsspain.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 18:27:03 +0000 2023,1633172425016737793,1633172425016737793,"🎥 Abde Vs Celta Vigo Highlights 
+
+✍️ @BarcelonaComps 
+
+ https://t.co/zAjWSWBIb7",False,"[0, 79]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,27,187,False,False,en,en,recent,1437847286428667906,1437847286428667906,Barça Spaces,BarcaSpaces,"Barcelona, Spain","The space for all FC Barcelona related news, debates, GIFs, media, Twitter Spaces and more! #BarcaSpaces",,[],False,24648,261,82,Tue Sep 14 18:35:07 +0000 2021,7675,,,True,False,25515,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1500910359414296585/mIKhElXn_normal.jpg,https://pbs.twimg.com/profile_images/1500910359414296585/mIKhElXn_normal.jpg,https://pbs.twimg.com/profile_banners/1437847286428667906/1646679901,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 17:31:29 +0000 2023,1633158439202353168,1633158439202353168,"Hugo Mallo has now made 300 appearances in #LaLiga, all of which have come with the blue and white of Celta Vigo.  #OneClubMan https://t.co/G7ZxRA6uUv",False,"[0, 126]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,False,1,5,False,False,en,en,recent,1371799274871226369,1371799274871226369,viva laliga,vv_laliga,LaLiga ,Spanish Football in it's Purest form ⚽🧡🇪🇦 // Football is my passion ❤️ // i post out of context sometimes. ⚽,,[],False,530,138,5,Tue Mar 16 12:24:29 +0000 2021,5076,,,True,False,6189,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1450132595770023944/8huFLa5R_normal.jpg,https://pbs.twimg.com/profile_images/1450132595770023944/8huFLa5R_normal.jpg,https://pbs.twimg.com/profile_banners/1371799274871226369/1626523874,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 17:00:42 +0000 2023,1633150695745507328,1633150695745507328,2013/14 EPL season was so fun. Even tho Spurs were awful I miss it. Just so many top players but also those cool random players some may've forgotten about. Like remember Iago Aspas at Liverpool? Couldn't hit a barn door there but is now a hero back in Spain now with Celta Vigo https://t.co/IO6bYKcDHe,False,"[0, 278]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,0,11,False,False,en,en,recent,908429570126352384,908429570126352384,⚪️,owenthfc__,United Kingdom,fuck off conte,,[],False,1376,199,6,Thu Sep 14 20:37:42 +0000 2017,46664,,,True,False,38134,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625460852127068162/_3IrPvVt_normal.jpg,https://pbs.twimg.com/profile_images/1625460852127068162/_3IrPvVt_normal.jpg,https://pbs.twimg.com/profile_banners/908429570126352384/1674482752,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 15:35:00 +0000 2023,1633129125409095681,1633129125409095681,"It's Fulham, Celta Vigo, and Antalyaspor in Tuesday's soccer news - https://t.co/25DqTR24OA",False,"[0, 91]","<a href=""https://twitter.com"" rel=""nofollow"">TweetDeck Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,58897884,58897884,US Soccer Players,ussoccerplayers,"Washington, DC",The United States Men's National Soccer Team Players Association. USNSTPA to our friends.,http://t.co/WxoJEierJu,[],False,73335,391,236,Tue Jul 21 19:47:10 +0000 2009,37,,,False,False,1633,,False,False,False,9AE4E8,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,True,http://pbs.twimg.com/profile_images/722392536631885824/6wUZpzoJ_normal.jpg,https://pbs.twimg.com/profile_images/722392536631885824/6wUZpzoJ_normal.jpg,https://pbs.twimg.com/profile_banners/58897884/1461066764,993333,993333,D9D6D9,003366,True,False,False,False,False,False,False,none,[],False,"[{'url': 'http://t.co/WxoJEierJu', 'expanded_url': 'http://www.ussoccerplayers.com', 'display_url': 'ussoccerplayers.com', 'indices': [0, 22]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 14:58:11 +0000 2023,1633119860745011203,1633119860745011203,"*Veiga Transfer Rumours*
+🔴🔴🔴Manchester United are tracking Celta Vigo 20-year-old midfielder Gabri Veiga but Real Madrid and Newcastle United are also interested in him, as El Desmarque said.
+#MUFC #ManUtd #ManUnited #ManchesterUnited #MUMUfootball https://t.co/aab8leh1p0",False,"[0, 248]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,4,False,False,en,en,recent,1495763503394734081,1495763503394734081,MUMU Football,MUMUfootball,,"All EYEs on the Movement👁️
+Manchester United Transfers🔴🔴🔴
+#MUMUfootball",https://t.co/U2ZNm9glbf,[],False,1361,0,8,Mon Feb 21 14:15:30 +0000 2022,89,,,False,False,4170,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1510606633457623051/Xbyr7HET_normal.jpg,https://pbs.twimg.com/profile_images/1510606633457623051/Xbyr7HET_normal.jpg,https://pbs.twimg.com/profile_banners/1495763503394734081/1650625451,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,"[{'url': 'https://t.co/U2ZNm9glbf', 'expanded_url': 'http://www.youtube.com/channel/UCsoZNH8feTobjfbq-gNSCRw', 'display_url': 'youtube.com/channel/UCsoZN…', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 14:43:23 +0000 2023,1633116136656052228,1633116136656052228,WHEN THE FUCK DID DIEGO ALVES RETURNED TO LA LIGA?!!!! WHY THE FUCK IS HE WITH CELTA DE VIGO NOW????????????????????????????😰😰😰😰😰😰😰😰😰😰,False,"[0, 134]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,0,1,False,False,en,en,recent,880843775181963266,880843775181963266,"Ffs, I’m Púa",AtletisPeasant,Somewhere in LA?,"Atléti/Rayo Vallecano/Titans/Chivas fan. Creative writer and noodles enjoyer. We Atléti fans exist. My second account’s out there, somewhere🤔",,[],False,462,864,3,Fri Jun 30 17:41:36 +0000 2017,18811,,,True,False,29952,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625668654309441536/3kWMjU1m_normal.jpg,https://pbs.twimg.com/profile_images/1625668654309441536/3kWMjU1m_normal.jpg,https://pbs.twimg.com/profile_banners/880843775181963266/1676424596,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 13:38:17 +0000 2023,1633099755868782594,1633099755868782594,#NUFC are reportedly in the race to sign Celta Vigo star alongside #MUFC and Real Madrid https://t.co/aSz6SYtwre https://t.co/kjg8t0OAXM,False,"[0, 112]","<a href=""https://about.twitter.com/products/tweetdeck"" rel=""nofollow"">TweetDeck</a>",,,,,,,,,,False,2,22,False,False,en,en,recent,65033270,65033270,The Chronicle,ChronicleNUFC,Newcastle upon Tyne,𝗡𝗲𝘄𝗰𝗮𝘀𝘁𝗹𝗲 𝗨𝗻𝗶𝘁𝗲𝗱 ⚫⚪ News | Live Updates | Opinion | Matches | Transfers  | Rumours | Podcast: https://t.co/r0ijJHj5Ew,https://t.co/EAlYF1Fyqo,"[{'url': 'https://t.co/r0ijJHj5Ew', 'expanded_url': 'http://bit.ly/3vP0TQM', 'display_url': 'bit.ly/3vP0TQM', 'indices': [94, 117]}]",False,151230,266,669,Wed Aug 12 13:22:21 +0000 2009,1377,,,True,True,189158,,False,False,False,9AE4E8,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1567944157913563138/RWEqjlBM_normal.jpg,https://pbs.twimg.com/profile_images/1567944157913563138/RWEqjlBM_normal.jpg,https://pbs.twimg.com/profile_banners/65033270/1661178387,0084B4,BDDCAD,BEBFBD,333333,True,False,False,False,False,False,False,none,[],False,"[{'url': 'https://t.co/EAlYF1Fyqo', 'expanded_url': 'https://www.chroniclelive.co.uk/nufc/', 'display_url': 'chroniclelive.co.uk/nufc/', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 12:57:02 +0000 2023,1633089374626668545,1633089374626668545,"✅Celta Vigo got 1 early card and 2nd in overtime, which made it yet another winner! 🚀☺️💸 https://t.co/FOPDSjkuiQ https://t.co/aVYSTj5nCg",False,"[0, 112]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,True,0,0,False,False,en,en,recent,1589976572790022144,1589976572790022144,FootSock,FootSock7,Proud Europeans,"Team of nerds, building predictive models, crushing the cards and corners betting markets for the big 5 leagues
+
+Tips 216 | Yield 27.25% | +196 Units",https://t.co/FRbaEFPsI0,[],False,166,148,0,Tue Nov 08 13:42:15 +0000 2022,8,,,False,False,243,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1590288004542877696/xoJKRIHL_normal.jpg,https://pbs.twimg.com/profile_images/1590288004542877696/xoJKRIHL_normal.jpg,https://pbs.twimg.com/profile_banners/1589976572790022144/1667994888,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,"[{'url': 'https://t.co/FRbaEFPsI0', 'expanded_url': 'https://bettin.gs/FootSock', 'display_url': 'bettin.gs/FootSock', 'indices': [0, 23]}]",1.6327696067786015e+18,1632769606778601472,Mon Mar 06 15:46:24 +0000 2023,1.6327696067786015e+18,1632769606778601472,"🔥Marginal pick, but we think there is some value here 💰
+
+bet365 can be taken as well at 2.1 👍
+
+1/10 units 💸😄 https://t.co/uzOiPD6TXf",False,"[0, 108]",en,recent,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,1.5899765727900221e+18,1589976572790022144,FootSock,FootSock7,Proud Europeans,"Team of nerds, building predictive models, crushing the cards and corners betting markets for the big 5 leagues
+
+Tips 216 | Yield 27.25% | +196 Units",https://t.co/FRbaEFPsI0,"[{'url': 'https://t.co/FRbaEFPsI0', 'expanded_url': 'https://bettin.gs/FootSock', 'display_url': 'bettin.gs/FootSock', 'indices': [0, 23]}]",[],False,166.0,148.0,0.0,Tue Nov 08 13:42:15 +0000 2022,8.0,,,False,False,243.0,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1590288004542877696/xoJKRIHL_normal.jpg,https://pbs.twimg.com/profile_images/1590288004542877696/xoJKRIHL_normal.jpg,https://pbs.twimg.com/profile_banners/1589976572790022144/1667994888,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,False,0.0,0.0,False,False,False,en,,,,,,,,,,,
+Tue Mar 07 12:45:53 +0000 2023,1633086566615724032,1633086566615724032,"🎥 Abde vs Celta Vigo Highlights 
+
+✍️ @MagicalXavi 
+
+ https://t.co/hK9C7FvbWZ",False,"[0, 76]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,23,236,False,False,en,en,recent,1437847286428667906,1437847286428667906,Barça Spaces,BarcaSpaces,"Barcelona, Spain","The space for all FC Barcelona related news, debates, GIFs, media, Twitter Spaces and more! #BarcaSpaces",,[],False,24648,261,82,Tue Sep 14 18:35:07 +0000 2021,7675,,,True,False,25515,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1500910359414296585/mIKhElXn_normal.jpg,https://pbs.twimg.com/profile_images/1500910359414296585/mIKhElXn_normal.jpg,https://pbs.twimg.com/profile_banners/1437847286428667906/1646679901,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 11:46:38 +0000 2023,1633071657890750466,1633071657890750466,"🚨 Celta Vigo central midfielder Gabri Veiga is courting interest from Manchester United, Arsenal and Newcastle.
+
+His release clause is €40m.
+
+(Source: @MatteMoretto) https://t.co/PRh9UQtxMc",False,"[0, 165]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,0,1,False,False,en,en,recent,1615324487406198784,1615324487406198784,eyes on the net,eyesonthenet,,⚽️Bringing you all the latest news and updates all year round📝,,[],False,35,74,0,Tue Jan 17 12:26:23 +0000 2023,22,,,False,False,439,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1627350443671134217/3mtWN6ho_normal.jpg,https://pbs.twimg.com/profile_images/1627350443671134217/3mtWN6ho_normal.jpg,https://pbs.twimg.com/profile_banners/1615324487406198784/1676823347,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 11:02:19 +0000 2023,1633060503126781960,1633060503126781960,"@GINOLA144 Can I ask why?  As Ranieri &amp; Zdeněk Zeman were better before and after L.E.
+
+Paco Herrera &amp; Eduardo Berizzo were better at Celta Vigo before and after L.E.
+
+Barca are the only team that has been better under L.E than before directly him or after him.",False,"[11, 269]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",1.6330518966750085e+18,1633051896675008515,1.5634503248826982e+18,1563450324882698240,GINOLA144,,,,,False,0,0,False,False,en,en,recent,348511513,348511513,Jordan Thomas Mead,Jordan_T_Mead,,,,[],False,80,444,0,Thu Aug 04 15:11:55 +0000 2011,8224,,,False,False,3692,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1618712503776673792/ZIK1K1VC_normal.jpg,https://pbs.twimg.com/profile_images/1618712503776673792/ZIK1K1VC_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 10:39:36 +0000 2023,1633054786210738180,1633054786210738180,"Real Betis will be the 10th different Spanish side #MUFC have faced competitively since May 2017:
+
+Celta Vigo (x 2 games)
+Real Madrid
+Sevilla (x 3)
+Valencia (x 2)
+Barcelona (x 4)
+Real Sociedad (x 4)
+Granada (x 2)
+Villarreal (x 3)
+Atletico Madrid (x 2)
+Real Betis",False,"[0, 262]","<a href=""https://about.twitter.com/products/tweetdeck"" rel=""nofollow"">TweetDeck</a>",,,,,,,,,,False,1,8,False,False,en,en,recent,1054022201597403139,1054022201597403139,Sam Carney,samcarney_,,@ManUtd Deputy App Editor. Ruud van Nistelrooy and now Lisandro Martinez super fan. Views are all mine!,https://t.co/AKhYqWmEZI,[],False,1108,538,10,Sun Oct 21 14:50:50 +0000 2018,2521,,,True,False,5542,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1582105437888970752/NpznQI6S_normal.jpg,https://pbs.twimg.com/profile_images/1582105437888970752/NpznQI6S_normal.jpg,https://pbs.twimg.com/profile_banners/1054022201597403139/1666038348,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,"[{'url': 'https://t.co/AKhYqWmEZI', 'expanded_url': 'http://www.manutd.com', 'display_url': 'manutd.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 10:27:35 +0000 2023,1633051762146914304,1633051762146914304,Williot Swedberg got on the pitch for Celta Vigo. But he only played 1 minute! https://t.co/1KXq5rEKAX,False,"[0, 78]","<a href=""https://about.twitter.com/products/tweetdeck"" rel=""nofollow"">TweetDeck</a>",,,,,,,,,,True,0,10,False,False,en,en,recent,3303514089,3303514089,🇸🇪,SwedeStats,,Stats | Sweden | IFK Luleå,,[],False,8249,912,68,Sat May 30 09:41:27 +0000 2015,14723,,,False,False,52873,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1146222088539258880/hQr9y--w_normal.jpg,https://pbs.twimg.com/profile_images/1146222088539258880/hQr9y--w_normal.jpg,https://pbs.twimg.com/profile_banners/3303514089/1444530473,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],False,,1.6328646557596058e+18,1632864655759605760,Mon Mar 06 22:04:05 +0000 2023,1.6328646557596058e+18,1632864655759605760,"🇪🇸 | Williot Swedberg har varit fast på Celta Vigos bänk i La Liga sedan 5:e November. 
+
+Idag fick han äntligen chansen igen! 18-åringen byttes in i minut 93 när man kryssade mot Osasuna.",False,"[0, 187]",en,recent,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,1.2347611273194783e+18,1234761127319478272,Talangkollen,talangkollen,,Sidan som följer våra svenska fotbollstalanger. Kontakt: DM eller talangkollen@outlook.com,https://t.co/r14V8pNPpb,"[{'url': 'https://t.co/r14V8pNPpb', 'expanded_url': 'https://linktr.ee/talangkollen', 'display_url': 'linktr.ee/talangkollen', 'indices': [0, 23]}]",[],False,3471.0,32.0,12.0,Tue Mar 03 08:43:01 +0000 2020,1500.0,,,False,False,9679.0,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1574522452541149187/lDTkUxMm_normal.jpg,https://pbs.twimg.com/profile_images/1574522452541149187/lDTkUxMm_normal.jpg,https://pbs.twimg.com/profile_banners/1234761127319478272/1654305121,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,,,,False,0.0,15.0,False,False,,sv,,,,,,,,,,,
+Tue Mar 07 10:14:02 +0000 2023,1633048354555850753,1633048354555850753,Ghana defender Joseph Aidoo puts up top display to help Celta Vigo to share spoils with Osasuna https://t.co/Yc0bXOgvlt,False,"[0, 119]","<a href=""https://www.modernghana.com"" rel=""nofollow"">Modern Ghana</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,51816066,51816066,Modern Ghana,modernghanaweb,"Accra, Ghana","Breaking news, entertainment, sports, politics and everything in-between!",https://t.co/QonVHxJK5e,[],False,37786,859,283,Sun Jun 28 19:30:40 +0000 2009,45,,,False,False,612471,,False,False,False,EAEAEA,http://abs.twimg.com/images/themes/theme19/bg.gif,https://abs.twimg.com/images/themes/theme19/bg.gif,False,http://pbs.twimg.com/profile_images/1483880828274937860/OhYB6RTL_normal.jpg,https://pbs.twimg.com/profile_images/1483880828274937860/OhYB6RTL_normal.jpg,https://pbs.twimg.com/profile_banners/51816066/1677023251,990000,000000,FFFFFF,000000,False,False,False,False,False,False,False,none,[],False,"[{'url': 'https://t.co/QonVHxJK5e', 'expanded_url': 'https://www.modernghana.com', 'display_url': 'modernghana.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 09:58:52 +0000 2023,1633044537017769985,1633044537017769985,@Elcano6791 @PaulJohnDykes @ACSOMPOD Celta Vigo then Benfica and also had a loan spell at Bradford but never hit the heights like done with sporting lisbon and celtic again after he left,False,"[37, 186]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",1.6328756460524462e+18,1632875646052446208,8.714273853584712e+17,871427385358471168,Elcano6791,,,,,False,1,1,False,False,en,en,recent,1061785888387162113,1061785888387162113,Darren McDonnell,DarrenMcDonnel8,"Airdrie, Scotland",Legend lol,,[],False,72,412,0,Mon Nov 12 01:00:57 +0000 2018,3999,,,True,False,1954,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1621968955375075330/5zYZzehi_normal.jpg,https://pbs.twimg.com/profile_images/1621968955375075330/5zYZzehi_normal.jpg,https://pbs.twimg.com/profile_banners/1061785888387162113/1662284502,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 09:03:13 +0000 2023,1633030530257113089,1633030530257113089,"We all know that betting industry gonna be disrupted by decentralized platform and mgl I really like to bet on @bookmakerxyz 
+I bet 6 USDC on Osasuna - Celta Vigo, Full Time Result: X
+ https://t.co/5wKTZUU4WY
+https://t.co/CNr8ljBbuI https://t.co/5YvRskj4hL",False,"[0, 232]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1381297088919707648,1381297088919707648,Genghis Coin,Genghis_Coins,Everywhere,Not your average bowman,,[],False,92,1314,9,Sun Apr 11 17:24:36 +0000 2021,4529,,,False,False,634,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1440740639138668545/xHqag6dh_normal.jpg,https://pbs.twimg.com/profile_images/1440740639138668545/xHqag6dh_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 09:00:00 +0000 2023,1633029720731422720,1633029720731422720,"💥BOOM!🔥 Our Bet of the Day on Monday paid 3.00 with Osasuna vs Celta Vigo drawing.
+
+📈 Get our Bet of the Day! 👇
+
+➡️ https://t.co/yWY3KhbFvn
+
+#Tips #freetips 🔞 18+ BeGambleAware",False,"[0, 176]","<a href=""https://about.twitter.com/products/tweetdeck"" rel=""nofollow"">TweetDeck</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,771187179313782786,771187179313782786,FreeTips - Betting Tips from FreeTips.com,freetips,United Kingdom,"Free betting tips posted here and on our website daily, plus news, insight and more across a range of sports.
+
+🔞 18+. Begambleaware.",https://t.co/dpDEbeFsUb,[],False,4201,1472,16,Thu Sep 01 03:25:26 +0000 2016,187,,,False,False,27739,,False,False,False,000000,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1224596451923238912/BzH8xg-d_normal.jpg,https://pbs.twimg.com/profile_images/1224596451923238912/BzH8xg-d_normal.jpg,https://pbs.twimg.com/profile_banners/771187179313782786/1580801480,1B95E0,000000,000000,000000,False,False,False,False,False,False,False,none,[],False,"[{'url': 'https://t.co/dpDEbeFsUb', 'expanded_url': 'http://www.freetips.com', 'display_url': 'freetips.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 08:00:49 +0000 2023,1633014825717571585,1633014825717571585,"Top 10 searches in Mexico 🇲🇽
+
+1️⃣ Dia de la mujer
+2️⃣ 8 de marzo
+3️⃣ Sassuolo vs Cremonese
+4️⃣ Dia Internacional de la Mujer
+5️⃣ Bayern vs PSG
+6️⃣ Osasuna vs Celta de Vigo
+7️⃣ Toluca
+8️⃣ Chelsea vs Dortmund
+9️⃣ Santiago Giménez
+🔟 Resiliencia",False,"[0, 241]","<a href=""https://example.com"" rel=""nofollow"">dailysearchtrends</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1579919095285293057,1579919095285293057,Daily Search Trends 📈,dlysearchtrends,,"Daily Google search trends once a day, all over the world. 🔎📈🌎
+Automated account. 🤖",,[],False,1840,0,5,Tue Oct 11 19:38:15 +0000 2022,0,,,False,False,12596,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1579936101925535744/-uNmo-TJ_normal.jpg,https://pbs.twimg.com/profile_images/1579936101925535744/-uNmo-TJ_normal.jpg,https://pbs.twimg.com/profile_banners/1579919095285293057/1665521095,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 08:00:37 +0000 2023,1633014778829369347,1633014778829369347,"Top 10 searches in Chile 🇨🇱
+
+1️⃣ Chelsea vs Dortmund
+2️⃣ Cristian Garín
+3️⃣ Boca Juniors vs Defensa y Justicia
+4️⃣ Dia de la Mujer
+5️⃣ Barnechea vs Iquique
+6️⃣ Ranking ATP
+7️⃣ San Luis
+8️⃣ Osasuna vs Celta de Vigo
+9️⃣ Indian Wells
+🔟 Lluvia de gusanos en China",False,"[0, 259]","<a href=""https://example.com"" rel=""nofollow"">dailysearchtrends</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1579919095285293057,1579919095285293057,Daily Search Trends 📈,dlysearchtrends,,"Daily Google search trends once a day, all over the world. 🔎📈🌎
+Automated account. 🤖",,[],False,1840,0,5,Tue Oct 11 19:38:15 +0000 2022,0,,,False,False,12596,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1579936101925535744/-uNmo-TJ_normal.jpg,https://pbs.twimg.com/profile_images/1579936101925535744/-uNmo-TJ_normal.jpg,https://pbs.twimg.com/profile_banners/1579919095285293057/1665521095,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 07:58:25 +0000 2023,1633014225663606784,1633014225663606784,"🔥Hot Match results on Monday✅
+https://t.co/RnhLhmls3e
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 #PL
+Brentford 3⃣-2⃣ Fulham
+
+🇪🇸#LaLigaSantander 
+Osasuna 0⃣-0⃣ Celta Vigo
+
+🇮🇹#SerieA 
+Sassuolo 3⃣-2⃣ Cremonese
+Torino 1⃣-0⃣ Bologna
+
+🇮🇩 #BRILiga1
+Bologna 0⃣-1⃣ Bhayangkara Solo FC https://t.co/Dp2JMCdUiy",False,"[0, 241]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,744793029584662529,744793029584662529,Bola Mobile,Bola002_Mobile,Indonesia,"Welcome to the brand new Goaloo. The old one is about to expire, please bookmark our latest domain in advance: PC: https://t.co/LcnysV0Um6 Mobi: https://t.co/FVG3eDdgYM",https://t.co/SHdY8Rnpq4,"[{'url': 'https://t.co/LcnysV0Um6', 'expanded_url': 'http://bola001.com', 'display_url': 'bola001.com', 'indices': [115, 138]}, {'url': 'https://t.co/FVG3eDdgYM', 'expanded_url': 'http://boal002.com', 'display_url': 'boal002.com', 'indices': [145, 168]}]",False,1729,1859,5,Mon Jun 20 07:24:30 +0000 2016,1461,,,True,False,3794,,False,False,False,000000,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1625758869053124610/fkueuLZs_normal.png,https://pbs.twimg.com/profile_images/1625758869053124610/fkueuLZs_normal.png,https://pbs.twimg.com/profile_banners/744793029584662529/1676446853,91D2FA,000000,000000,000000,False,True,False,False,False,False,False,none,[],False,"[{'url': 'https://t.co/SHdY8Rnpq4', 'expanded_url': 'http://bola002.com', 'display_url': 'bola002.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 07:46:17 +0000 2023,1633011169450418176,1633011169450418176,"TRANSFER 🚨 : Celta Vigo mid fielder Gabri veiga is on #mufc radar as a backup for Bruno Fernandes.
+
++ Bruno is the only player with the highest minutes played in Europe. https://t.co/st3HoedimX",False,"[0, 169]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,False,1,14,False,False,en,en,recent,1323001766670176261,1323001766670176261,🇪SPN ❁,Espnutd,BACKUP ⤵️• 𝘋𝘌𝘈𝘓𝘚 📨 ⤴️ ,"📊•𝓐𝓵𝓵 𝓽𝓱𝓲𝓷𝓰𝓼 𝓼𝓹𝓸𝓻𝓽𝓼 • 𝓐𝓵𝓵 𝓽𝓱𝓲𝓷𝓰𝓼 𝓾𝓷𝓲𝓽𝓮𝓭 📰🗞️
+•𝓣𝓻𝓸𝓹𝓱𝓲𝓮𝓼 -🥇🏆.
+Handled by @Splendorobasi1 & @Kingdavidobasii",,[],False,9104,7180,2,Sun Nov 01 20:40:24 +0000 2020,163998,,,True,False,16763,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1627551696896270336/y7tpuRE5_normal.jpg,https://pbs.twimg.com/profile_images/1627551696896270336/y7tpuRE5_normal.jpg,https://pbs.twimg.com/profile_banners/1323001766670176261/1678125342,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 06:46:17 +0000 2023,1632996071012958210,1632996071012958210,"2022-23 #LaLigaSantander result:
+
+Osasuna 0 - 0 Celta Vigo  
+
+Spoils were shared as @osasuna_en and @RCCelta ended goalless. SG https://t.co/BFeZ4BMQ4Y",False,"[0, 127]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,2437050074,2437050074,RISEfmNEWS,RISEfmNEWS,,,,[],False,3490,205,8,Thu Apr 10 13:51:30 +0000 2014,572,,,False,False,16599,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/623850594864726017/qzq9NHqP_normal.jpg,https://pbs.twimg.com/profile_images/623850594864726017/qzq9NHqP_normal.jpg,https://pbs.twimg.com/profile_banners/2437050074/1589951782,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 05:47:31 +0000 2023,1632981281263820803,1632981281263820803,"@bossolamilekan1 0102939708
+Access bank.
+
+I also played the game yesterday with my last cash, but was told to add or remove one so I added a 0.5 (celta vigo) and lost 😔",False,"[17, 168]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",1.6329769568231588e+18,1632976956823158786,9.722515054567096e+17,972251505456709633,bossolamilekan1,,,,,False,0,0,False,False,en,en,recent,923575691601498113,923575691601498113,Black Of Lagos 🖤,BaruwaWhalhey,"Lagos, Nigeria",,,[],False,21,216,0,Thu Oct 26 15:42:58 +0000 2017,887,,,False,False,1206,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615831395925884929/wRJdjVI4_normal.jpg,https://pbs.twimg.com/profile_images/1615831395925884929/wRJdjVI4_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 05:00:10 +0000 2023,1632969366198181890,1632969366198181890,Arsenal chief Edu considers whether to make move for Celta Vigo whiz Veiga https://t.co/RKgCNsnEje,False,"[0, 98]","<a href=""https://www.hootsuite.com"" rel=""nofollow"">Hootsuite Inc.</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,22101064,22101064,Tribal Football,tribalfootball,"London, UK",Football is life. It never stops. Neither do we.,http://t.co/RFE33PC4OS,[],False,44433,1658,723,Fri Feb 27 03:17:14 +0000 2009,192,,,True,False,225705,,False,False,False,000000,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/622617000401965056/9TT3HiGP_normal.png,https://pbs.twimg.com/profile_images/622617000401965056/9TT3HiGP_normal.png,,0084B4,FFFFFF,DDFFCC,333333,False,False,False,False,False,False,False,none,[],False,"[{'url': 'http://t.co/RFE33PC4OS', 'expanded_url': 'http://www.tribalfootball.com', 'display_url': 'tribalfootball.com', 'indices': [0, 22]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 04:59:19 +0000 2023,1632969152251023360,1632969152251023360,"#LaLiga 🇪🇸 | Jornada 24 📝
+
+Osasuna 0️⃣-0️⃣ Celta de Vigo
+
+#OsasunaCelta ⚽ https://t.co/W5APMeHShP",False,"[0, 73]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,97759790,97759790,Solo ⚽ Fútbol (Héctor),SoloFutbolPlus,"León, Guanajuato, México",🇲🇽 15 Años informándote toda la actualidad del Planeta Fútbol. 🇵🇪  Publicidad / Ventas: ventas@solofutbol.com.mx,https://t.co/BCZAwy0ljF,[],False,92643,82541,227,Fri Dec 18 22:19:09 +0000 2009,43613,,,True,False,137474,,False,False,False,FCEBB6,http://abs.twimg.com/images/themes/theme15/bg.png,https://abs.twimg.com/images/themes/theme15/bg.png,True,http://pbs.twimg.com/profile_images/1608902629098426368/Ylu_6pQ2_normal.jpg,https://pbs.twimg.com/profile_images/1608902629098426368/Ylu_6pQ2_normal.jpg,https://pbs.twimg.com/profile_banners/97759790/1522641877,1B95E0,FFFFFF,78C0A8,5E412F,True,True,False,False,False,False,False,none,[],False,"[{'url': 'https://t.co/BCZAwy0ljF', 'expanded_url': 'http://www.solofutbol.com.mx', 'display_url': 'solofutbol.com.mx', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1027fcd83c280af3,https://api.twitter.com/1.1/geo/id/1027fcd83c280af3.json,city,Lagos de Moreno,"Lagos de Moreno, Jalisco",MX,Mexico,[],Polygon,"[[[-102.16888, 21.1778369], [-101.568873, 21.1778369], [-101.568873, 21.8892021], [-102.16888, 21.8892021]]]",1.6329691522510234e+18
+Tue Mar 07 04:04:45 +0000 2023,1632955419877416960,1632955419877416960,"🚨Gabriel Veiga🇪🇸 is attracting interest from Manchester United, Real Madrid, Arsenal and Newcastle. 
+The central midfielder has a €40m release clause in his Celta Vigo contract.
+
+(@MatteMoretto) https://t.co/pnx4ytuUbk",False,"[0, 194]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,7,78,False,False,en,en,recent,1399351969144315904,1399351969144315904,Adjor🔱,thekingadjor,Football World,GOD & Everything FOOTBALL🇬🇭🇧🇪.CAF Licensed Coach.Sports Anchor for @kwadwosheldon On #Prrrr🌍Santa⚫️⚪️.Residential Agent to @JaliluMudasiru🇬🇭🇮🇹,,[],False,8104,3022,2,Mon May 31 13:08:27 +0000 2021,26407,,,True,False,30600,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625994036027727875/THQlUFxy_normal.jpg,https://pbs.twimg.com/profile_images/1625994036027727875/THQlUFxy_normal.jpg,https://pbs.twimg.com/profile_banners/1399351969144315904/1656958164,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 03:24:34 +0000 2023,1632945308052365313,1632945308052365313,"🔍 LOAN WATCH: Osasuna 0-0 Celta Vigo.
+
+Ez Abde started and played 77 minutes. He completed the most dribbles (8) and won the most duels (12) in the match.",False,"[0, 154]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,False,34,1160,False,False,en,en,recent,551245352,551245352,Barça Buzz,Barca_Buzz,,"📣 Sharing what's Buzzing with Barça. Hub for all FC Barcelona related Trustworthy News, Transfers, Stats, Quotes, Media, Trivia, La Masia.
+📩 DMs always open.",https://t.co/MCIDjzaQFi,[],False,130623,268,590,Wed Apr 11 19:16:38 +0000 2012,5730,,,False,False,71392,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1575580158186369024/fE4OqdjY_normal.jpg,https://pbs.twimg.com/profile_images/1575580158186369024/fE4OqdjY_normal.jpg,https://pbs.twimg.com/profile_banners/551245352/1613413020,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,"[{'url': 'https://t.co/MCIDjzaQFi', 'expanded_url': 'http://barcabuzz.com', 'display_url': 'barcabuzz.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 03:15:33 +0000 2023,1632943038199918592,1632943038199918592,Brentford beats Fulham in the English Premier League . Osasuna played goal-less draw against Celta Vigo in the La Liga . Bangladesh beats England in the third ODI to lose the series 2-1 as Shakib became Man of the match and Adil adjudged Man of the series #SportsNews,False,"[0, 267]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,108657243,108657243,Keep Lakshmi Vrat,JAIYOGMAYA,Lakshmi ,JAI SHRI MAHAKAAL .my name is pankaj kandwal.i am biggest fan of #SalmanKhan . see https://t.co/L6azTtUcjW and https://t.co/7v7HHUbb2I,https://t.co/efnSDcqwrd,"[{'url': 'https://t.co/L6azTtUcjW', 'expanded_url': 'http://www.maavaishnodevi.org', 'display_url': 'maavaishnodevi.org', 'indices': [83, 106]}, {'url': 'https://t.co/7v7HHUbb2I', 'expanded_url': 'http://www.shanidev.com', 'display_url': 'shanidev.com', 'indices': [111, 134]}]",False,216,653,16,Tue Jan 26 17:00:35 +0000 2010,3498,,,True,False,17041,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1376257794668564480/rKAPXS1S_normal.jpg,https://pbs.twimg.com/profile_images/1376257794668564480/rKAPXS1S_normal.jpg,https://pbs.twimg.com/profile_banners/108657243/1598926536,0084B4,FFFFFF,DDEEF6,333333,True,True,False,False,False,False,False,none,[],,"[{'url': 'https://t.co/efnSDcqwrd', 'expanded_url': 'https://mahalakshmi-temple.com', 'display_url': 'mahalakshmi-temple.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 02:01:35 +0000 2023,1632924424843276293,1632924424843276293,"@pelesburner @deivi_cisarro @TobesWong Warra. Look at what I see here. Golden generations stacked equally.?
+
+Ofc they play for the big teams. All I'm saying is that the big boys and fodder teams are astronomically apart. Not even Prime Barca were this off from Eibar or CELTA Vigo
+
+https://t.co/qLHMMhMC2R",False,"[39, 305]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",1.6329236233706783e+18,1632923623370678274,1.4371835907819643e+18,1437183590781964290,pelesburner,,,,,True,0,0,False,False,en,en,recent,1605076003956854784,1605076003956854784,Messiah,JanuaryB20,"In your head, rent free","Own all of Pendu FC including @TmtmGmt22 @aditi_barca
+I speak only facts. Pendu FC will not be spared
+#16-20",,[],False,18,34,0,Tue Dec 20 05:42:13 +0000 2022,68,,,False,False,2116,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1617549597123186689/RbICGkBY_normal.jpg,https://pbs.twimg.com/profile_images/1617549597123186689/RbICGkBY_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,1.6329190291188244e+18,1632919029118824448,Tue Mar 07 01:40:09 +0000 2023,1.6329190291188244e+18,1632919029118824448,@JanuaryB20 @TobesWong They're fodder now. Do you think they'd be fodder if a stacked Golden Generation of Brazilians was distributed amongst those teams? Obviously not. Use logic here. Anything to do with the state of Brazilian football now has 0 (ZERO) correlation to Brazilian football in the 60s.,False,"[23, 300]",en,recent,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",1.632918178035798e+18,1632918178035798017,1.6050760039568548e+18,1605076003956854784,JanuaryB20,1.4371835907819643e+18,1437183590781964290,Mihir 🇦🇷 / IG: @mihirfooty10,pelesburner,,Football/Basketball Historian | Pelé/Puskás/Messi | Bron/Kareem/West | @mihirfooty10 on Instagram | Stats for Past & Present Footballers 👇🏾,https://t.co/t9gaduwbk2,"[{'url': 'https://t.co/t9gaduwbk2', 'expanded_url': 'https://docs.google.com/spreadsheets/d/15_FxRLZ3Rs4PMneMNE_oS1qrSQIk_5fKUZbNDqhfF_o/edit', 'display_url': 'docs.google.com/spreadsheets/d…', 'indices': [0, 23]}]",[],False,1718.0,114.0,8.0,Sun Sep 12 22:37:33 +0000 2021,13738.0,,,True,False,19441.0,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1632909740429971456/Ia0ww1dD_normal.jpg,https://pbs.twimg.com/profile_images/1632909740429971456/Ia0ww1dD_normal.jpg,https://pbs.twimg.com/profile_banners/1437183590781964290/1662236441,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,False,0.0,0.0,False,False,,en,,,,,,,,,,,
+Tue Mar 07 00:13:24 +0000 2023,1632897199280455682,1632897199280455682,"@mcford19 @AlexiLalas Likewise, we send Luca de la Torre to Celta de Vigo and the opposite happens; he’s more of an asset to Celta than Cabral would be to any MLS team.",False,"[22, 168]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",1.6328388320044073e+18,1632838832004407296,565843204.0,565843204,mcford19,,,,,False,0,1,False,False,en,en,recent,1458673975110905856,1458673975110905856,𝘙𝘢𝘪𝘥𝘦𝘳 𝘓𝘪𝘴𝘢⁷ (6th),raidurr_leesuh,"𝘓𝘰𝘴 𝘈𝘯𝘨𝘦𝘭𝘦𝘴, 𝘊𝘈",Certified fan - 𝘓𝘖𝘚 𝘈𝘕𝘎𝘌𝘓𝘌𝘚 𝘙𝘈𝘐𝘋𝘌𝘙𝘚/𝘊𝘓𝘜𝘉 𝘈𝘔𝘌́𝘙𝘐𝘊𝘈 !!! #RaiderNation | Sour 24/7 - I’m an Anon |,,[],False,265,56,1,Thu Nov 11 05:52:44 +0000 2021,11969,,,False,False,16107,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1620999677834313728/7G86xdtI_normal.jpg,https://pbs.twimg.com/profile_images/1620999677834313728/7G86xdtI_normal.jpg,https://pbs.twimg.com/profile_banners/1458673975110905856/1669266080,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 00:08:26 +0000 2023,1632895946605600769,1632895946605600769,"🏆 FOOTBALL LIVE STREAM ONLINE
+
+Brentford vs Fulham
+Sassuolo vs Cremonese
+Osasuna vs Celta Vigo
+Torino vs Bologna
+
+If Stream Stops⤵️🔔
+Watch Here:@Dailysportshdtv 
+    
+Follow @Dailysportshdtv to update stream
+https://t.co/Sdiz1O37ty",False,"[0, 231]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,1,1,False,False,en,en,recent,1496815620792659971,1496815620792659971,FIFA World Cup Live,Dailysportshdtv,,"If Stream Stops 🔔
+🔴𝐆𝐨 𝐋𝐢𝐯𝐞📺 https://t.co/5CtObTixXp
+
+Watch All Sports Live Stream Online. How To Watch Sports Live Stream Online.",https://t.co/8hc3YexGOp,"[{'url': 'https://t.co/5CtObTixXp', 'expanded_url': 'http://footballlive.online', 'display_url': 'footballlive.online', 'indices': [28, 51]}]",False,446,34,1,Thu Feb 24 11:53:53 +0000 2022,330,,,False,False,1413,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1496821419396993025/leSbmr4B_normal.jpg,https://pbs.twimg.com/profile_images/1496821419396993025/leSbmr4B_normal.jpg,https://pbs.twimg.com/profile_banners/1496815620792659971/1645705149,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,"[{'url': 'https://t.co/8hc3YexGOp', 'expanded_url': 'https://footballlive.online', 'display_url': 'footballlive.online', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 23:46:26 +0000 2023,1632890413009780738,1632890413009780738,🚨 CA Osasuna has requested a clarification from the Technical Committee of Referees of la Liga regarding the cancelled goal scored by 🇲🇦 Ez Abde in tonight's match against Real Club Celta de Vigo. https://t.co/Da8flZ0O0U,False,"[0, 196]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,False,6,77,False,False,en,en,recent,1500067210735333382,1500067210735333382,𝐌𝐨𝐫𝐨𝐜𝐜𝐚𝐧 𝐆𝐑𝐈𝐍𝐓𝐀,MoroccanGrinta,Royaume du Maroc,🇲🇦 Football opinions of an Atlas Lion 🦁💚❤️,https://t.co/nax2HW6sHz,[],False,5788,951,12,Sat Mar 05 11:14:47 +0000 2022,3315,,,True,False,3288,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1632919166532321281/514bqmbW_normal.jpg,https://pbs.twimg.com/profile_images/1632919166532321281/514bqmbW_normal.jpg,https://pbs.twimg.com/profile_banners/1500067210735333382/1646479073,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,"[{'url': 'https://t.co/nax2HW6sHz', 'expanded_url': 'https://linktr.ee/moroccangrinta', 'display_url': 'linktr.ee/moroccangrinta', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 23:37:45 +0000 2023,1632888225680461825,1632888225680461825,"todays early card 😇
+
+Struff/Albot parlay -105 ✅✅
+Brentford moneyline +100 ✅✅
+Celta de vigo o2 -112
+
+#SportsGambling",False,"[0, 115]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,1,4,False,False,en,en,recent,1216862345982402561,1216862345982402561,BettingWithLes,LesliesLocks,Texas / Nevada,"Finding the best bet is hard but I make it look easy! Crypto, credit repair & sports services available 😚 Queeeen of betting👸🏻",https://t.co/gOPwBiocps,[],False,2817,45,29,Mon Jan 13 23:19:47 +0000 2020,5844,,,False,False,5130,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1531063912682033154/I1lMi7GD_normal.jpg,https://pbs.twimg.com/profile_images/1531063912682033154/I1lMi7GD_normal.jpg,https://pbs.twimg.com/profile_banners/1216862345982402561/1663917787,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,"[{'url': 'https://t.co/gOPwBiocps', 'expanded_url': 'http://bit.ly/LesLocks', 'display_url': 'bit.ly/LesLocks', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 23:22:23 +0000 2023,1632884360310292481,1632884360310292481,"Arsenal news🔴⚪️
+
+The Gunners have their eye on Gabri Veiga from Celta de Vigo. Veiga has a release clause of about €40 million, which Arsenal are considering activating.
+
+Manchester United and Newcastle United are also considering making a bid for Veiga. https://t.co/VEiscTqoej",False,"[0, 254]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1623660654291832833,1623660654291832833,Football Live,FF00tballUpdate,,"Live transfer updates for the Beautiful Game 
+
+For business inquiries: footballlivebusiness@gmail.com",,[],False,7,49,1,Thu Feb 09 12:31:03 +0000 2023,5,,,False,False,189,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625585505399103521/hur75aws_normal.jpg,https://pbs.twimg.com/profile_images/1625585505399103521/hur75aws_normal.jpg,https://pbs.twimg.com/profile_banners/1623660654291832833/1675946078,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 23:13:25 +0000 2023,1632882103669997569,1632882103669997569,I would like a signed letter of apology from every player and member of staff involved in that Celta Vigo Osasuna game for making me watch that crappp,False,"[0, 150]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,0,4,False,False,en,en,recent,1472258920278380547,1472258920278380547,21ème arrondissement de Paris,189nlne,"Frankfurt am Main, Deutschland",Bundesliga hater,,[],False,2211,800,16,Sat Dec 18 17:34:20 +0000 2021,12424,,,False,False,14777,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1627380359514972160/Vo6kbooB_normal.jpg,https://pbs.twimg.com/profile_images/1627380359514972160/Vo6kbooB_normal.jpg,https://pbs.twimg.com/profile_banners/1472258920278380547/1677010305,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 23:01:42 +0000 2023,1632879156466794499,1632879156466794499,"Iván Villar has stepped in very well since the injury for Agustín Marchesín at Celta Vigo. Man of the match tonight in my eyes in their 0-0 draw with Osasuna following a string of fine saves. That last minute stop from Pablo Ibáñez was excellent, quick reflexes to get across.",False,"[0, 276]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,732427747,732427747,Josh Bunting,Buntingfootball,Northern Ireland,Sports Journalist cover @ArsenalWFC for @islingtongztte. Have a love for @sunderlandafc @cliftonvilleFC,,[],False,12088,8029,81,Thu Aug 02 08:17:21 +0000 2012,74749,,,True,True,223897,,False,False,False,000000,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1620323025726881793/Mn9qLGGU_normal.jpg,https://pbs.twimg.com/profile_images/1620323025726881793/Mn9qLGGU_normal.jpg,https://pbs.twimg.com/profile_banners/732427747/1678038045,18B300,000000,000000,000000,False,True,False,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:45:14 +0000 2023,1632875008975593472,1632875008975593472,"🎥 Osasuna vs Celta Vigo 0-0
+Extended Highlights #video
+https://t.co/NZReSUBuuF",False,"[0, 78]","<a href=""https://euroforia.net"" rel=""nofollow"">Klip Eleven</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,263166414,263166414,Klip ELEVEN,KlipEleven,,Republik Ngapak!,,[],False,390,12,1,Wed Mar 09 14:33:35 +0000 2011,9,,,False,False,2067,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1578513137007235072/MfHux0s2_normal.jpg,https://pbs.twimg.com/profile_images/1578513137007235072/MfHux0s2_normal.jpg,https://pbs.twimg.com/profile_banners/263166414/1633638406,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:43:04 +0000 2023,1632874466656092160,1632874466656092160,"THREE THINGS
+
+1⃣ CA Osasuna and RC Celta de Vigo draw 0-0 at El Sadar
+
+2⃣ Sergio Canales trained with the squad and seems ready to face Man Utd
+
+3⃣ Listen to our recap podcast with everything about MD24 here !👇
+
+https://t.co/3zV1J3gBc0
+
+#LLL
+🧡🇪🇸⚽ https://t.co/ow538DcdZ4",False,"[0, 246]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,8,False,False,en,en,recent,893992313806102531,893992313806102531,La Liga Lowdown 🧡🇪🇸⚽️,LaLigaLowdown,,"Your home for Spanish football in English with reporters based all over Spain. Pod, tweet, web. Clients: @SuperSportTV, @Squawka, @BetUS_Official. #LLL 🧡🇪🇸⚽️",https://t.co/JMnD0pqHgF,[],False,21663,547,342,Sun Aug 06 00:29:11 +0000 2017,17230,,,True,False,56056,,False,False,False,000000,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1481334512458121216/lnV0pil2_normal.jpg,https://pbs.twimg.com/profile_images/1481334512458121216/lnV0pil2_normal.jpg,https://pbs.twimg.com/profile_banners/893992313806102531/1609861079,FF691F,000000,000000,000000,False,False,False,False,False,False,False,none,[],False,"[{'url': 'https://t.co/JMnD0pqHgF', 'expanded_url': 'http://LLLonline.substack.com', 'display_url': 'LLLonline.substack.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:30:23 +0000 2023,1632871273264041984,1632871273264041984,"Osasuna and Celta de Vigo played out a without goals draw on Monday, 0x0. Amongst the starting XI Luca de la Torre were.
+#Osasuna #CeltadeVigo  https://t.co/kpFlhRNiWO",False,"[0, 167]","<a href=""https://www.soccerzz.com"" rel=""nofollow"">soccerzz</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1522236558904016897,1522236558904016897,Soccer ZZ,soccerzzcom,United States,The biggest soccer database in the world,https://t.co/YpTCZDDKwg,[],False,57,159,2,Thu May 05 15:27:43 +0000 2022,15,,,False,False,4913,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1605561595815493632/3JCsB1Uz_normal.png,https://pbs.twimg.com/profile_images/1605561595815493632/3JCsB1Uz_normal.png,https://pbs.twimg.com/profile_banners/1522236558904016897/1671630690,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,"[{'url': 'https://t.co/YpTCZDDKwg', 'expanded_url': 'http://www.soccerzz.com', 'display_url': 'soccerzz.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:26:02 +0000 2023,1632870180555485184,1632870180555485184,"England Vs Italy – Six Nations 2023: Red And Whites Eye First Win – Free Streaming | https://t.co/hAgw3t4Nfa
+https://t.co/4UK49J2Vzo",False,"[0, 132]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1596346795063287809,1596346795063287809,UK TRENDS,UKTRENDS3,United Kingdom,What's Trending In UK Right Now,https://t.co/3OVmYuFjn4,[],False,0,1,0,Sat Nov 26 03:35:20 +0000 2022,1,,,False,False,6237,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1596352753227288577/0g9vI7CW_normal.jpg,https://pbs.twimg.com/profile_images/1596352753227288577/0g9vI7CW_normal.jpg,https://pbs.twimg.com/profile_banners/1596346795063287809/1669435166,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,"[{'url': 'https://t.co/3OVmYuFjn4', 'expanded_url': 'https://uktrends.blogdady.com', 'display_url': 'uktrends.blogdady.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:25:33 +0000 2023,1632870056366309377,1632870056366309377,"🗞️ GAME RECAP | Osasuna and Celta de Vigo play to a 0-0 draw.
+
+#LetsGoRojillos | #OsasunaCelta",False,"[0, 94]","<a href=""https://twitter.com"" rel=""nofollow"">Twitter for Advertisers</a>",,,,,,,,,,False,0,3,False,False,en,en,recent,961658047889362946,961658047889362946,C. A. OSASUNA,osasuna_en,Chartered Community of Navarre,"Official account of C. A. Osasuna.
+
+🚩 ESP: @Osasuna /EUS: @Osasuna_eus /ARAB: @Osasuna_Arab
+
+🚩 Women's team: @Osasuna_Fem",https://t.co/aRGWv9ZUnT,[],False,6628,188,168,Thu Feb 08 17:48:40 +0000 2018,799,,,True,True,6727,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1583117690511712258/b7UtjshK_normal.jpg,https://pbs.twimg.com/profile_images/1583117690511712258/b7UtjshK_normal.jpg,https://pbs.twimg.com/profile_banners/961658047889362946/1674815846,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,"[{'url': 'https://t.co/aRGWv9ZUnT', 'expanded_url': 'http://linktr.ee/CAOsasuna', 'display_url': 'linktr.ee/CAOsasuna', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:06:04 +0000 2023,1632865154651103236,1632865154651103236,"Passing networks, individual player passes and defensive actions for Celta Vigo. Match date: 2023-03-06. #CeltaVigo https://t.co/Ghna4p3TZG",False,"[0, 115]","<a href=""http://www.mclachbot.com"" rel=""nofollow"">mclachbot_prod</a>",1.6328651409440113e+18,1632865140944011264,1.4895190938583777e+18,1489519093858377732,mclachbot,,,,,False,0,0,False,False,en,en,recent,1489519093858377732,1489519093858377732,McLachBot,mclachbot,Cobham Server Room,"Robotic Head Of International Scouting for Chelsea Football Club (parody).
+
+Built by @ChicagoDmitry.  DM suggestions directly to him.",https://t.co/1DzNVCLY1f,[],False,919,1,20,Fri Feb 04 08:40:14 +0000 2022,22,,,False,False,12002,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625635168324050944/Q4K7dWO1_normal.jpg,https://pbs.twimg.com/profile_images/1625635168324050944/Q4K7dWO1_normal.jpg,https://pbs.twimg.com/profile_banners/1489519093858377732/1644092898,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,"[{'url': 'https://t.co/1DzNVCLY1f', 'expanded_url': 'http://www.mclachbot.com', 'display_url': 'mclachbot.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:05:55 +0000 2023,1632865117262979074,1632865117262979074,"#LaLiga player rankings for Osasuna vs Celta Vigo
+Date: 2023-03-06
+#Osasuna #CeltaVigo https://t.co/weUvT6bgQ9",False,"[0, 86]","<a href=""http://www.mclachbot.com"" rel=""nofollow"">mclachbot_prod</a>",1.6328651012114678e+18,1632865101211467777,1.4895190938583777e+18,1489519093858377732,mclachbot,,,,,False,0,0,False,False,en,en,recent,1489519093858377732,1489519093858377732,McLachBot,mclachbot,Cobham Server Room,"Robotic Head Of International Scouting for Chelsea Football Club (parody).
+
+Built by @ChicagoDmitry.  DM suggestions directly to him.",https://t.co/1DzNVCLY1f,[],False,919,1,20,Fri Feb 04 08:40:14 +0000 2022,22,,,False,False,12002,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625635168324050944/Q4K7dWO1_normal.jpg,https://pbs.twimg.com/profile_images/1625635168324050944/Q4K7dWO1_normal.jpg,https://pbs.twimg.com/profile_banners/1489519093858377732/1644092898,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,"[{'url': 'https://t.co/1DzNVCLY1f', 'expanded_url': 'http://www.mclachbot.com', 'display_url': 'mclachbot.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:05:51 +0000 2023,1632865101211467777,1632865101211467777,"#LaLiga match summary for Osasuna vs Celta Vigo
+Date: 2023-03-06
+#Osasuna #CeltaVigo https://t.co/TutgcjCdfk",False,"[0, 84]","<a href=""http://www.mclachbot.com"" rel=""nofollow"">mclachbot_prod</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1489519093858377732,1489519093858377732,McLachBot,mclachbot,Cobham Server Room,"Robotic Head Of International Scouting for Chelsea Football Club (parody).
+
+Built by @ChicagoDmitry.  DM suggestions directly to him.",https://t.co/1DzNVCLY1f,[],False,919,1,20,Fri Feb 04 08:40:14 +0000 2022,22,,,False,False,12002,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625635168324050944/Q4K7dWO1_normal.jpg,https://pbs.twimg.com/profile_images/1625635168324050944/Q4K7dWO1_normal.jpg,https://pbs.twimg.com/profile_banners/1489519093858377732/1644092898,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,"[{'url': 'https://t.co/1DzNVCLY1f', 'expanded_url': 'http://www.mclachbot.com', 'display_url': 'mclachbot.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:04:44 +0000 2023,1632864819391889408,1632864819391889408,@ReusTouch Here’s “ReusTouch” tweeting from his Jacksonville apartment about Celta Vigo and Purim https://t.co/1cERBliqxm,False,"[11, 97]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",1.6328644455493796e+18,1632864445549379585,584683886.0,584683886,ReusTouch,,,,,False,0,0,False,False,en,en,recent,1561363919838617602,1561363919838617602,Michael,Michxelos,Home,💙 @ChelseaFC ❤️🖤 @Bayer04fussball,,[],False,307,444,0,Sun Aug 21 14:45:58 +0000 2022,2391,,,False,False,6748,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1630863618810970113/-v_iBVMS_normal.jpg,https://pbs.twimg.com/profile_images/1630863618810970113/-v_iBVMS_normal.jpg,https://pbs.twimg.com/profile_banners/1561363919838617602/1678210067,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:04:16 +0000 2023,1632864699543945219,1632864699543945219,"💥 FT: CA Osasuna 0-0 RC Celta de Vigo
+
+➗ Los Rojillos and Los Celestes split the points after a very intense match
+
+🧤 Both keepers had work and made great saves
+
+🫣  Osasuna scored but it was disallowed due to offside from Chimy Ávila
+
+#LLL
+🧡🇪🇸⚽ https://t.co/SOYY3Ipq0Y",False,"[0, 244]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,1,8,False,False,en,en,recent,893992313806102531,893992313806102531,La Liga Lowdown 🧡🇪🇸⚽️,LaLigaLowdown,,"Your home for Spanish football in English with reporters based all over Spain. Pod, tweet, web. Clients: @SuperSportTV, @Squawka, @BetUS_Official. #LLL 🧡🇪🇸⚽️",https://t.co/JMnD0pqHgF,[],False,21663,547,342,Sun Aug 06 00:29:11 +0000 2017,17230,,,True,False,56056,,False,False,False,000000,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1481334512458121216/lnV0pil2_normal.jpg,https://pbs.twimg.com/profile_images/1481334512458121216/lnV0pil2_normal.jpg,https://pbs.twimg.com/profile_banners/893992313806102531/1609861079,FF691F,000000,000000,000000,False,False,False,False,False,False,False,none,[],False,"[{'url': 'https://t.co/JMnD0pqHgF', 'expanded_url': 'http://LLLonline.substack.com', 'display_url': 'LLLonline.substack.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:56:09 +0000 2023,1632862659442769921,1632862659442769921,Osasuna &amp; Celta Vigo played out to a goalless draw at El Sadar Stadium #SSFootball,False,"[0, 86]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",1.6328626533987779e+18,1632862653398777857,301413580.0,301413580,SuperSportBlitz,,,,,False,0,1,False,False,en,en,recent,301413580,301413580,SuperSport Blitz,SuperSportBlitz,World of Champions,"The home of the latest sports news, broadcast details, score updates and results - Channel 200 on your DStv decoder",http://t.co/PtktJosboz,[],False,1307926,258,2430,Thu May 19 12:40:44 +0000 2011,6,,,False,True,359584,,False,False,False,022330,http://abs.twimg.com/images/themes/theme15/bg.png,https://abs.twimg.com/images/themes/theme15/bg.png,False,http://pbs.twimg.com/profile_images/1300741850635079680/K7OqnbRz_normal.jpg,https://pbs.twimg.com/profile_images/1300741850635079680/K7OqnbRz_normal.jpg,https://pbs.twimg.com/profile_banners/301413580/1598956034,0084B4,FFFFFF,C0DFEC,333333,True,False,False,False,False,False,False,none,[],,"[{'url': 'http://t.co/PtktJosboz', 'expanded_url': 'http://www.supersport.com', 'display_url': 'supersport.com', 'indices': [0, 22]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:53:46 +0000 2023,1632862057816096771,1632862057816096771,"Full time 
+
+Osasuna 0️⃣ - 0️⃣ Celta Vigo",False,"[0, 40]","<a href=""https://tweetpost.semia-lb.net/index.php"" rel=""nofollow"">twtabyeen</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,977172539612024832,977172539612024832,SPORTS NEWS LIVE,wcupqatar22,Lebanon,"quickest sports news account, follow us, you won't regret it
+
+https://t.co/qfHle57raI
+https://t.co/faE4KWTl3M",https://t.co/MOCtKewBBo,"[{'url': 'https://t.co/qfHle57raI', 'expanded_url': 'http://t.me/WCQA2022', 'display_url': 't.me/WCQA2022', 'indices': [62, 85]}, {'url': 'https://t.co/faE4KWTl3M', 'expanded_url': 'https://www.facebook.com/fifasportnews', 'display_url': 'facebook.com/fifasportnews', 'indices': [86, 109]}]",False,80,32,0,Fri Mar 23 13:17:43 +0000 2018,381,,,False,False,7178,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1595684296009842689/szdyO88Z_normal.jpg,https://pbs.twimg.com/profile_images/1595684296009842689/szdyO88Z_normal.jpg,https://pbs.twimg.com/profile_banners/977172539612024832/1669275758,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,"[{'url': 'https://t.co/MOCtKewBBo', 'expanded_url': 'https://t.me/WCQA2022', 'display_url': 't.me/WCQA2022', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:53:18 +0000 2023,1632861941688598528,1632861941688598528,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+B",False,"[0, 251]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:53:12 +0000 2023,1632861914039738368,1632861914039738368,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+Bzxzcbvbv",False,"[0, 259]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:44 +0000 2023,1632861799908532224,1632861799908532224,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+Bxzcxbvnbmmn",False,"[0, 262]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:42 +0000 2023,1632861788395147265,1632861788395147265,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abgfjhghkj",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:39 +0000 2023,1632861779058642944,1632861779058642944,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abdfghgjhj",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:37 +0000 2023,1632861769810202626,1632861769810202626,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+Bzxcbvb",False,"[0, 257]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:37 +0000 2023,1632861767759167489,1632861767759167489,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Afbhjgkhkj",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:33 +0000 2023,1632861751825039362,1632861751825039362,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Afdhjkjjl/k",False,"[0, 261]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:32 +0000 2023,1632861746015916032,1632861746015916032,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+Bxzcxbvbn",False,"[0, 259]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:31 +0000 2023,1632861744132677632,1632861744132677632,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Afdhgjkj",False,"[0, 258]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,1,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:27 +0000 2023,1632861725174398979,1632861725174398979,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abfdgfjk",False,"[0, 258]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:26 +0000 2023,1632861722951430144,1632861722951430144,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+Bcxbvb",False,"[0, 256]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:17 +0000 2023,1632861683311063040,1632861683311063040,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Afbgfjkul;",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:06 +0000 2023,1632861639598043136,1632861639598043136,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Asfdhjklkl",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:52:03 +0000 2023,1632861625232547840,1632861625232547840,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+BSXZcvsfbhgnmjk",False,"[0, 265]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:59 +0000 2023,1632861609751355393,1632861609751355393,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abgfjhgjhkk",False,"[0, 261]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:57 +0000 2023,1632861601350193152,1632861601350193152,"📺Live Streambnfhmhj,
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+A",False,"[0, 259]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:55 +0000 2023,1632861593573949442,1632861593573949442,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abdgfjhk",False,"[0, 258]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:55 +0000 2023,1632861591741014017,1632861591741014017,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+BXZCvcfbvhnb",False,"[0, 262]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:53 +0000 2023,1632861584757497856,1632861584757497856,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abfgfhkl",False,"[0, 258]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:49 +0000 2023,1632861567053357058,1632861567053357058,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abfgjhjkhfdfjui",False,"[0, 265]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:44 +0000 2023,1632861547650506752,1632861547650506752,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Afdhgfj",False,"[0, 257]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:40 +0000 2023,1632861530713894912,1632861530713894912,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abdfghj",False,"[0, 257]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:38 +0000 2023,1632861522832822272,1632861522832822272,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Afdhjkull",False,"[0, 259]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:33 +0000 2023,1632861500036751361,1632861500036751361,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+Bxcxvbnbmnmm",False,"[0, 262]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:24 +0000 2023,1632861463420469248,1632861463420469248,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Adghtryutio7",False,"[0, 262]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:22 +0000 2023,1632861453689696256,1632861453689696256,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+6
+Afdhjk",False,"[0, 257]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:19 +0000 2023,1632861443845672960,1632861443845672960,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+Bcvbnbhm",False,"[0, 258]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:15 +0000 2023,1632861423415209985,1632861423415209985,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abdghfjytiuo87",False,"[0, 264]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:13 +0000 2023,1632861415320223744,1632861415320223744,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abdgfjhgkl",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:11 +0000 2023,1632861407195832321,1632861407195832321,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abfjkuu",False,"[0, 257]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:05 +0000 2023,1632861384861163521,1632861384861163521,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Afdhfjyu",False,"[0, 258]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:04 +0000 2023,1632861379488280577,1632861379488280577,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+BZCxvcbvnbmbm",False,"[0, 263]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:04 +0000 2023,1632861377361756160,1632861377361756160,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Afdhtryutuyiuo",False,"[0, 264]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:51:01 +0000 2023,1632861367828099072,1632861367828099072,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abfhgjhuytio8798",False,"[0, 266]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:57 +0000 2023,1632861348593029120,1632861348593029120,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/J5iBecdM69
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+🔗Live&gt;&gt;https://t.co/lzWiaJWDFZ
+
+BzXZCxvcbvnbbm",False,"[0, 264]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:55 +0000 2023,1632861341353676800,1632861341353676800,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abhjkkl",False,"[0, 257]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:53 +0000 2023,1632861332264591360,1632861332264591360,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abgfhgjhjkhuiyi",False,"[0, 265]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:48 +0000 2023,1632861311326629888,1632861311326629888,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abghgjj",False,"[0, 257]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:47 +0000 2023,1632861309472501760,1632861309472501760,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/lzWiaJW5Qr
+🔗Live&gt;&gt;https://t.co/J5iBecdegB
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/lzWiaJW5Qr
+🔗Live&gt;&gt;https://t.co/lzWiaJW5Qr
+
+BXZCbvnbmn,m",False,"[0, 262]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1611745880750563328,1611745880750563328,Lily,Lily030414,,,,[],False,2,1,0,Sat Jan 07 15:25:56 +0000 2023,0,,,False,False,4703,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_images/1611753824838115328/zA-AWBi0_normal.jpg,https://pbs.twimg.com/profile_banners/1611745880750563328/1673107046,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:41 +0000 2023,1632861282620821505,1632861282620821505,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abffghgh",False,"[0, 258]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:39 +0000 2023,1632861273858908160,1632861273858908160,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abnfhjhj",False,"[0, 258]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:31 +0000 2023,1632861242149974018,1632861242149974018,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abgfhhj",False,"[0, 257]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:30 +0000 2023,1632861234767998976,1632861234767998976,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abhgjj",False,"[0, 256]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:26 +0000 2023,1632861218980655104,1632861218980655104,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abhgfjgjh",False,"[0, 259]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:22 +0000 2023,1632861203449118720,1632861203449118720,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Afdhjkl",False,"[0, 257]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 21:50:20 +0000 2023,1632861193319890944,1632861193319890944,"📺Live Stream
+#BrentfordFC #BREFUL #FFC #OsasunaCelta
+
+🔴 Brentford vs Fulham
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/ZXPXvAbpxF
+
+🔴 Osasuna vs Celta Vigo
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+🔗Live&gt;&gt;https://t.co/I5dfC4PQDp
+
+Abgfhgjj",False,"[0, 258]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,en,en,recent,1615700115523608583,1615700115523608583,Nevaeh,Nevaeh6082012,,,,[],False,0,1,0,Wed Jan 18 13:18:55 +0000 2023,0,,,False,False,3619,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,https://pbs.twimg.com/profile_images/1615701733627547650/JBPug9rr_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

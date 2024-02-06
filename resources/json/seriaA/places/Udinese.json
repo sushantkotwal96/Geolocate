@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "7dde0febc9ef245b",
+            "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+            "place_type": "city",
+            "name": "Dublin City",
+            "full_name": "Dublin City, Ireland",
+            "country_code": "IE",
+            "country": "Ireland",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.387438,
+                            53.2987449
+                        ],
+                        [
+                            -6.1078047,
+                            53.2987449
+                        ],
+                        [
+                            -6.1078047,
+                            53.4110598
+                        ],
+                        [
+                            -6.387438,
+                            53.4110598
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632702220050505728
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "3e711c16431907f4",
+            "url": "https://api.twitter.com/1.1/geo/id/3e711c16431907f4.json",
+            "place_type": "city",
+            "name": "Lynn",
+            "full_name": "Lynn, MA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.01153,
+                            42.444954
+                        ],
+                        [
+                            -70.92218,
+                            42.444954
+                        ],
+                        [
+                            -70.92218,
+                            42.51252
+                        ],
+                        [
+                            -71.01153,
+                            42.51252
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1630330068995022849
+        },
+        {
+            "id": "3e711c16431907f4",
+            "url": "https://api.twitter.com/1.1/geo/id/3e711c16431907f4.json",
+            "place_type": "city",
+            "name": "Lynn",
+            "full_name": "Lynn, MA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.01153,
+                            42.444954
+                        ],
+                        [
+                            -70.92218,
+                            42.444954
+                        ],
+                        [
+                            -70.92218,
+                            42.51252
+                        ],
+                        [
+                            -71.01153,
+                            42.51252
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1630330068995022849
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "6a779d5cb7e570e8",
+            "url": "https://api.twitter.com/1.1/geo/id/6a779d5cb7e570e8.json",
+            "place_type": "city",
+            "name": "Chelmsford",
+            "full_name": "Chelmsford, East",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.435659,
+                            51.698636
+                        ],
+                        [
+                            0.521299,
+                            51.698636
+                        ],
+                        [
+                            0.521299,
+                            51.78115
+                        ],
+                        [
+                            0.435659,
+                            51.78115
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633223330055479296
+        },
+        {
+            "id": "011add077f4d2da3",
+            "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+            "place_type": "city",
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.041878,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.739434
+                        ],
+                        [
+                            -74.041878,
+                            40.739434
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633126972569055233
+        }
+    ]
+}

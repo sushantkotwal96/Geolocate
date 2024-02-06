@@ -1,0 +1,3 @@
+id,url,place_type,name,full_name,country_code,country,contained_within,tweet_id,bounding_box.type,bounding_box.coordinates
+227ab02aca7f4b08,https://api.twitter.com/1.1/geo/id/227ab02aca7f4b08.json,admin,Bavaria,"Bavaria, Germany",DE,Germany,[],1632026927358701568,Polygon,"[[[8.976041, 47.270127], [13.839928, 47.270127], [13.839928, 50.564736], [8.976041, 50.564736]]]"
+227ab02aca7f4b08,https://api.twitter.com/1.1/geo/id/227ab02aca7f4b08.json,admin,Bavaria,"Bavaria, Germany",DE,Germany,[],1632026927358701568,Polygon,"[[[8.976041, 47.270127], [13.839928, 47.270127], [13.839928, 50.564736], [8.976041, 50.564736]]]"

@@ -1,0 +1,968 @@
+{
+    "data": [
+        {
+            "id": "c3f37afa9efcf94b",
+            "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+            "place_type": "city",
+            "name": "Austin",
+            "full_name": "Austin, TX",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.928935,
+                            30.127892
+                        ],
+                        [
+                            -97.5805133,
+                            30.127892
+                        ],
+                        [
+                            -97.5805133,
+                            30.5187994
+                        ],
+                        [
+                            -97.928935,
+                            30.5187994
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "308b23b23ed91e41",
+            "url": "https://api.twitter.com/1.1/geo/id/308b23b23ed91e41.json",
+            "place_type": "city",
+            "name": "Broughton",
+            "full_name": "Broughton, Wales",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.0062708,
+                            53.1594856
+                        ],
+                        [
+                            -2.9504299,
+                            53.1594856
+                        ],
+                        [
+                            -2.9504299,
+                            53.1909697
+                        ],
+                        [
+                            -3.0062708,
+                            53.1909697
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "67bc7263f7b9047b",
+            "url": "https://api.twitter.com/1.1/geo/id/67bc7263f7b9047b.json",
+            "place_type": "admin",
+            "name": "North East",
+            "full_name": "North East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.6896487528799,
+                            54.4511368492598
+                        ],
+                        [
+                            -0.789589998657534,
+                            54.4511368492598
+                        ],
+                        [
+                            -0.789589998657534,
+                            55.8116995493485
+                        ],
+                        [
+                            -2.6896487528799,
+                            55.8116995493485
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0fc2942001d46001",
+            "url": "https://api.twitter.com/1.1/geo/id/0fc2942001d46001.json",
+            "place_type": "poi",
+            "name": "Etihad Stadium",
+            "full_name": "Etihad Stadium",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.200591564178467,
+                            53.48337251605465
+                        ],
+                        [
+                            -2.200591564178467,
+                            53.48337251605465
+                        ],
+                        [
+                            -2.200591564178467,
+                            53.48337251605465
+                        ],
+                        [
+                            -2.200591564178467,
+                            53.48337251605465
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "000c69ad123213a8",
+            "url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json",
+            "place_type": "admin",
+            "name": "Kampala",
+            "full_name": "Kampala, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.4166234,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.4136818
+                        ],
+                        [
+                            32.4166234,
+                            0.4136818
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "308b23b23ed91e41",
+            "url": "https://api.twitter.com/1.1/geo/id/308b23b23ed91e41.json",
+            "place_type": "city",
+            "name": "Broughton",
+            "full_name": "Broughton, Wales",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.0062708,
+                            53.1594856
+                        ],
+                        [
+                            -2.9504299,
+                            53.1594856
+                        ],
+                        [
+                            -2.9504299,
+                            53.1909697
+                        ],
+                        [
+                            -3.0062708,
+                            53.1909697
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "67bc7263f7b9047b",
+            "url": "https://api.twitter.com/1.1/geo/id/67bc7263f7b9047b.json",
+            "place_type": "admin",
+            "name": "North East",
+            "full_name": "North East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.6896487528799,
+                            54.4511368492598
+                        ],
+                        [
+                            -0.789589998657534,
+                            54.4511368492598
+                        ],
+                        [
+                            -0.789589998657534,
+                            55.8116995493485
+                        ],
+                        [
+                            -2.6896487528799,
+                            55.8116995493485
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0fc2942001d46001",
+            "url": "https://api.twitter.com/1.1/geo/id/0fc2942001d46001.json",
+            "place_type": "poi",
+            "name": "Etihad Stadium",
+            "full_name": "Etihad Stadium",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.200591564178467,
+                            53.48337251605465
+                        ],
+                        [
+                            -2.200591564178467,
+                            53.48337251605465
+                        ],
+                        [
+                            -2.200591564178467,
+                            53.48337251605465
+                        ],
+                        [
+                            -2.200591564178467,
+                            53.48337251605465
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "000c69ad123213a8",
+            "url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json",
+            "place_type": "admin",
+            "name": "Kampala",
+            "full_name": "Kampala, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.4166234,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.4136818
+                        ],
+                        [
+                            32.4166234,
+                            0.4136818
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "00e55e2b4c491c5f",
+            "url": "https://api.twitter.com/1.1/geo/id/00e55e2b4c491c5f.json",
+            "place_type": "city",
+            "name": "Abuja",
+            "full_name": "Abuja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            7.3045544,
+                            8.961887
+                        ],
+                        [
+                            7.5436339,
+                            8.961887
+                        ],
+                        [
+                            7.5436339,
+                            9.1854407
+                        ],
+                        [
+                            7.3045544,
+                            9.1854407
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "11e71857dca90421",
+            "url": "https://api.twitter.com/1.1/geo/id/11e71857dca90421.json",
+            "place_type": "city",
+            "name": "Chalton",
+            "full_name": "Chalton, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.505154,
+                            51.924121
+                        ],
+                        [
+                            -0.499293,
+                            51.924121
+                        ],
+                        [
+                            -0.499293,
+                            51.930226
+                        ],
+                        [
+                            -0.505154,
+                            51.930226
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "00e55e2b4c491c5f",
+            "url": "https://api.twitter.com/1.1/geo/id/00e55e2b4c491c5f.json",
+            "place_type": "city",
+            "name": "Abuja",
+            "full_name": "Abuja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            7.3045544,
+                            8.961887
+                        ],
+                        [
+                            7.5436339,
+                            8.961887
+                        ],
+                        [
+                            7.5436339,
+                            9.1854407
+                        ],
+                        [
+                            7.3045544,
+                            9.1854407
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "11e71857dca90421",
+            "url": "https://api.twitter.com/1.1/geo/id/11e71857dca90421.json",
+            "place_type": "city",
+            "name": "Chalton",
+            "full_name": "Chalton, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.505154,
+                            51.924121
+                        ],
+                        [
+                            -0.499293,
+                            51.924121
+                        ],
+                        [
+                            -0.499293,
+                            51.930226
+                        ],
+                        [
+                            -0.505154,
+                            51.930226
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "4393349f368f67a1",
+            "url": "https://api.twitter.com/1.1/geo/id/4393349f368f67a1.json",
+            "place_type": "city",
+            "name": "Lambeth",
+            "full_name": "Lambeth, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.15191,
+                            51.410792
+                        ],
+                        [
+                            -0.078902,
+                            51.410792
+                        ],
+                        [
+                            -0.078902,
+                            51.509887
+                        ],
+                        [
+                            -0.15191,
+                            51.509887
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "31fffbe34de66921",
+            "url": "https://api.twitter.com/1.1/geo/id/31fffbe34de66921.json",
+            "place_type": "city",
+            "name": "Salford",
+            "full_name": "Salford, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.454026,
+                            53.4163477
+                        ],
+                        [
+                            -2.245107,
+                            53.4163477
+                        ],
+                        [
+                            -2.245107,
+                            53.5342592
+                        ],
+                        [
+                            -2.454026,
+                            53.5342592
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "00ee1c8e0c090754",
+            "url": "https://api.twitter.com/1.1/geo/id/00ee1c8e0c090754.json",
+            "place_type": "admin",
+            "name": "Rajshahi",
+            "full_name": "Rajshahi, Bangladesh",
+            "country_code": "BD",
+            "country": "Bangladesh",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            88.0134279,
+                            23.7931918
+                        ],
+                        [
+                            89.8875417,
+                            23.7931918
+                        ],
+                        [
+                            89.8875417,
+                            26.6299093
+                        ],
+                        [
+                            88.0134279,
+                            26.6299093
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "53504716d445dcad",
+            "url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json",
+            "place_type": "city",
+            "name": "Calgary",
+            "full_name": "Calgary, Alberta",
+            "country_code": "CA",
+            "country": "Canada",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -114.3160379,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            51.212548
+                        ],
+                        [
+                            -114.3160379,
+                            51.212548
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633249370190782465
+        },
+        {
+            "id": "53504716d445dcad",
+            "url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json",
+            "place_type": "city",
+            "name": "Calgary",
+            "full_name": "Calgary, Alberta",
+            "country_code": "CA",
+            "country": "Canada",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -114.3160379,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            51.212548
+                        ],
+                        [
+                            -114.3160379,
+                            51.212548
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633249370190782465
+        },
+        {
+            "id": "53504716d445dcad",
+            "url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json",
+            "place_type": "city",
+            "name": "Calgary",
+            "full_name": "Calgary, Alberta",
+            "country_code": "CA",
+            "country": "Canada",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -114.3160379,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            51.212548
+                        ],
+                        [
+                            -114.3160379,
+                            51.212548
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633249370190782465
+        },
+        {
+            "id": "53504716d445dcad",
+            "url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json",
+            "place_type": "city",
+            "name": "Calgary",
+            "full_name": "Calgary, Alberta",
+            "country_code": "CA",
+            "country": "Canada",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -114.3160379,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            51.212548
+                        ],
+                        [
+                            -114.3160379,
+                            51.212548
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633249370190782465
+        },
+        {
+            "id": "8ef32ff56ef11c22",
+            "url": "https://api.twitter.com/1.1/geo/id/8ef32ff56ef11c22.json",
+            "place_type": "admin",
+            "name": "England",
+            "full_name": "England, United Kingdom",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.3651943,
+                            49.8825312
+                        ],
+                        [
+                            1.768926,
+                            49.8825312
+                        ],
+                        [
+                            1.768926,
+                            55.8116485
+                        ],
+                        [
+                            -6.3651943,
+                            55.8116485
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634998751034212355
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634989415859916801
+        },
+        {
+            "id": "31fffbe34de66921",
+            "url": "https://api.twitter.com/1.1/geo/id/31fffbe34de66921.json",
+            "place_type": "city",
+            "name": "Salford",
+            "full_name": "Salford, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.454026,
+                            53.4163477
+                        ],
+                        [
+                            -2.245107,
+                            53.4163477
+                        ],
+                        [
+                            -2.245107,
+                            53.5342592
+                        ],
+                        [
+                            -2.454026,
+                            53.5342592
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636928333781819392
+        },
+        {
+            "id": "009360ab49286b4a",
+            "url": "https://api.twitter.com/1.1/geo/id/009360ab49286b4a.json",
+            "place_type": "city",
+            "name": "Cereté",
+            "full_name": "Cereté, Colombia",
+            "country_code": "CO",
+            "country": "Colombia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.0277829971013,
+                            8.79677000253585
+                        ],
+                        [
+                            -75.7061720024538,
+                            8.79677000253585
+                        ],
+                        [
+                            -75.7061720024538,
+                            8.97737799638398
+                        ],
+                        [
+                            -76.0277829971013,
+                            8.97737799638398
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636906972363538432
+        },
+        {
+            "id": "46d956e7269cfa2d",
+            "url": "https://api.twitter.com/1.1/geo/id/46d956e7269cfa2d.json",
+            "place_type": "city",
+            "name": "Bandar Melaka",
+            "full_name": "Bandar Melaka, Malacca",
+            "country_code": "MY",
+            "country": "Malaysia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            102.2278813,
+                            2.1772619
+                        ],
+                        [
+                            102.2687406,
+                            2.1772619
+                        ],
+                        [
+                            102.2687406,
+                            2.2253947
+                        ],
+                        [
+                            102.2278813,
+                            2.2253947
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636900023698075650
+        },
+        {
+            "id": "7093398a4249d151",
+            "url": "https://api.twitter.com/1.1/geo/id/7093398a4249d151.json",
+            "place_type": "city",
+            "name": "Ealing",
+            "full_name": "Ealing, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.351597,
+                            51.491866
+                        ],
+                        [
+                            -0.243263,
+                            51.491866
+                        ],
+                        [
+                            -0.243263,
+                            51.537638
+                        ],
+                        [
+                            -0.351597,
+                            51.537638
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643681481624100868
+        },
+        {
+            "id": "0cbfb5dccb8131b8",
+            "url": "https://api.twitter.com/1.1/geo/id/0cbfb5dccb8131b8.json",
+            "place_type": "admin",
+            "name": "North West",
+            "full_name": "North West, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.64063699761414,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            55.1888787527094
+                        ],
+                        [
+                            -3.64063699761414,
+                            55.1888787527094
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644396149095243776
+        },
+        {
+            "id": "c3b85cf1d8b226f2",
+            "url": "https://api.twitter.com/1.1/geo/id/c3b85cf1d8b226f2.json",
+            "place_type": "country",
+            "name": "Ethiopia",
+            "full_name": "Ethiopia",
+            "country_code": "ET",
+            "country": "Ethiopia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.9976911,
+                            3.4049624
+                        ],
+                        [
+                            47.9994768,
+                            3.4049624
+                        ],
+                        [
+                            47.9994768,
+                            14.8942137
+                        ],
+                        [
+                            32.9976911,
+                            14.8942137
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644391388727898117
+        }
+    ]
+}

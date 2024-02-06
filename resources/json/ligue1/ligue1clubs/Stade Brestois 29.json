@@ -1,0 +1,363 @@
+[
+    {
+        "created_at": "Tue Mar 07 14:13:02 +0000 2023",
+        "id": 1633108498937528320,
+        "id_str": "1633108498937528320",
+        "full_text": "RC STRASBOURG ALSACE - STADE BRESTOIS 29 (0 - 1) - Highlights - (RCSA - SB29) / 2022-2023\n \nhttps://t.co/df6DSM9dsH https://t.co/gbdtYnMmmZ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            115
+        ],
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.eucup.com\" rel=\"nofollow\">EuropaCup</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1209346428222496769,
+            "id_str": "1209346428222496769",
+            "name": "EUCUP",
+            "screen_name": "EUCUPdotCOM",
+            "location": "",
+            "description": "",
+            "url": "https://t.co/iETPAEmjIb",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/iETPAEmjIb",
+                            "expanded_url": "http://eucup.com",
+                            "display_url": "eucup.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 220,
+            "friends_count": 2,
+            "listed_count": 0,
+            "created_at": "Tue Dec 24 05:34:22 +0000 2019",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 26397,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1209346638273294336/hNzTCf4R_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209346638273294336/hNzTCf4R_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209346428222496769/1577167777",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Mar 06 09:41:58 +0000 2023",
+        "id": 1632677896308523015,
+        "id_str": "1632677896308523015",
+        "full_text": "New post: Ligue 1: Buy Stade Brestois 29 vs Paris SG Tickets, 2023-03-11, Stade Francis-Le Ble, Brest, France https://t.co/geWaX553jw",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            133
+        ],
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.buyeventticketsonline.com\" rel=\"nofollow\">Buy_Tickets_Online</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 859910771953647616,
+            "id_str": "859910771953647616",
+            "name": "Tickets Online",
+            "screen_name": "Tickets_Online_",
+            "location": "",
+            "description": "Tickets online for Events, Sports, Entertainment, Football, Soccer, Concerts,",
+            "url": "https://t.co/voDbLLkDiX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/voDbLLkDiX",
+                            "expanded_url": "http://www.buyeventticketsonline.com",
+                            "display_url": "buyeventticketsonline.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 147,
+            "friends_count": 172,
+            "listed_count": 2,
+            "created_at": "Wed May 03 23:21:19 +0000 2017",
+            "favourites_count": 9,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 130554,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/859936133135945728/EbuvkA3x_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/859936133135945728/EbuvkA3x_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Mar 04 00:08:02 +0000 2023",
+        "id": 1631808682794123264,
+        "id_str": "1631808682794123264",
+        "full_text": "LOSC LILLE - STADE BRESTOIS 29 (2 - 1) - Highlights - (LOSC - SB29) / 2022-2023\n \nhttps://t.co/Vf6lLLb9Uz https://t.co/DgxyW9CPM6",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            105
+        ],
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.eucup.com\" rel=\"nofollow\">EuropaCup</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1209346428222496769,
+            "id_str": "1209346428222496769",
+            "name": "EUCUP",
+            "screen_name": "EUCUPdotCOM",
+            "location": "",
+            "description": "",
+            "url": "https://t.co/iETPAEmjIb",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/iETPAEmjIb",
+                            "expanded_url": "http://eucup.com",
+                            "display_url": "eucup.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 220,
+            "friends_count": 2,
+            "listed_count": 0,
+            "created_at": "Tue Dec 24 05:34:22 +0000 2019",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 26397,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1209346638273294336/hNzTCf4R_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209346638273294336/hNzTCf4R_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209346428222496769/1577167777",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Mar 03 16:10:30 +0000 2023",
+        "id": 1631688508162166784,
+        "id_str": "1631688508162166784",
+        "full_text": "Bob has Tailed this tip!\n      Sport: Football\n      Match: Rc Strasbourg - Stade Brestois 29\n      Start Date: 2023-03-05 14:0:00\n      Bet: Strasbourg to win \n\n      @ 2.05 for 1 unit\n\n      #GamblingTwitter #sportsbettingtwitter\n      #MachineLearning",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            254
+        ],
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://novomo-f5610.web.app/\" rel=\"nofollow\">Investor Bot</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1525603760386494465,
+            "id_str": "1525603760386494465",
+            "name": "In4Freedom",
+            "screen_name": "HaggardNova",
+            "location": "",
+            "description": "Pro alternative investor, I rummage around the darkest places of the internet for value.\nSports, Financials', Stock or Crypto it is all to same to me.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 56,
+            "friends_count": 9,
+            "listed_count": 0,
+            "created_at": "Sat May 14 22:28:15 +0000 2022",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3858,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1597331498344095745/jjkdVqOg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1597331498344095745/jjkdVqOg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1525603760386494465/1669668481",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]

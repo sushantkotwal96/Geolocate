@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "01fbe706f872cb32",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "place_type": "city",
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.119401,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.801826
+                        ],
+                        [
+                            -76.909396,
+                            38.9953797
+                        ],
+                        [
+                            -77.119401,
+                            38.9953797
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633304273009229824
+        },
+        {
+            "id": "002e24c6736f069d",
+            "url": "https://api.twitter.com/1.1/geo/id/002e24c6736f069d.json",
+            "place_type": "city",
+            "name": "Bronx",
+            "full_name": "Bronx, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.933612,
+                            40.785365
+                        ],
+                        [
+                            -73.765271,
+                            40.785365
+                        ],
+                        [
+                            -73.765271,
+                            40.91533
+                        ],
+                        [
+                            -73.933612,
+                            40.91533
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633274445161791490
+        }
+    ]
+}

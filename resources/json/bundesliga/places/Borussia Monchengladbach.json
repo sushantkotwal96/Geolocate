@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "cddb718d9306e2f9",
+            "url": "https://api.twitter.com/1.1/geo/id/cddb718d9306e2f9.json",
+            "place_type": "city",
+            "name": "Four Corners",
+            "full_name": "Four Corners, TX",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.71547,
+                            29.64897
+                        ],
+                        [
+                            -95.643201,
+                            29.64897
+                        ],
+                        [
+                            -95.643201,
+                            29.71046
+                        ],
+                        [
+                            -95.71547,
+                            29.71046
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1630799947774697472
+        },
+        {
+            "id": "cddb718d9306e2f9",
+            "url": "https://api.twitter.com/1.1/geo/id/cddb718d9306e2f9.json",
+            "place_type": "city",
+            "name": "Four Corners",
+            "full_name": "Four Corners, TX",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.71547,
+                            29.64897
+                        ],
+                        [
+                            -95.643201,
+                            29.64897
+                        ],
+                        [
+                            -95.643201,
+                            29.71046
+                        ],
+                        [
+                            -95.71547,
+                            29.71046
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1630799947774697472
+        }
+    ]
+}

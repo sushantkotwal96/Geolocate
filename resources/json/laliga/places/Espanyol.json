@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "133208871f79dc87",
+            "url": "https://api.twitter.com/1.1/geo/id/133208871f79dc87.json",
+            "place_type": "city",
+            "name": "Kosai-shi",
+            "full_name": "Kosai-shi, Shizuoka",
+            "country_code": "JP",
+            "country": "Japan",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            137.474226,
+                            34.673919
+                        ],
+                        [
+                            137.59872,
+                            34.673919
+                        ],
+                        [
+                            137.59872,
+                            34.786842
+                        ],
+                        [
+                            137.474226,
+                            34.786842
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632855901035188224
+        },
+        {
+            "id": "b62cd77425868341",
+            "url": "https://api.twitter.com/1.1/geo/id/b62cd77425868341.json",
+            "place_type": "country",
+            "name": "Iraq",
+            "full_name": "Iraq",
+            "country_code": "IQ",
+            "country": "Iraq",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            38.7947010004891,
+                            29.0717100004153
+                        ],
+                        [
+                            48.5759079995109,
+                            29.0717100004153
+                        ],
+                        [
+                            48.5759079995109,
+                            37.3780399995847
+                        ],
+                        [
+                            38.7947010004891,
+                            37.3780399995847
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632815483396169732
+        }
+    ]
+}

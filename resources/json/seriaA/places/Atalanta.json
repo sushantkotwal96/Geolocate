@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "01e8a1a140ccdc5c",
+            "url": "https://api.twitter.com/1.1/geo/id/01e8a1a140ccdc5c.json",
+            "place_type": "city",
+            "name": "Adelaide",
+            "full_name": "Adelaide, South Australia",
+            "country_code": "AU",
+            "country": "Australia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            138.44212992,
+                            -35.348970061
+                        ],
+                        [
+                            138.780189824,
+                            -35.348970061
+                        ],
+                        [
+                            138.780189824,
+                            -34.652564053
+                        ],
+                        [
+                            138.44212992,
+                            -34.652564053
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633251429887639553
+        },
+        {
+            "id": "616ba1df27270916",
+            "url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json",
+            "place_type": "city",
+            "name": "Oxford",
+            "full_name": "Oxford, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.289608,
+                            51.7122668
+                        ],
+                        [
+                            -1.1772587,
+                            51.7122668
+                        ],
+                        [
+                            -1.1772587,
+                            51.796305
+                        ],
+                        [
+                            -1.289608,
+                            51.796305
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633123604236992512
+        }
+    ]
+}

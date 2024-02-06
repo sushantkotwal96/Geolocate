@@ -1,0 +1,1180 @@
+{
+    "data": [
+        {
+            "id": "016e482f031d46e1",
+            "url": "https://api.twitter.com/1.1/geo/id/016e482f031d46e1.json",
+            "place_type": "admin",
+            "name": "Manafwa",
+            "full_name": "Manafwa, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            34.182351,
+                            0.74646
+                        ],
+                        [
+                            34.4927698,
+                            0.74646
+                        ],
+                        [
+                            34.4927698,
+                            1.031236
+                        ],
+                        [
+                            34.182351,
+                            1.031236
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0065f09a6666479e",
+            "url": "https://api.twitter.com/1.1/geo/id/0065f09a6666479e.json",
+            "place_type": "city",
+            "name": "Ibadan",
+            "full_name": "Ibadan, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.7770114,
+                            7.2991429
+                        ],
+                        [
+                            4.0335816,
+                            7.2991429
+                        ],
+                        [
+                            4.0335816,
+                            7.5590064
+                        ],
+                        [
+                            3.7770114,
+                            7.5590064
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01eddd9d0dbec2c8",
+            "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json",
+            "place_type": "city",
+            "name": "Ikeja",
+            "full_name": "Ikeja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.198942,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.6985461
+                        ],
+                        [
+                            3.198942,
+                            6.6985461
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0148752f3ae23641",
+            "url": "https://api.twitter.com/1.1/geo/id/0148752f3ae23641.json",
+            "place_type": "admin",
+            "name": "Nyanza",
+            "full_name": "Nyanza, Kenya",
+            "country_code": "KE",
+            "country": "Kenya",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.9166073,
+                            -1.3864857
+                        ],
+                        [
+                            35.3413419,
+                            -1.3864857
+                        ],
+                        [
+                            35.3413419,
+                            0.3113955
+                        ],
+                        [
+                            33.9166073,
+                            0.3113955
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01c46739344ba9f6",
+            "url": "https://api.twitter.com/1.1/geo/id/01c46739344ba9f6.json",
+            "place_type": "admin",
+            "name": "Federal Capital Territory",
+            "full_name": "Federal Capital Territory, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.7786135,
+                            8.4504401
+                        ],
+                        [
+                            7.7274781,
+                            8.4504401
+                        ],
+                        [
+                            7.7274781,
+                            9.4345273
+                        ],
+                        [
+                            6.7786135,
+                            9.4345273
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0148752f3ae23641",
+            "url": "https://api.twitter.com/1.1/geo/id/0148752f3ae23641.json",
+            "place_type": "admin",
+            "name": "Nyanza",
+            "full_name": "Nyanza, Kenya",
+            "country_code": "KE",
+            "country": "Kenya",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.9166073,
+                            -1.3864857
+                        ],
+                        [
+                            35.3413419,
+                            -1.3864857
+                        ],
+                        [
+                            35.3413419,
+                            0.3113955
+                        ],
+                        [
+                            33.9166073,
+                            0.3113955
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0065f09a6666479e",
+            "url": "https://api.twitter.com/1.1/geo/id/0065f09a6666479e.json",
+            "place_type": "city",
+            "name": "Ibadan",
+            "full_name": "Ibadan, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.7770114,
+                            7.2991429
+                        ],
+                        [
+                            4.0335816,
+                            7.2991429
+                        ],
+                        [
+                            4.0335816,
+                            7.5590064
+                        ],
+                        [
+                            3.7770114,
+                            7.5590064
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01eddd9d0dbec2c8",
+            "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json",
+            "place_type": "city",
+            "name": "Ikeja",
+            "full_name": "Ikeja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.198942,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.6985461
+                        ],
+                        [
+                            3.198942,
+                            6.6985461
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0148752f3ae23641",
+            "url": "https://api.twitter.com/1.1/geo/id/0148752f3ae23641.json",
+            "place_type": "admin",
+            "name": "Nyanza",
+            "full_name": "Nyanza, Kenya",
+            "country_code": "KE",
+            "country": "Kenya",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.9166073,
+                            -1.3864857
+                        ],
+                        [
+                            35.3413419,
+                            -1.3864857
+                        ],
+                        [
+                            35.3413419,
+                            0.3113955
+                        ],
+                        [
+                            33.9166073,
+                            0.3113955
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01c46739344ba9f6",
+            "url": "https://api.twitter.com/1.1/geo/id/01c46739344ba9f6.json",
+            "place_type": "admin",
+            "name": "Federal Capital Territory",
+            "full_name": "Federal Capital Territory, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.7786135,
+                            8.4504401
+                        ],
+                        [
+                            7.7274781,
+                            8.4504401
+                        ],
+                        [
+                            7.7274781,
+                            9.4345273
+                        ],
+                        [
+                            6.7786135,
+                            9.4345273
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0148752f3ae23641",
+            "url": "https://api.twitter.com/1.1/geo/id/0148752f3ae23641.json",
+            "place_type": "admin",
+            "name": "Nyanza",
+            "full_name": "Nyanza, Kenya",
+            "country_code": "KE",
+            "country": "Kenya",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.9166073,
+                            -1.3864857
+                        ],
+                        [
+                            35.3413419,
+                            -1.3864857
+                        ],
+                        [
+                            35.3413419,
+                            0.3113955
+                        ],
+                        [
+                            33.9166073,
+                            0.3113955
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "8a927a7056322151",
+            "url": "https://api.twitter.com/1.1/geo/id/8a927a7056322151.json",
+            "place_type": "country",
+            "name": "Botswana",
+            "full_name": "Botswana",
+            "country_code": "BW",
+            "country": "Botswana",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            19.9976747,
+                            -26.9070352
+                        ],
+                        [
+                            29.371142,
+                            -26.9070352
+                        ],
+                        [
+                            29.371142,
+                            -17.7782297
+                        ],
+                        [
+                            19.9976747,
+                            -17.7782297
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0065f09a6666479e",
+            "url": "https://api.twitter.com/1.1/geo/id/0065f09a6666479e.json",
+            "place_type": "city",
+            "name": "Ibadan",
+            "full_name": "Ibadan, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.7770114,
+                            7.2991429
+                        ],
+                        [
+                            4.0335816,
+                            7.2991429
+                        ],
+                        [
+                            4.0335816,
+                            7.5590064
+                        ],
+                        [
+                            3.7770114,
+                            7.5590064
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "07d9d2134a083003",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9d2134a083003.json",
+            "place_type": "poi",
+            "name": "Los Angeles International Airport (LAX)",
+            "full_name": "Los Angeles International Airport (LAX)",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -118.40607404708864,
+                            33.94368036522437
+                        ],
+                        [
+                            -118.40607404708864,
+                            33.94368036522437
+                        ],
+                        [
+                            -118.40607404708864,
+                            33.94368036522437
+                        ],
+                        [
+                            -118.40607404708864,
+                            33.94368036522437
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01eddd9d0dbec2c8",
+            "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json",
+            "place_type": "city",
+            "name": "Ikeja",
+            "full_name": "Ikeja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.198942,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.6985461
+                        ],
+                        [
+                            3.198942,
+                            6.6985461
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633303171647807488
+        },
+        {
+            "id": "5d231ed8656fcf5a",
+            "url": "https://api.twitter.com/1.1/geo/id/5d231ed8656fcf5a.json",
+            "place_type": "city",
+            "name": "St Petersburg",
+            "full_name": "St Petersburg, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.758209,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.8971155
+                        ],
+                        [
+                            -82.758209,
+                            27.8971155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633303098235006976
+        },
+        {
+            "id": "5d231ed8656fcf5a",
+            "url": "https://api.twitter.com/1.1/geo/id/5d231ed8656fcf5a.json",
+            "place_type": "city",
+            "name": "St Petersburg",
+            "full_name": "St Petersburg, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.758209,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.8971155
+                        ],
+                        [
+                            -82.758209,
+                            27.8971155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633302971650850816
+        },
+        {
+            "id": "01e40dfa286fa1f3",
+            "url": "https://api.twitter.com/1.1/geo/id/01e40dfa286fa1f3.json",
+            "place_type": "city",
+            "name": "Minna",
+            "full_name": "Minna, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.5013564,
+                            9.5637137
+                        ],
+                        [
+                            6.5841138,
+                            9.5637137
+                        ],
+                        [
+                            6.5841138,
+                            9.6760284
+                        ],
+                        [
+                            6.5013564,
+                            9.6760284
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633302372507107328
+        },
+        {
+            "id": "01eddd9d0dbec2c8",
+            "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json",
+            "place_type": "city",
+            "name": "Ikeja",
+            "full_name": "Ikeja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.198942,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.6985461
+                        ],
+                        [
+                            3.198942,
+                            6.6985461
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633303171647807488
+        },
+        {
+            "id": "5d231ed8656fcf5a",
+            "url": "https://api.twitter.com/1.1/geo/id/5d231ed8656fcf5a.json",
+            "place_type": "city",
+            "name": "St Petersburg",
+            "full_name": "St Petersburg, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.758209,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.8971155
+                        ],
+                        [
+                            -82.758209,
+                            27.8971155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633303098235006976
+        },
+        {
+            "id": "5d231ed8656fcf5a",
+            "url": "https://api.twitter.com/1.1/geo/id/5d231ed8656fcf5a.json",
+            "place_type": "city",
+            "name": "St Petersburg",
+            "full_name": "St Petersburg, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.758209,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.8971155
+                        ],
+                        [
+                            -82.758209,
+                            27.8971155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633302971650850816
+        },
+        {
+            "id": "01e40dfa286fa1f3",
+            "url": "https://api.twitter.com/1.1/geo/id/01e40dfa286fa1f3.json",
+            "place_type": "city",
+            "name": "Minna",
+            "full_name": "Minna, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.5013564,
+                            9.5637137
+                        ],
+                        [
+                            6.5841138,
+                            9.5637137
+                        ],
+                        [
+                            6.5841138,
+                            9.6760284
+                        ],
+                        [
+                            6.5013564,
+                            9.6760284
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633302372507107328
+        },
+        {
+            "id": "01eddd9d0dbec2c8",
+            "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json",
+            "place_type": "city",
+            "name": "Ikeja",
+            "full_name": "Ikeja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.198942,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.6985461
+                        ],
+                        [
+                            3.198942,
+                            6.6985461
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633303171647807488
+        },
+        {
+            "id": "5d231ed8656fcf5a",
+            "url": "https://api.twitter.com/1.1/geo/id/5d231ed8656fcf5a.json",
+            "place_type": "city",
+            "name": "St Petersburg",
+            "full_name": "St Petersburg, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.758209,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.8971155
+                        ],
+                        [
+                            -82.758209,
+                            27.8971155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633303098235006976
+        },
+        {
+            "id": "5d231ed8656fcf5a",
+            "url": "https://api.twitter.com/1.1/geo/id/5d231ed8656fcf5a.json",
+            "place_type": "city",
+            "name": "St Petersburg",
+            "full_name": "St Petersburg, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.758209,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.694323
+                        ],
+                        [
+                            -82.587597,
+                            27.8971155
+                        ],
+                        [
+                            -82.758209,
+                            27.8971155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633302971650850816
+        },
+        {
+            "id": "01e40dfa286fa1f3",
+            "url": "https://api.twitter.com/1.1/geo/id/01e40dfa286fa1f3.json",
+            "place_type": "city",
+            "name": "Minna",
+            "full_name": "Minna, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.5013564,
+                            9.5637137
+                        ],
+                        [
+                            6.5841138,
+                            9.5637137
+                        ],
+                        [
+                            6.5841138,
+                            9.6760284
+                        ],
+                        [
+                            6.5013564,
+                            9.6760284
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633302372507107328
+        },
+        {
+            "id": "67bc7263f7b9047b",
+            "url": "https://api.twitter.com/1.1/geo/id/67bc7263f7b9047b.json",
+            "place_type": "admin",
+            "name": "North East",
+            "full_name": "North East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.6896487528799,
+                            54.4511368492598
+                        ],
+                        [
+                            -0.789589998657534,
+                            54.4511368492598
+                        ],
+                        [
+                            -0.789589998657534,
+                            55.8116995493485
+                        ],
+                        [
+                            -2.6896487528799,
+                            55.8116995493485
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633528159399206919
+        },
+        {
+            "id": "017d4fef075a2cf1",
+            "url": "https://api.twitter.com/1.1/geo/id/017d4fef075a2cf1.json",
+            "place_type": "city",
+            "name": "Santiago del Estero",
+            "full_name": "Santiago del Estero, Argentina",
+            "country_code": "AR",
+            "country": "Argentina",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -64.310346,
+                            -27.8425078
+                        ],
+                        [
+                            -64.2189743,
+                            -27.8425078
+                        ],
+                        [
+                            -64.2189743,
+                            -27.743537
+                        ],
+                        [
+                            -64.310346,
+                            -27.743537
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634998879824515073
+        },
+        {
+            "id": "2edf98027d556c5f",
+            "url": "https://api.twitter.com/1.1/geo/id/2edf98027d556c5f.json",
+            "place_type": "city",
+            "name": "South Tipperary",
+            "full_name": "South Tipperary, Ireland",
+            "country_code": "IE",
+            "country": "Ireland",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.4057899,
+                            52.2013149
+                        ],
+                        [
+                            -7.3718273,
+                            52.2013149
+                        ],
+                        [
+                            -7.3718273,
+                            52.7335849
+                        ],
+                        [
+                            -8.4057899,
+                            52.7335849
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634998643760726016
+        },
+        {
+            "id": "01cba65c41c20b24",
+            "url": "https://api.twitter.com/1.1/geo/id/01cba65c41c20b24.json",
+            "place_type": "city",
+            "name": "Ilorin",
+            "full_name": "Ilorin, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.4752509,
+                            8.4145568
+                        ],
+                        [
+                            4.6252965,
+                            8.4145568
+                        ],
+                        [
+                            4.6252965,
+                            8.5453022
+                        ],
+                        [
+                            4.4752509,
+                            8.5453022
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1635001088435949568
+        },
+        {
+            "id": "0085c4a6640325a8",
+            "url": "https://api.twitter.com/1.1/geo/id/0085c4a6640325a8.json",
+            "place_type": "city",
+            "name": "Oyarifa",
+            "full_name": "Oyarifa, Ghana",
+            "country_code": "GH",
+            "country": "Ghana",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.2508272,
+                            5.6545401
+                        ],
+                        [
+                            -0.1145835,
+                            5.6545401
+                        ],
+                        [
+                            -0.1145835,
+                            5.7836066
+                        ],
+                        [
+                            -0.2508272,
+                            5.7836066
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1635001059545600001
+        },
+        {
+            "id": "9d8ae4b0fac2036a",
+            "url": "https://api.twitter.com/1.1/geo/id/9d8ae4b0fac2036a.json",
+            "place_type": "country",
+            "name": "Panama",
+            "full_name": "Panama",
+            "country_code": "PA",
+            "country": "Panama",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.051445,
+                            7.20386
+                        ],
+                        [
+                            -77.13939,
+                            7.20386
+                        ],
+                        [
+                            -77.13939,
+                            9.6394858
+                        ],
+                        [
+                            -83.051445,
+                            9.6394858
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636942385581027329
+        },
+        {
+            "id": "1bcb27fccfb2825f",
+            "url": "https://api.twitter.com/1.1/geo/id/1bcb27fccfb2825f.json",
+            "place_type": "city",
+            "name": "Cheltenham",
+            "full_name": "Cheltenham, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.142873,
+                            51.8618636
+                        ],
+                        [
+                            -2.032676,
+                            51.8618636
+                        ],
+                        [
+                            -2.032676,
+                            51.9307634
+                        ],
+                        [
+                            -2.142873,
+                            51.9307634
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643686723711377414
+        },
+        {
+            "id": "4ec01c9dbc693497",
+            "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json",
+            "place_type": "admin",
+            "name": "Florida",
+            "full_name": "Florida, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.634643,
+                            24.396308
+                        ],
+                        [
+                            -79.974307,
+                            24.396308
+                        ],
+                        [
+                            -79.974307,
+                            31.001056
+                        ],
+                        [
+                            -87.634643,
+                            31.001056
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644413230121459843
+        }
+    ]
+}

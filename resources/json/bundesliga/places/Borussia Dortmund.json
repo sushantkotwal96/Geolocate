@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "id": "d6819fe60643ebc1",
+            "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+            "place_type": "city",
+            "name": "Alexandria",
+            "full_name": "Alexandria, VA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.144435,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.8448531
+                        ],
+                        [
+                            -77.144435,
+                            38.8448531
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633280753856393218
+        },
+        {
+            "id": "0a64792204966001",
+            "url": "https://api.twitter.com/1.1/geo/id/0a64792204966001.json",
+            "place_type": "poi",
+            "name": "Stamford Bridge",
+            "full_name": "Stamford Bridge",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.19098401069641113,
+                            51.481810515561335
+                        ],
+                        [
+                            -0.19098401069641113,
+                            51.481810515561335
+                        ],
+                        [
+                            -0.19098401069641113,
+                            51.481810515561335
+                        ],
+                        [
+                            -0.19098401069641113,
+                            51.481810515561335
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633272401919201281
+        },
+        {
+            "id": "d6819fe60643ebc1",
+            "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+            "place_type": "city",
+            "name": "Alexandria",
+            "full_name": "Alexandria, VA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.144435,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.8448531
+                        ],
+                        [
+                            -77.144435,
+                            38.8448531
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633280753856393218
+        },
+        {
+            "id": "0a64792204966001",
+            "url": "https://api.twitter.com/1.1/geo/id/0a64792204966001.json",
+            "place_type": "poi",
+            "name": "Stamford Bridge",
+            "full_name": "Stamford Bridge",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.19098401069641113,
+                            51.481810515561335
+                        ],
+                        [
+                            -0.19098401069641113,
+                            51.481810515561335
+                        ],
+                        [
+                            -0.19098401069641113,
+                            51.481810515561335
+                        ],
+                        [
+                            -0.19098401069641113,
+                            51.481810515561335
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633272401919201281
+        }
+    ]
+}

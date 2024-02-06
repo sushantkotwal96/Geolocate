@@ -1,0 +1,1144 @@
+{
+    "data": [
+        {
+            "id": "758461cd66db17e0",
+            "url": "https://api.twitter.com/1.1/geo/id/758461cd66db17e0.json",
+            "place_type": "city",
+            "name": "Sutton",
+            "full_name": "Sutton, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.245869,
+                            51.330352
+                        ],
+                        [
+                            -0.117306,
+                            51.330352
+                        ],
+                        [
+                            -0.117306,
+                            51.3934428
+                        ],
+                        [
+                            -0.245869,
+                            51.3934428
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "25d3e991f5637f5a",
+            "url": "https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json",
+            "place_type": "admin",
+            "name": "South West",
+            "full_name": "South West, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.36850399906372,
+                            49.8824720005481
+                        ],
+                        [
+                            -1.48573420014269,
+                            49.8824720005481
+                        ],
+                        [
+                            -1.48573420014269,
+                            52.1125420344225
+                        ],
+                        [
+                            -6.36850399906372,
+                            52.1125420344225
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "758461cd66db17e0",
+            "url": "https://api.twitter.com/1.1/geo/id/758461cd66db17e0.json",
+            "place_type": "city",
+            "name": "Sutton",
+            "full_name": "Sutton, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.245869,
+                            51.330352
+                        ],
+                        [
+                            -0.117306,
+                            51.330352
+                        ],
+                        [
+                            -0.117306,
+                            51.3934428
+                        ],
+                        [
+                            -0.245869,
+                            51.3934428
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "25d3e991f5637f5a",
+            "url": "https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json",
+            "place_type": "admin",
+            "name": "South West",
+            "full_name": "South West, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.36850399906372,
+                            49.8824720005481
+                        ],
+                        [
+                            -1.48573420014269,
+                            49.8824720005481
+                        ],
+                        [
+                            -1.48573420014269,
+                            52.1125420344225
+                        ],
+                        [
+                            -6.36850399906372,
+                            52.1125420344225
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "758461cd66db17e0",
+            "url": "https://api.twitter.com/1.1/geo/id/758461cd66db17e0.json",
+            "place_type": "city",
+            "name": "Sutton",
+            "full_name": "Sutton, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.245869,
+                            51.330352
+                        ],
+                        [
+                            -0.117306,
+                            51.330352
+                        ],
+                        [
+                            -0.117306,
+                            51.3934428
+                        ],
+                        [
+                            -0.245869,
+                            51.3934428
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "25d3e991f5637f5a",
+            "url": "https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json",
+            "place_type": "admin",
+            "name": "South West",
+            "full_name": "South West, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.36850399906372,
+                            49.8824720005481
+                        ],
+                        [
+                            -1.48573420014269,
+                            49.8824720005481
+                        ],
+                        [
+                            -1.48573420014269,
+                            52.1125420344225
+                        ],
+                        [
+                            -6.36850399906372,
+                            52.1125420344225
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "758461cd66db17e0",
+            "url": "https://api.twitter.com/1.1/geo/id/758461cd66db17e0.json",
+            "place_type": "city",
+            "name": "Sutton",
+            "full_name": "Sutton, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.245869,
+                            51.330352
+                        ],
+                        [
+                            -0.117306,
+                            51.330352
+                        ],
+                        [
+                            -0.117306,
+                            51.3934428
+                        ],
+                        [
+                            -0.245869,
+                            51.3934428
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "038247c1b5bb34c9",
+            "url": "https://api.twitter.com/1.1/geo/id/038247c1b5bb34c9.json",
+            "place_type": "city",
+            "name": "Greenwich",
+            "full_name": "Greenwich, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.0335507,
+                            51.436221
+                        ],
+                        [
+                            0.06353,
+                            51.436221
+                        ],
+                        [
+                            0.06353,
+                            51.506788
+                        ],
+                        [
+                            -0.0335507,
+                            51.506788
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "038247c1b5bb34c9",
+            "url": "https://api.twitter.com/1.1/geo/id/038247c1b5bb34c9.json",
+            "place_type": "city",
+            "name": "Greenwich",
+            "full_name": "Greenwich, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.0335507,
+                            51.436221
+                        ],
+                        [
+                            0.06353,
+                            51.436221
+                        ],
+                        [
+                            0.06353,
+                            51.506788
+                        ],
+                        [
+                            -0.0335507,
+                            51.506788
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "e444ecd51bd16ff3",
+            "url": "https://api.twitter.com/1.1/geo/id/e444ecd51bd16ff3.json",
+            "place_type": "city",
+            "name": "Cincinnati",
+            "full_name": "Cincinnati, OH",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.710722,
+                            39.052962
+                        ],
+                        [
+                            -84.3689026,
+                            39.052962
+                        ],
+                        [
+                            -84.3689026,
+                            39.2211137
+                        ],
+                        [
+                            -84.710722,
+                            39.2211137
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "003e299707d0375b",
+            "url": "https://api.twitter.com/1.1/geo/id/003e299707d0375b.json",
+            "place_type": "city",
+            "name": "Accra",
+            "full_name": "Accra, Ghana",
+            "country_code": "GH",
+            "country": "Ghana",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.3470252,
+                            5.51713
+                        ],
+                        [
+                            -0.0215619,
+                            5.51713
+                        ],
+                        [
+                            -0.0215619,
+                            5.7292666
+                        ],
+                        [
+                            -0.3470252,
+                            5.7292666
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "208d28e57bdc12e9",
+            "url": "https://api.twitter.com/1.1/geo/id/208d28e57bdc12e9.json",
+            "place_type": "admin",
+            "name": "Wales",
+            "full_name": "Wales, United Kingdom",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.35340678071236,
+                            51.3787780012005
+                        ],
+                        [
+                            -2.64982707940341,
+                            51.3787780012005
+                        ],
+                        [
+                            -2.64982707940341,
+                            53.4300939018827
+                        ],
+                        [
+                            -5.35340678071236,
+                            53.4300939018827
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "07d9c93ccd082000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c93ccd082000.json",
+            "place_type": "poi",
+            "name": "100 Club",
+            "full_name": "100 Club",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "7dc5c6d3bfb10ccc",
+            "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json",
+            "place_type": "admin",
+            "name": "Wisconsin",
+            "full_name": "Wisconsin, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.889433,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            47.309715
+                        ],
+                        [
+                            -92.889433,
+                            47.309715
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "e444ecd51bd16ff3",
+            "url": "https://api.twitter.com/1.1/geo/id/e444ecd51bd16ff3.json",
+            "place_type": "city",
+            "name": "Cincinnati",
+            "full_name": "Cincinnati, OH",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.710722,
+                            39.052962
+                        ],
+                        [
+                            -84.3689026,
+                            39.052962
+                        ],
+                        [
+                            -84.3689026,
+                            39.2211137
+                        ],
+                        [
+                            -84.710722,
+                            39.2211137
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "07d9c93ccd082000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c93ccd082000.json",
+            "place_type": "poi",
+            "name": "100 Club",
+            "full_name": "100 Club",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633211713234300928
+        },
+        {
+            "id": "7dc5c6d3bfb10ccc",
+            "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json",
+            "place_type": "admin",
+            "name": "Wisconsin",
+            "full_name": "Wisconsin, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.889433,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            47.309715
+                        ],
+                        [
+                            -92.889433,
+                            47.309715
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633194389609541633
+        },
+        {
+            "id": "dd3b100831dd1763",
+            "url": "https://api.twitter.com/1.1/geo/id/dd3b100831dd1763.json",
+            "place_type": "city",
+            "name": "New Orleans",
+            "full_name": "New Orleans, LA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.137908,
+                            29.889574
+                        ],
+                        [
+                            -89.884108,
+                            29.889574
+                        ],
+                        [
+                            -89.884108,
+                            30.075628
+                        ],
+                        [
+                            -90.137908,
+                            30.075628
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633299980289966081
+        },
+        {
+            "id": "07d9c93ccd082000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c93ccd082000.json",
+            "place_type": "poi",
+            "name": "100 Club",
+            "full_name": "100 Club",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633211713234300928
+        },
+        {
+            "id": "7dc5c6d3bfb10ccc",
+            "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json",
+            "place_type": "admin",
+            "name": "Wisconsin",
+            "full_name": "Wisconsin, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.889433,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            47.309715
+                        ],
+                        [
+                            -92.889433,
+                            47.309715
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633194389609541633
+        },
+        {
+            "id": "dd3b100831dd1763",
+            "url": "https://api.twitter.com/1.1/geo/id/dd3b100831dd1763.json",
+            "place_type": "city",
+            "name": "New Orleans",
+            "full_name": "New Orleans, LA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.137908,
+                            29.889574
+                        ],
+                        [
+                            -89.884108,
+                            29.889574
+                        ],
+                        [
+                            -89.884108,
+                            30.075628
+                        ],
+                        [
+                            -90.137908,
+                            30.075628
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633299980289966081
+        },
+        {
+            "id": "07d9c93ccd082000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c93ccd082000.json",
+            "place_type": "poi",
+            "name": "100 Club",
+            "full_name": "100 Club",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633211713234300928
+        },
+        {
+            "id": "7dc5c6d3bfb10ccc",
+            "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json",
+            "place_type": "admin",
+            "name": "Wisconsin",
+            "full_name": "Wisconsin, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.889433,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            47.309715
+                        ],
+                        [
+                            -92.889433,
+                            47.309715
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633194389609541633
+        },
+        {
+            "id": "dd3b100831dd1763",
+            "url": "https://api.twitter.com/1.1/geo/id/dd3b100831dd1763.json",
+            "place_type": "city",
+            "name": "New Orleans",
+            "full_name": "New Orleans, LA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.137908,
+                            29.889574
+                        ],
+                        [
+                            -89.884108,
+                            29.889574
+                        ],
+                        [
+                            -89.884108,
+                            30.075628
+                        ],
+                        [
+                            -90.137908,
+                            30.075628
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633299980289966081
+        },
+        {
+            "id": "07d9c93ccd082000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9c93ccd082000.json",
+            "place_type": "poi",
+            "name": "100 Club",
+            "full_name": "100 Club",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ],
+                        [
+                            -0.13524721347100369,
+                            51.5160821993619
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633211713234300928
+        },
+        {
+            "id": "7dc5c6d3bfb10ccc",
+            "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json",
+            "place_type": "admin",
+            "name": "Wisconsin",
+            "full_name": "Wisconsin, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.889433,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            42.491921
+                        ],
+                        [
+                            -86.24955,
+                            47.309715
+                        ],
+                        [
+                            -92.889433,
+                            47.309715
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633194389609541633
+        },
+        {
+            "id": "f7c6dc7b4ee0909f",
+            "url": "https://api.twitter.com/1.1/geo/id/f7c6dc7b4ee0909f.json",
+            "place_type": "city",
+            "name": "Akasia",
+            "full_name": "Akasia, South Africa",
+            "country_code": "ZA",
+            "country": "South Africa",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.0463545,
+                            -25.691801
+                        ],
+                        [
+                            28.1922853,
+                            -25.691801
+                        ],
+                        [
+                            28.1922853,
+                            -25.6020338
+                        ],
+                        [
+                            28.0463545,
+                            -25.6020338
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634997894662197248
+        },
+        {
+            "id": "000c69ad123213a8",
+            "url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json",
+            "place_type": "admin",
+            "name": "Kampala",
+            "full_name": "Kampala, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.4166234,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.4136818
+                        ],
+                        [
+                            32.4166234,
+                            0.4136818
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634989010048421888
+        },
+        {
+            "id": "60160252aeb7e3e5",
+            "url": "https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json",
+            "place_type": "admin",
+            "name": "West Midlands",
+            "full_name": "West Midlands, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.23560072135158,
+                            51.8259029271059
+                        ],
+                        [
+                            -1.17213601934124,
+                            51.8259029271059
+                        ],
+                        [
+                            -1.17213601934124,
+                            53.2262100153425
+                        ],
+                        [
+                            -3.23560072135158,
+                            53.2262100153425
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634987583683035136
+        },
+        {
+            "id": "0008cb6457ff0b55",
+            "url": "https://api.twitter.com/1.1/geo/id/0008cb6457ff0b55.json",
+            "place_type": "city",
+            "name": "Port Harcourt",
+            "full_name": "Port Harcourt, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.9380658,
+                            4.7337699
+                        ],
+                        [
+                            7.1244854,
+                            4.7337699
+                        ],
+                        [
+                            7.1244854,
+                            4.9154902
+                        ],
+                        [
+                            6.9380658,
+                            4.9154902
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636939535723495429
+        },
+        {
+            "id": "000c69ad123213a8",
+            "url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json",
+            "place_type": "admin",
+            "name": "Kampala",
+            "full_name": "Kampala, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.4166234,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.4136818
+                        ],
+                        [
+                            32.4166234,
+                            0.4136818
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636916219172499456
+        },
+        {
+            "id": "5f73d127c7ccf9d9",
+            "url": "https://api.twitter.com/1.1/geo/id/5f73d127c7ccf9d9.json",
+            "place_type": "city",
+            "name": "Croydon",
+            "full_name": "Croydon, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.161749,
+                            51.294332
+                        ],
+                        [
+                            -0.023517,
+                            51.294332
+                        ],
+                        [
+                            -0.023517,
+                            51.42353
+                        ],
+                        [
+                            -0.161749,
+                            51.42353
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643684911541362697
+        },
+        {
+            "id": "135989ad972a5d9d",
+            "url": "https://api.twitter.com/1.1/geo/id/135989ad972a5d9d.json",
+            "place_type": "city",
+            "name": "Bromley",
+            "full_name": "Bromley, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.080526,
+                            51.3434174
+                        ],
+                        [
+                            0.1331237,
+                            51.3434174
+                        ],
+                        [
+                            0.1331237,
+                            51.4452233
+                        ],
+                        [
+                            -0.080526,
+                            51.4452233
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644385922786492417
+        }
+    ]
+}

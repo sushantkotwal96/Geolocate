@@ -1,0 +1,591 @@
+{
+    "data": [
+        {
+            "id": "65532937d24289a9",
+            "url": "https://api.twitter.com/1.1/geo/id/65532937d24289a9.json",
+            "place_type": "city",
+            "name": "March",
+            "full_name": "March, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.06423,
+                            52.529619
+                        ],
+                        [
+                            0.107265,
+                            52.529619
+                        ],
+                        [
+                            0.107265,
+                            52.58239
+                        ],
+                        [
+                            0.06423,
+                            52.58239
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "65532937d24289a9",
+            "url": "https://api.twitter.com/1.1/geo/id/65532937d24289a9.json",
+            "place_type": "city",
+            "name": "March",
+            "full_name": "March, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.06423,
+                            52.529619
+                        ],
+                        [
+                            0.107265,
+                            52.529619
+                        ],
+                        [
+                            0.107265,
+                            52.58239
+                        ],
+                        [
+                            0.06423,
+                            52.58239
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "65532937d24289a9",
+            "url": "https://api.twitter.com/1.1/geo/id/65532937d24289a9.json",
+            "place_type": "city",
+            "name": "March",
+            "full_name": "March, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.06423,
+                            52.529619
+                        ],
+                        [
+                            0.107265,
+                            52.529619
+                        ],
+                        [
+                            0.107265,
+                            52.58239
+                        ],
+                        [
+                            0.06423,
+                            52.58239
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "000c69ad123213a8",
+            "url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json",
+            "place_type": "admin",
+            "name": "Kampala",
+            "full_name": "Kampala, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.4166234,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.4136818
+                        ],
+                        [
+                            32.4166234,
+                            0.4136818
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "000c69ad123213a8",
+            "url": "https://api.twitter.com/1.1/geo/id/000c69ad123213a8.json",
+            "place_type": "admin",
+            "name": "Kampala",
+            "full_name": "Kampala, Uganda",
+            "country_code": "UG",
+            "country": "Uganda",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.4166234,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.1648531
+                        ],
+                        [
+                            32.7216969,
+                            0.4136818
+                        ],
+                        [
+                            32.4166234,
+                            0.4136818
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0cbfb5dccb8131b8",
+            "url": "https://api.twitter.com/1.1/geo/id/0cbfb5dccb8131b8.json",
+            "place_type": "admin",
+            "name": "North West",
+            "full_name": "North West, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.64063699761414,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            55.1888787527094
+                        ],
+                        [
+                            -3.64063699761414,
+                            55.1888787527094
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "0cbfb5dccb8131b8",
+            "url": "https://api.twitter.com/1.1/geo/id/0cbfb5dccb8131b8.json",
+            "place_type": "admin",
+            "name": "North West",
+            "full_name": "North West, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.64063699761414,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            55.1888787527094
+                        ],
+                        [
+                            -3.64063699761414,
+                            55.1888787527094
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633189406960910342
+        },
+        {
+            "id": "0cbfb5dccb8131b8",
+            "url": "https://api.twitter.com/1.1/geo/id/0cbfb5dccb8131b8.json",
+            "place_type": "admin",
+            "name": "North West",
+            "full_name": "North West, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.64063699761414,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            55.1888787527094
+                        ],
+                        [
+                            -3.64063699761414,
+                            55.1888787527094
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633189406960910342
+        },
+        {
+            "id": "0cbfb5dccb8131b8",
+            "url": "https://api.twitter.com/1.1/geo/id/0cbfb5dccb8131b8.json",
+            "place_type": "admin",
+            "name": "North West",
+            "full_name": "North West, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.64063699761414,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            55.1888787527094
+                        ],
+                        [
+                            -3.64063699761414,
+                            55.1888787527094
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633189406960910342
+        },
+        {
+            "id": "0cbfb5dccb8131b8",
+            "url": "https://api.twitter.com/1.1/geo/id/0cbfb5dccb8131b8.json",
+            "place_type": "admin",
+            "name": "North West",
+            "full_name": "North West, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.64063699761414,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            52.9471313094526
+                        ],
+                        [
+                            -1.90962598338825,
+                            55.1888787527094
+                        ],
+                        [
+                            -3.64063699761414,
+                            55.1888787527094
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633189406960910342
+        },
+        {
+            "id": "1027fcd83c280af3",
+            "url": "https://api.twitter.com/1.1/geo/id/1027fcd83c280af3.json",
+            "place_type": "city",
+            "name": "Lagos de Moreno",
+            "full_name": "Lagos de Moreno, Jalisco",
+            "country_code": "MX",
+            "country": "Mexico",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -102.16888,
+                            21.1778369
+                        ],
+                        [
+                            -101.568873,
+                            21.1778369
+                        ],
+                        [
+                            -101.568873,
+                            21.8892021
+                        ],
+                        [
+                            -102.16888,
+                            21.8892021
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636898402691629056
+        },
+        {
+            "id": "7093398a4249d151",
+            "url": "https://api.twitter.com/1.1/geo/id/7093398a4249d151.json",
+            "place_type": "city",
+            "name": "Ealing",
+            "full_name": "Ealing, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.351597,
+                            51.491866
+                        ],
+                        [
+                            -0.243263,
+                            51.491866
+                        ],
+                        [
+                            -0.243263,
+                            51.537638
+                        ],
+                        [
+                            -0.351597,
+                            51.537638
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636882220215410690
+        },
+        {
+            "id": "7d7bdec12d2549d4",
+            "url": "https://api.twitter.com/1.1/geo/id/7d7bdec12d2549d4.json",
+            "place_type": "city",
+            "name": "Nottingham",
+            "full_name": "Nottingham, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.2501363,
+                            52.921473
+                        ],
+                        [
+                            -1.094396,
+                            52.921473
+                        ],
+                        [
+                            -1.094396,
+                            53.017965
+                        ],
+                        [
+                            -1.2501363,
+                            53.017965
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643657192778747907
+        },
+        {
+            "id": "7d7bdec12d2549d4",
+            "url": "https://api.twitter.com/1.1/geo/id/7d7bdec12d2549d4.json",
+            "place_type": "city",
+            "name": "Nottingham",
+            "full_name": "Nottingham, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.2501363,
+                            52.921473
+                        ],
+                        [
+                            -1.094396,
+                            52.921473
+                        ],
+                        [
+                            -1.094396,
+                            53.017965
+                        ],
+                        [
+                            -1.2501363,
+                            53.017965
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643647761491828737
+        },
+        {
+            "id": "60160252aeb7e3e5",
+            "url": "https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json",
+            "place_type": "admin",
+            "name": "West Midlands",
+            "full_name": "West Midlands, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.23560072135158,
+                            51.8259029271059
+                        ],
+                        [
+                            -1.17213601934124,
+                            51.8259029271059
+                        ],
+                        [
+                            -1.17213601934124,
+                            53.2262100153425
+                        ],
+                        [
+                            -3.23560072135158,
+                            53.2262100153425
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644408204766453792
+        }
+    ]
+}

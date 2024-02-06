@@ -1,0 +1,3 @@
+id,url,place_type,name,full_name,country_code,country,contained_within,tweet_id,bounding_box.type,bounding_box.coordinates
+cddb718d9306e2f9,https://api.twitter.com/1.1/geo/id/cddb718d9306e2f9.json,city,Four Corners,"Four Corners, TX",US,United States,[],1630799947774697472,Polygon,"[[[-95.71547, 29.64897], [-95.643201, 29.64897], [-95.643201, 29.71046], [-95.71547, 29.71046]]]"
+cddb718d9306e2f9,https://api.twitter.com/1.1/geo/id/cddb718d9306e2f9.json,city,Four Corners,"Four Corners, TX",US,United States,[],1630799947774697472,Polygon,"[[[-95.71547, 29.64897], [-95.643201, 29.64897], [-95.643201, 29.71046], [-95.71547, 29.71046]]]"

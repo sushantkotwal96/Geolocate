@@ -1,0 +1,1978 @@
+{
+    "data": [
+        {
+            "id": "594fa6c6bc5b5ba9",
+            "url": "https://api.twitter.com/1.1/geo/id/594fa6c6bc5b5ba9.json",
+            "place_type": "city",
+            "name": "Minato-ku",
+            "full_name": "Minato-ku, Tokyo",
+            "country_code": "JP",
+            "country": "Japan",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            139.708754,
+                            35.622973
+                        ],
+                        [
+                            139.782004,
+                            35.622973
+                        ],
+                        [
+                            139.782004,
+                            35.682605
+                        ],
+                        [
+                            139.708754,
+                            35.682605
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "7de31e05e99a00f8",
+            "url": "https://api.twitter.com/1.1/geo/id/7de31e05e99a00f8.json",
+            "place_type": "city",
+            "name": "Bournemouth",
+            "full_name": "Bournemouth, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.93759,
+                            50.7095004
+                        ],
+                        [
+                            -1.7676241,
+                            50.7095004
+                        ],
+                        [
+                            -1.7676241,
+                            50.775036
+                        ],
+                        [
+                            -1.93759,
+                            50.775036
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "544762ebf7fda780",
+            "url": "https://api.twitter.com/1.1/geo/id/544762ebf7fda780.json",
+            "place_type": "city",
+            "name": "Islington",
+            "full_name": "Islington, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.1420579,
+                            51.5185518
+                        ],
+                        [
+                            -0.076305,
+                            51.5185518
+                        ],
+                        [
+                            -0.076305,
+                            51.575301
+                        ],
+                        [
+                            -0.1420579,
+                            51.575301
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "56c45474148ca4da",
+            "url": "https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json",
+            "place_type": "city",
+            "name": "Paddington",
+            "full_name": "Paddington, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.2160701,
+                            51.5098789
+                        ],
+                        [
+                            -0.1301597,
+                            51.5098789
+                        ],
+                        [
+                            -0.1301597,
+                            51.5397916
+                        ],
+                        [
+                            -0.2160701,
+                            51.5397916
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "7de31e05e99a00f8",
+            "url": "https://api.twitter.com/1.1/geo/id/7de31e05e99a00f8.json",
+            "place_type": "city",
+            "name": "Bournemouth",
+            "full_name": "Bournemouth, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.93759,
+                            50.7095004
+                        ],
+                        [
+                            -1.7676241,
+                            50.7095004
+                        ],
+                        [
+                            -1.7676241,
+                            50.775036
+                        ],
+                        [
+                            -1.93759,
+                            50.775036
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "544762ebf7fda780",
+            "url": "https://api.twitter.com/1.1/geo/id/544762ebf7fda780.json",
+            "place_type": "city",
+            "name": "Islington",
+            "full_name": "Islington, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.1420579,
+                            51.5185518
+                        ],
+                        [
+                            -0.076305,
+                            51.5185518
+                        ],
+                        [
+                            -0.076305,
+                            51.575301
+                        ],
+                        [
+                            -0.1420579,
+                            51.575301
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "56c45474148ca4da",
+            "url": "https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json",
+            "place_type": "city",
+            "name": "Paddington",
+            "full_name": "Paddington, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.2160701,
+                            51.5098789
+                        ],
+                        [
+                            -0.1301597,
+                            51.5098789
+                        ],
+                        [
+                            -0.1301597,
+                            51.5397916
+                        ],
+                        [
+                            -0.2160701,
+                            51.5397916
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "7de31e05e99a00f8",
+            "url": "https://api.twitter.com/1.1/geo/id/7de31e05e99a00f8.json",
+            "place_type": "city",
+            "name": "Bournemouth",
+            "full_name": "Bournemouth, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.93759,
+                            50.7095004
+                        ],
+                        [
+                            -1.7676241,
+                            50.7095004
+                        ],
+                        [
+                            -1.7676241,
+                            50.775036
+                        ],
+                        [
+                            -1.93759,
+                            50.775036
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "544762ebf7fda780",
+            "url": "https://api.twitter.com/1.1/geo/id/544762ebf7fda780.json",
+            "place_type": "city",
+            "name": "Islington",
+            "full_name": "Islington, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.1420579,
+                            51.5185518
+                        ],
+                        [
+                            -0.076305,
+                            51.5185518
+                        ],
+                        [
+                            -0.076305,
+                            51.575301
+                        ],
+                        [
+                            -0.1420579,
+                            51.575301
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "56c45474148ca4da",
+            "url": "https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json",
+            "place_type": "city",
+            "name": "Paddington",
+            "full_name": "Paddington, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.2160701,
+                            51.5098789
+                        ],
+                        [
+                            -0.1301597,
+                            51.5098789
+                        ],
+                        [
+                            -0.1301597,
+                            51.5397916
+                        ],
+                        [
+                            -0.2160701,
+                            51.5397916
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "dea1eac2d7ef8878",
+            "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json",
+            "place_type": "admin",
+            "name": "Maryland",
+            "full_name": "Maryland, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.487651,
+                            37.886607
+                        ],
+                        [
+                            -74.986286,
+                            37.886607
+                        ],
+                        [
+                            -74.986286,
+                            39.723622
+                        ],
+                        [
+                            -79.487651,
+                            39.723622
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "1c37515518593fe3",
+            "url": "https://api.twitter.com/1.1/geo/id/1c37515518593fe3.json",
+            "place_type": "city",
+            "name": "Richmond",
+            "full_name": "Richmond, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.39216,
+                            51.391383
+                        ],
+                        [
+                            -0.221832,
+                            51.391383
+                        ],
+                        [
+                            -0.221832,
+                            51.489646
+                        ],
+                        [
+                            -0.39216,
+                            51.489646
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "dea1eac2d7ef8878",
+            "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json",
+            "place_type": "admin",
+            "name": "Maryland",
+            "full_name": "Maryland, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.487651,
+                            37.886607
+                        ],
+                        [
+                            -74.986286,
+                            37.886607
+                        ],
+                        [
+                            -74.986286,
+                            39.723622
+                        ],
+                        [
+                            -79.487651,
+                            39.723622
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "1c37515518593fe3",
+            "url": "https://api.twitter.com/1.1/geo/id/1c37515518593fe3.json",
+            "place_type": "city",
+            "name": "Richmond",
+            "full_name": "Richmond, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.39216,
+                            51.391383
+                        ],
+                        [
+                            -0.221832,
+                            51.391383
+                        ],
+                        [
+                            -0.221832,
+                            51.489646
+                        ],
+                        [
+                            -0.39216,
+                            51.489646
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "17cc57fae415c45e",
+            "url": "https://api.twitter.com/1.1/geo/id/17cc57fae415c45e.json",
+            "place_type": "city",
+            "name": "Milton Keynes",
+            "full_name": "Milton Keynes, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.8604724,
+                            51.973129
+                        ],
+                        [
+                            -0.667655,
+                            51.973129
+                        ],
+                        [
+                            -0.667655,
+                            52.094005
+                        ],
+                        [
+                            -0.8604724,
+                            52.094005
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "c275c772a67a6ffc",
+            "url": "https://api.twitter.com/1.1/geo/id/c275c772a67a6ffc.json",
+            "place_type": "city",
+            "name": "Clare",
+            "full_name": "Clare, Ireland",
+            "country_code": "IE",
+            "country": "Ireland",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.9381228,
+                            52.5572129
+                        ],
+                        [
+                            -8.2819755,
+                            52.5572129
+                        ],
+                        [
+                            -8.2819755,
+                            53.160735
+                        ],
+                        [
+                            -9.9381228,
+                            53.160735
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "5e2c83e1fb041c0c",
+            "url": "https://api.twitter.com/1.1/geo/id/5e2c83e1fb041c0c.json",
+            "place_type": "city",
+            "name": "Kahului",
+            "full_name": "Kahului, HI",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -156.500605,
+                            20.8488792
+                        ],
+                        [
+                            -156.451278,
+                            20.8488792
+                        ],
+                        [
+                            -156.451278,
+                            20.90097
+                        ],
+                        [
+                            -156.500605,
+                            20.90097
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "776bc3a7f14c1999",
+            "url": "https://api.twitter.com/1.1/geo/id/776bc3a7f14c1999.json",
+            "place_type": "city",
+            "name": "Littlehampton",
+            "full_name": "Littlehampton, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.559316,
+                            50.8023182
+                        ],
+                        [
+                            -0.44007,
+                            50.8023182
+                        ],
+                        [
+                            -0.44007,
+                            50.837863
+                        ],
+                        [
+                            -0.559316,
+                            50.837863
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "7ef79c5ab17d518c",
+            "url": "https://api.twitter.com/1.1/geo/id/7ef79c5ab17d518c.json",
+            "place_type": "city",
+            "name": "Barnet",
+            "full_name": "Barnet, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.2925791,
+                            51.555179
+                        ],
+                        [
+                            -0.12921,
+                            51.555179
+                        ],
+                        [
+                            -0.12921,
+                            51.6685903
+                        ],
+                        [
+                            -0.2925791,
+                            51.6685903
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "d6819fe60643ebc1",
+            "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+            "place_type": "city",
+            "name": "Alexandria",
+            "full_name": "Alexandria, VA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.144435,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.8448531
+                        ],
+                        [
+                            -77.144435,
+                            38.8448531
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633280753856393218
+        },
+        {
+            "id": "151b9e91272233d1",
+            "url": "https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json",
+            "place_type": "city",
+            "name": "Liverpool",
+            "full_name": "Liverpool, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.008791,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.474867
+                        ],
+                        [
+                            -3.008791,
+                            53.474867
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633276346989264897
+        },
+        {
+            "id": "d6819fe60643ebc1",
+            "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+            "place_type": "city",
+            "name": "Alexandria",
+            "full_name": "Alexandria, VA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.144435,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.8448531
+                        ],
+                        [
+                            -77.144435,
+                            38.8448531
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633280753856393218
+        },
+        {
+            "id": "151b9e91272233d1",
+            "url": "https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json",
+            "place_type": "city",
+            "name": "Liverpool",
+            "full_name": "Liverpool, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.008791,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.474867
+                        ],
+                        [
+                            -3.008791,
+                            53.474867
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633276346989264897
+        },
+        {
+            "id": "d6819fe60643ebc1",
+            "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+            "place_type": "city",
+            "name": "Alexandria",
+            "full_name": "Alexandria, VA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.144435,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.8448531
+                        ],
+                        [
+                            -77.144435,
+                            38.8448531
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633280753856393218
+        },
+        {
+            "id": "151b9e91272233d1",
+            "url": "https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json",
+            "place_type": "city",
+            "name": "Liverpool",
+            "full_name": "Liverpool, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.008791,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.474867
+                        ],
+                        [
+                            -3.008791,
+                            53.474867
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633276346989264897
+        },
+        {
+            "id": "d6819fe60643ebc1",
+            "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json",
+            "place_type": "city",
+            "name": "Alexandria",
+            "full_name": "Alexandria, VA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.144435,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.789907
+                        ],
+                        [
+                            -77.037304,
+                            38.8448531
+                        ],
+                        [
+                            -77.144435,
+                            38.8448531
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633280753856393218
+        },
+        {
+            "id": "151b9e91272233d1",
+            "url": "https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json",
+            "place_type": "city",
+            "name": "Liverpool",
+            "full_name": "Liverpool, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.008791,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.474867
+                        ],
+                        [
+                            -3.008791,
+                            53.474867
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633276346989264897
+        },
+        {
+            "id": "3bc1b6cfd27ef7f6",
+            "url": "https://api.twitter.com/1.1/geo/id/3bc1b6cfd27ef7f6.json",
+            "place_type": "admin",
+            "name": "East",
+            "full_name": "East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.745779800818049,
+                            51.4482221321091
+                        ],
+                        [
+                            1.76893599950184,
+                            51.4482221321091
+                        ],
+                        [
+                            1.76893599950184,
+                            52.9926789576249
+                        ],
+                        [
+                            -0.745779800818049,
+                            52.9926789576249
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633521349154021402
+        },
+        {
+            "id": "493f3c56a482e1c3",
+            "url": "https://api.twitter.com/1.1/geo/id/493f3c56a482e1c3.json",
+            "place_type": "city",
+            "name": "Bedworth",
+            "full_name": "Bedworth, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.516904,
+                            52.456375
+                        ],
+                        [
+                            -1.454261,
+                            52.456375
+                        ],
+                        [
+                            -1.454261,
+                            52.491244
+                        ],
+                        [
+                            -1.516904,
+                            52.491244
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633520601829711878
+        },
+        {
+            "id": "25d3e991f5637f5a",
+            "url": "https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json",
+            "place_type": "admin",
+            "name": "South West",
+            "full_name": "South West, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.36850399906372,
+                            49.8824720005481
+                        ],
+                        [
+                            -1.48573420014269,
+                            49.8824720005481
+                        ],
+                        [
+                            -1.48573420014269,
+                            52.1125420344225
+                        ],
+                        [
+                            -6.36850399906372,
+                            52.1125420344225
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634957467611467776
+        },
+        {
+            "id": "01aca86a155c9099",
+            "url": "https://api.twitter.com/1.1/geo/id/01aca86a155c9099.json",
+            "place_type": "city",
+            "name": "Enugu",
+            "full_name": "Enugu, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            7.4542209,
+                            6.377634
+                        ],
+                        [
+                            7.5868623,
+                            6.377634
+                        ],
+                        [
+                            7.5868623,
+                            6.5048626
+                        ],
+                        [
+                            7.4542209,
+                            6.5048626
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634957193228488704
+        },
+        {
+            "id": "2edf98027d556c5f",
+            "url": "https://api.twitter.com/1.1/geo/id/2edf98027d556c5f.json",
+            "place_type": "city",
+            "name": "South Tipperary",
+            "full_name": "South Tipperary, Ireland",
+            "country_code": "IE",
+            "country": "Ireland",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.4057899,
+                            52.2013149
+                        ],
+                        [
+                            -7.3718273,
+                            52.2013149
+                        ],
+                        [
+                            -7.3718273,
+                            52.7335849
+                        ],
+                        [
+                            -8.4057899,
+                            52.7335849
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634998643760726016
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1635000169073872896
+        },
+        {
+            "id": "2615344c84ed87ee",
+            "url": "https://api.twitter.com/1.1/geo/id/2615344c84ed87ee.json",
+            "place_type": "city",
+            "name": "Oshawa",
+            "full_name": "Oshawa, Ontario",
+            "country_code": "CA",
+            "country": "Canada",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.959206,
+                            43.614586
+                        ],
+                        [
+                            -78.68523,
+                            43.614586
+                        ],
+                        [
+                            -78.68523,
+                            44.047385
+                        ],
+                        [
+                            -78.959206,
+                            44.047385
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634999287011741696
+        },
+        {
+            "id": "2edf98027d556c5f",
+            "url": "https://api.twitter.com/1.1/geo/id/2edf98027d556c5f.json",
+            "place_type": "city",
+            "name": "South Tipperary",
+            "full_name": "South Tipperary, Ireland",
+            "country_code": "IE",
+            "country": "Ireland",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.4057899,
+                            52.2013149
+                        ],
+                        [
+                            -7.3718273,
+                            52.2013149
+                        ],
+                        [
+                            -7.3718273,
+                            52.7335849
+                        ],
+                        [
+                            -8.4057899,
+                            52.7335849
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634998643760726016
+        },
+        {
+            "id": "572b2bb5c161e847",
+            "url": "https://api.twitter.com/1.1/geo/id/572b2bb5c161e847.json",
+            "place_type": "city",
+            "name": "Willow Springs",
+            "full_name": "Willow Springs, IL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.914681,
+                            41.716477
+                        ],
+                        [
+                            -87.847475,
+                            41.716477
+                        ],
+                        [
+                            -87.847475,
+                            41.760666
+                        ],
+                        [
+                            -87.914681,
+                            41.760666
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636933953553674240
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636898200211668997
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636898113821573120
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636897910708207616
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636897868643483649
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636897816218927105
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636897771188895745
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636897724728573952
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636897643451277312
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636896301777289217
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636895316107558912
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636893598930067458
+        },
+        {
+            "id": "75e7d01fe6019384",
+            "url": "https://api.twitter.com/1.1/geo/id/75e7d01fe6019384.json",
+            "place_type": "city",
+            "name": "Kingsbridge",
+            "full_name": "Kingsbridge, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.4546539,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.1240563
+                        ],
+                        [
+                            -3.4496875,
+                            51.131088
+                        ],
+                        [
+                            -3.4546539,
+                            51.131088
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636891290460733441
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643683538481315841
+        },
+        {
+            "id": "09ba692cbddfc92c",
+            "url": "https://api.twitter.com/1.1/geo/id/09ba692cbddfc92c.json",
+            "place_type": "city",
+            "name": "Hammersmith",
+            "full_name": "Hammersmith, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.254563,
+                            51.463873
+                        ],
+                        [
+                            -0.177653,
+                            51.463873
+                        ],
+                        [
+                            -0.177653,
+                            51.532901
+                        ],
+                        [
+                            -0.254563,
+                            51.532901
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643681975281000448
+        },
+        {
+            "id": "457b4814b4240d87",
+            "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json",
+            "place_type": "city",
+            "name": "London",
+            "full_name": "London, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.187894,
+                            51.483718
+                        ],
+                        [
+                            -0.109978,
+                            51.483718
+                        ],
+                        [
+                            -0.109978,
+                            51.5164655
+                        ],
+                        [
+                            -0.187894,
+                            51.5164655
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643681895622877217
+        },
+        {
+            "id": "003e299707d0375b",
+            "url": "https://api.twitter.com/1.1/geo/id/003e299707d0375b.json",
+            "place_type": "city",
+            "name": "Accra",
+            "full_name": "Accra, Ghana",
+            "country_code": "GH",
+            "country": "Ghana",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.3470252,
+                            5.51713
+                        ],
+                        [
+                            -0.0215619,
+                            5.51713
+                        ],
+                        [
+                            -0.0215619,
+                            5.7292666
+                        ],
+                        [
+                            -0.3470252,
+                            5.7292666
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643676910017290261
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644412186746339329
+        },
+        {
+            "id": "a8d32fb032a774ce",
+            "url": "https://api.twitter.com/1.1/geo/id/a8d32fb032a774ce.json",
+            "place_type": "city",
+            "name": "Almuñécar",
+            "full_name": "Almuñécar, Spain",
+            "country_code": "ES",
+            "country": "Spain",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.7907455,
+                            36.7191865
+                        ],
+                        [
+                            -3.6350123,
+                            36.7191865
+                        ],
+                        [
+                            -3.6350123,
+                            36.8226853
+                        ],
+                        [
+                            -3.7907455,
+                            36.8226853
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644403083001069569
+        },
+        {
+            "id": "c3f37afa9efcf94b",
+            "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+            "place_type": "city",
+            "name": "Austin",
+            "full_name": "Austin, TX",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.928935,
+                            30.127892
+                        ],
+                        [
+                            -97.5805133,
+                            30.127892
+                        ],
+                        [
+                            -97.5805133,
+                            30.5187994
+                        ],
+                        [
+                            -97.928935,
+                            30.5187994
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644395191728500736
+        }
+    ]
+}

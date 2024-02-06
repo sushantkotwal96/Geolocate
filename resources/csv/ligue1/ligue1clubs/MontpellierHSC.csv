@@ -1,0 +1,524 @@
+created_at,id,id_str,full_text,truncated,display_text_range,source,in_reply_to_status_id,in_reply_to_status_id_str,in_reply_to_user_id,in_reply_to_user_id_str,in_reply_to_screen_name,geo,coordinates,place,contributors,is_quote_status,retweet_count,favorite_count,favorited,retweeted,possibly_sensitive,lang,metadata.iso_language_code,metadata.result_type,user.id,user.id_str,user.name,user.screen_name,user.location,user.description,user.url,user.entities.url.urls,user.entities.description.urls,user.protected,user.followers_count,user.friends_count,user.listed_count,user.created_at,user.favourites_count,user.utc_offset,user.time_zone,user.geo_enabled,user.verified,user.statuses_count,user.lang,user.contributors_enabled,user.is_translator,user.is_translation_enabled,user.profile_background_color,user.profile_background_image_url,user.profile_background_image_url_https,user.profile_background_tile,user.profile_image_url,user.profile_image_url_https,user.profile_banner_url,user.profile_link_color,user.profile_sidebar_border_color,user.profile_sidebar_fill_color,user.profile_text_color,user.profile_use_background_image,user.has_extended_profile,user.default_profile,user.default_profile_image,user.following,user.follow_request_sent,user.notifications,user.translator_type,user.withheld_in_countries,place.id,place.url,place.place_type,place.name,place.full_name,place.country_code,place.country,place.contained_within,place.bounding_box.type,place.bounding_box.coordinates,place.tweet_id,quoted_status_id,quoted_status_id_str,quoted_status.created_at,quoted_status.id,quoted_status.id_str,quoted_status.full_text,quoted_status.truncated,quoted_status.display_text_range,quoted_status.metadata.iso_language_code,quoted_status.metadata.result_type,quoted_status.source,quoted_status.in_reply_to_status_id,quoted_status.in_reply_to_status_id_str,quoted_status.in_reply_to_user_id,quoted_status.in_reply_to_user_id_str,quoted_status.in_reply_to_screen_name,quoted_status.user.id,quoted_status.user.id_str,quoted_status.user.name,quoted_status.user.screen_name,quoted_status.user.location,quoted_status.user.description,quoted_status.user.url,quoted_status.user.entities.url.urls,quoted_status.user.entities.description.urls,quoted_status.user.protected,quoted_status.user.followers_count,quoted_status.user.friends_count,quoted_status.user.listed_count,quoted_status.user.created_at,quoted_status.user.favourites_count,quoted_status.user.utc_offset,quoted_status.user.time_zone,quoted_status.user.geo_enabled,quoted_status.user.verified,quoted_status.user.statuses_count,quoted_status.user.lang,quoted_status.user.contributors_enabled,quoted_status.user.is_translator,quoted_status.user.is_translation_enabled,quoted_status.user.profile_background_color,quoted_status.user.profile_background_image_url,quoted_status.user.profile_background_image_url_https,quoted_status.user.profile_background_tile,quoted_status.user.profile_image_url,quoted_status.user.profile_image_url_https,quoted_status.user.profile_banner_url,quoted_status.user.profile_link_color,quoted_status.user.profile_sidebar_border_color,quoted_status.user.profile_sidebar_fill_color,quoted_status.user.profile_text_color,quoted_status.user.profile_use_background_image,quoted_status.user.has_extended_profile,quoted_status.user.default_profile,quoted_status.user.default_profile_image,quoted_status.user.following,quoted_status.user.follow_request_sent,quoted_status.user.notifications,quoted_status.user.translator_type,quoted_status.user.withheld_in_countries,quoted_status.geo,quoted_status.coordinates,quoted_status.place,quoted_status.contributors,quoted_status.is_quote_status,quoted_status.retweet_count,quoted_status.favorite_count,quoted_status.favorited,quoted_status.retweeted,quoted_status.lang
+Sun Mar 05 16:33:51 +0000 2023,1632419161400832000,1632419161400832000,Les Tops &amp; Flops #MHSC #Ligue1 | Allez Paillade https://t.co/7NGWED6zLG,False,"[0, 75]","<a href=""http://www.football-addict.com/fr/news/ligue-1/montpellier-hsc"" rel=""nofollow"">MHSC Addict</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,825022608613707776,825022608613707776,MHSC Addict,MHSCAddict,"Montpellier, France",Impossible de rater une info du Montpellier Hérault Sport Club avec MHSC Addict !,https://t.co/qfOpKR2zVW,"[{'url': 'https://t.co/qfOpKR2zVW', 'expanded_url': 'http://www.football-addict.com/fr/news/ligue-1/montpellier-hsc', 'display_url': 'football-addict.com/fr/news/ligue-…', 'indices': [0, 23]}]",[],False,748,1818,6,Fri Jan 27 16:48:12 +0000 2017,161,,,False,False,36736,,False,False,False,000000,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/825023834982080514/lZLM6W0X_normal.jpg,https://pbs.twimg.com/profile_images/825023834982080514/lZLM6W0X_normal.jpg,https://pbs.twimg.com/profile_banners/825022608613707776/1651154700,1B95E0,000000,000000,000000,False,True,False,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Mar 05 07:11:02 +0000 2023,1632277521998794752,1632277521998794752,HSC Montpellier of 2011 with Oliver Giroud on the team was fire 🔥🔥 https://t.co/Km4KcJ1mj7,False,"[0, 66]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,1,13,False,False,False,en,en,recent,372445034,372445034,Mutungo's 🐐™️,lubersolz,"Gulu, Uganda",Football Journalist at @RabSportsNews | Retired Footballer | Tv & Radio Personality | Football Analyst | Gamer | F1 | Maroons SC |,https://t.co/6DC3MeQRRe,"[{'url': 'https://t.co/6DC3MeQRRe', 'expanded_url': 'http://rabsportsnews.com/author/lubangakene', 'display_url': 'rabsportsnews.com/author/lubanga…', 'indices': [0, 23]}]",[],False,49455,8046,16,Mon Sep 12 19:52:19 +0000 2011,304196,,,True,False,170966,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1511393791730724864/IFb7RLVH_normal.jpg,https://pbs.twimg.com/profile_images/1511393791730724864/IFb7RLVH_normal.jpg,https://pbs.twimg.com/profile_banners/372445034/1678193866,7FDBB6,FFFFFF,DDEEF6,333333,True,False,False,False,False,False,False,none,[],01939687169f3384,https://api.twitter.com/1.1/geo/id/01939687169f3384.json,admin,Gulu,"Gulu, Uganda",UG,Uganda,[],Polygon,"[[[32.1251757, 2.4457346], [32.8294398, 2.4457346], [32.8294398, 3.3008154], [32.1251757, 3.3008154]]]",1.6322775219987948e+18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fri Mar 03 13:33:00 +0000 2023,1631648871477829633,1631648871477829633,🐺✍️ VfL Wolfsburg have signed goalkeeper Lisa Schmitz from HSC Montpellier. Her contract runs until 2️⃣0️⃣2️⃣5️⃣. #VfLWolfsburg https://t.co/YYHuzlAdRp,False,"[0, 127]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1568948861539950592,1568948861539950592,Sportsmedia ❁,Sp0rtsmedia,,Sports & Entertainment,,,[],False,1069,5,8,Sun Sep 11 13:05:48 +0000 2022,5,,,False,False,2605,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1568949022127169537/mjP-MG8r_normal.png,https://pbs.twimg.com/profile_images/1568949022127169537/mjP-MG8r_normal.png,https://pbs.twimg.com/profile_banners/1568948861539950592/1671694835,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fri Mar 03 10:30:27 +0000 2023,1631602930863226880,1631602930863226880,"🚨 VFL Wolfsburg have announces their third signing of goalkeeper Lisa Schmitz from HSC Montpellier on a contract till 2️⃣0️⃣2️⃣5️⃣.
+Schmitz will join the club in the summer as a free agent.
+#schmitz https://t.co/EyPt51fRbt",False,"[0, 198]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1437774657072115721,1437774657072115721,SHE FOOTBALL,She_F00tball,,"Channel dedicated to women's football, the beautiful game  with updates on women's football globally.",,,[],False,25,91,1,Tue Sep 14 13:46:38 +0000 2021,170,,,False,False,303,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1632093914504089603/qpms7ZwZ_normal.jpg,https://pbs.twimg.com/profile_images/1632093914504089603/qpms7ZwZ_normal.jpg,https://pbs.twimg.com/profile_banners/1437774657072115721/1677956599,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fri Mar 03 10:17:20 +0000 2023,1631599632403898368,1631599632403898368,"Lisa Schmitz becomes a 🐺. 
+The 30-year-old German goalkeeper joins @VfL_Frauen from HSC Montpellier and signs a contract until 2025. 
+
+Are you surprised by the transfer? 
+
+#DieLiga #VFLWolfsburg #VFLFrauen #LisaSchmitz https://t.co/0m95FyGlKC",False,"[0, 218]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,6,132,False,False,False,en,en,recent,190605849,190605849,Soccerdonna,soccerdonna,,"Women’s football website with focus on news, statistics, facts and transfers! ⚽️🌎 Part of @transfermarkt",https://t.co/KGcwdOFr1L,"[{'url': 'https://t.co/KGcwdOFr1L', 'expanded_url': 'http://www.soccerdonna.de', 'display_url': 'soccerdonna.de', 'indices': [0, 23]}]",[],False,12043,485,124,Tue Sep 14 11:31:13 +0000 2010,821,,,True,False,11971,,False,False,False,352726,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1220700110784471045/Hcps4M7e_normal.jpg,https://pbs.twimg.com/profile_images/1220700110784471045/Hcps4M7e_normal.jpg,https://pbs.twimg.com/profile_banners/190605849/1637772000,D02B55,C0DEED,DDEEF6,333333,True,False,False,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fri Mar 03 10:07:36 +0000 2023,1631597183064580096,1631597183064580096,"🐺✍️ VfL Wolfsburg have signed goalkeeper Lisa Schmitz from HSC Montpellier. Her contract runs until 2️⃣0️⃣2️⃣5️⃣.
+
+(📸 VfL_Frauen) https://t.co/cLIbVbcYK6",False,"[0, 129]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,2,41,False,False,False,en,en,recent,1587135976652115969,1587135976652115969,Frauen Bundesliga News,bundesliga_f,Germany,All about German women’s football in English 🇩🇪⚽️🇬🇧 NOT affiliated with @dfb_frauen or others.,,,[],False,1887,168,18,Mon Oct 31 17:35:10 +0000 2022,968,,,True,False,1997,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1587137024661889024/PzlSl6EF_normal.jpg,https://pbs.twimg.com/profile_images/1587137024661889024/PzlSl6EF_normal.jpg,https://pbs.twimg.com/profile_banners/1587135976652115969/1667252388,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wed Mar 01 13:47:10 +0000 2023,1630927661735313408,1630927661735313408,"Favourite team from each country 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 : QPR 
+🇪🇸 : Sevilla
+🇮🇹 : Inter Milan
+🇫🇷 : HSC Montpellier
+🇩🇪 : Schalke 04
+🇳🇱 : AFC Ajax
+🇵🇹 : SL Benfica https://t.co/Bo9eOMxXfH",False,"[0, 145]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,True,0,0,False,False,False,en,en,recent,499860249,499860249,Ismail,ismailm666,Urk,🇲🇦 🇳🇱 🇧🇪,,,[],False,127,396,2,Wed Feb 22 15:14:19 +0000 2012,4805,,,True,False,5152,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1344316191838527488/7re8yUgp_normal.jpg,https://pbs.twimg.com/profile_images/1344316191838527488/7re8yUgp_normal.jpg,https://pbs.twimg.com/profile_banners/499860249/1436817209,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,,,,,,,,,,,1.6306087524276388e+18,1630608752427638790,Tue Feb 28 16:39:56 +0000 2023,1.6306087524276388e+18,1630608752427638790,"Favourite team from each country 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 :
+🇪🇸 :
+🇮🇹 :
+🇫🇷 :
+🇩🇪 :
+🇳🇱 :
+🇵🇹 :",False,"[0, 73]",en,recent,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,1.303026765737218e+18,1303026765737218049,george,StokeyyG2,send me tweets to nab,📩 My Business Email: stokeyenquiries@gmail.com | drop my second account a follow! @StokeyyFC,https://t.co/I1D0FXgaYN,"[{'url': 'https://t.co/I1D0FXgaYN', 'expanded_url': 'https://linktr.ee/stokeyyg2', 'display_url': 'linktr.ee/stokeyyg2', 'indices': [0, 23]}]",[],False,331430.0,3802.0,530.0,Mon Sep 07 17:46:15 +0000 2020,73184.0,,,True,False,50294.0,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565722268738748416/4FWACDQs_normal.jpg,https://pbs.twimg.com/profile_images/1565722268738748416/4FWACDQs_normal.jpg,https://pbs.twimg.com/profile_banners/1303026765737218049/1653306587,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,False,298.0,17005.0,False,False,en
+Wed Mar 01 02:11:04 +0000 2023,1630752481608101888,1630752481608101888,"""Live Sports Streams News: How to Watch Montpellier HSC vs. Angers SCO: Live Stream, TV Channel, Start Time"": https://t.co/H6X47glzbW",False,"[0, 133]","<a href=""http://www.robinspost.com"" rel=""nofollow"">RobinsPost Retweets</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,336437711,336437711,Sports News & Videos,robinsportsnews,RT's Are FYI Purposes Only,Join http://t.co/tFgwIuOAlo for the best Sports News & Videos. Get the best updates on sports events and opinions from members of Twitter. Feel the excitement!,http://t.co/RskLQwUqp7,"[{'url': 'http://t.co/RskLQwUqp7', 'expanded_url': 'http://www.robinspost.com/news/sports-news.html', 'display_url': 'robinspost.com/news/sports-ne…', 'indices': [0, 22]}]","[{'url': 'http://t.co/tFgwIuOAlo', 'expanded_url': 'http://RobinsPost.com', 'display_url': 'RobinsPost.com', 'indices': [5, 27]}]",False,8891,6381,241,Sat Jul 16 08:50:59 +0000 2011,20,,,False,False,986753,,False,False,False,000000,http://abs.twimg.com/images/themes/theme14/bg.gif,https://abs.twimg.com/images/themes/theme14/bg.gif,False,http://pbs.twimg.com/profile_images/2240592273/robin_digital_stamp_colored_icon_normal.png,https://pbs.twimg.com/profile_images/2240592273/robin_digital_stamp_colored_icon_normal.png,https://pbs.twimg.com/profile_banners/336437711/1406028221,880000,000000,000000,000000,False,False,False,False,False,False,False,regular,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wed Mar 01 00:46:41 +0000 2023,1630731246165696512,1630731246165696512,"Calendrier du mois de Mars
+
+5⃣✈️Stade de Reims
+1⃣2⃣🏠Montpellier HSC
+1⃣9⃣🏠AS Monaco https://t.co/5fB9NgHw2u",False,"[0, 82]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,7,False,False,False,en,en,recent,1386269382150696969,1386269382150696969,A NUTIZIA DI L’ORSU🐻❤️,anutiziadilorsu,Stade François Coty,"Actualités, Débats, Résultats, Photos, Vidéos. Ici vous trouverez tout ce que vous cherchez sur l'@ACAjaccio, club de @Ligue1UberEats",https://t.co/0mr59ZNQ2J,"[{'url': 'https://t.co/0mr59ZNQ2J', 'expanded_url': 'https://www.facebook.com/anutiziadilorsu', 'display_url': 'facebook.com/anutiziadilorsu', 'indices': [0, 23]}]",[],False,494,108,6,Sun Apr 25 10:42:42 +0000 2021,1388,,,False,False,1029,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1522948758706737158/5UFId4rB_normal.jpg,https://pbs.twimg.com/profile_images/1522948758706737158/5UFId4rB_normal.jpg,https://pbs.twimg.com/profile_banners/1386269382150696969/1667777267,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Feb 28 10:43:14 +0000 2023,1630518988059955202,1630518988059955202,"@PhillipSkosana2 @sipho_93 @eemz_em @SAFootClassics Speculation? yes.
+Lies?? prove it.
+https://t.co/129sOFrWuA
+
+https://t.co/z1MxE5JTBo",False,"[52, 135]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",1.630517607882281e+18,1630517607882280960,1.5689856436650312e+18,1568985643665031171,PhillipSkosana2,,,,,False,0,0,False,False,False,en,en,recent,854181963871244288,854181963871244288,Kage dies.,Prince_Geta,Planet Earth,Control Systems and Automation Engineer🧑‍🔬| Code Junky🧑‍💻| MSFC Fan👆⚽️👆| Serial procrastinator🚩| I argue a ton ❗️| Introverted🏠| MoPedi⚔️,,,[],False,136,128,0,Tue Apr 18 03:57:04 +0000 2017,8840,,,False,False,4788,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1347056909325656064/0jgW2HyS_normal.jpg,https://pbs.twimg.com/profile_images/1347056909325656064/0jgW2HyS_normal.jpg,https://pbs.twimg.com/profile_banners/854181963871244288/1608458178,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 20:07:23 +0000 2023,1629936183143972865,1629936183143972865,"Live Stream |  🧍🏼
+
+🏇🏻 OM vs PSG
+
+Watch from here :
+
+Link 1 : 
+@psgfreelive
+
+Link 2 : 
+@psgfreelive
+
+#OMPSG #LeClassique
+
+Preview: Montpellier HSC vs  Marseille - prediction, team news, lineups - Sports Mole https://t.co/7GNp8joPFo",False,"[0, 206]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1445722237,1445722237,Marseille vs PSG Live Stream,psgfreelive,United States,"French Ligue 1 - PSG vs Lille: Preview, when and where to watch #PSG #Marseille #PSGBAY #Football #Messi #Neymar #PSGMarseille",https://t.co/G0FPcHnlil,"[{'url': 'https://t.co/G0FPcHnlil', 'expanded_url': 'https://naeim-tv.blogspot.com/2023/02/psg_26.html', 'display_url': 'naeim-tv.blogspot.com/2023/02/psg_26…', 'indices': [0, 23]}]",[],False,278,20,0,Tue May 21 07:30:12 +0000 2013,1,,,False,False,877,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1623335243506909185/X3PVpz3W_normal.jpg,https://pbs.twimg.com/profile_images/1623335243506909185/X3PVpz3W_normal.jpg,https://pbs.twimg.com/profile_banners/1445722237/1676120825,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 20:01:28 +0000 2023,1629934693121667072,1629934693121667072,"Live Stream |  🧍🏼
+
+🏇🏻 OM vs PSG
+
+Watch from here :
+
+Link 1 : 
+@psgfreelive
+
+Link 2 : 
+@psgfreelive
+
+#OMPSG #LeClassique
+
+Preview: Montpellier HSC vs  Marseille - prediction, team news, lineups - Sports Mole https://t.co/n25zzN3X09",False,"[0, 206]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1445722237,1445722237,Marseille vs PSG Live Stream,psgfreelive,United States,"French Ligue 1 - PSG vs Lille: Preview, when and where to watch #PSG #Marseille #PSGBAY #Football #Messi #Neymar #PSGMarseille",https://t.co/G0FPcHnlil,"[{'url': 'https://t.co/G0FPcHnlil', 'expanded_url': 'https://naeim-tv.blogspot.com/2023/02/psg_26.html', 'display_url': 'naeim-tv.blogspot.com/2023/02/psg_26…', 'indices': [0, 23]}]",[],False,278,20,0,Tue May 21 07:30:12 +0000 2013,1,,,False,False,877,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1623335243506909185/X3PVpz3W_normal.jpg,https://pbs.twimg.com/profile_images/1623335243506909185/X3PVpz3W_normal.jpg,https://pbs.twimg.com/profile_banners/1445722237/1676120825,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 20:00:35 +0000 2023,1629934470374752256,1629934470374752256,"Live Stream |  🧍🏼
+
+🏇🏻 OM vs PSG
+
+Watch from here :
+
+Link 1 : 
+@BrightonLiveUK
+
+Link 2 : 
+@BrightonLiveUK
+
+#OMPSG #LeClassique
+
+Preview: Montpellier HSC vs  Marseille - prediction, team news, lineups - Sports Mole 
+@BrightonLiveUK 
+uio https://t.co/JwwwJvs0u2",False,"[0, 234]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1587743610,1587743610,Marseille vs PSG live stream,BrightonLiveUK,United State,Olympique de Marseille - Paris Saint-Germain #Marseille vs #PSG #Football,https://t.co/emJJYRY4EZ,"[{'url': 'https://t.co/emJJYRY4EZ', 'expanded_url': 'https://tinyurl.com/2xrc5cue', 'display_url': 'tinyurl.com/2xrc5cue', 'indices': [0, 23]}]",[],False,19,9,0,Fri Jul 12 06:31:51 +0000 2013,0,,,False,False,144,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1629931949367373824/xt0J2Xf9_normal.jpg,https://pbs.twimg.com/profile_images/1629931949367373824/xt0J2Xf9_normal.jpg,https://pbs.twimg.com/profile_banners/1587743610/1677441036,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 19:59:23 +0000 2023,1629934168103858177,1629934168103858177,"Live Stream |  🧍🏼
+
+🏇🏻 OM vs PSG
+
+Watch from here :
+
+Link 1 : 
+@psgfreelive
+@psgfreelive
+
+Link 2 : 
+@psgfreelive
+@psgfreelive
+
+#OMPSG #LeClassique
+
+Preview: Montpellier HSC vs  Marseille - prediction, team news, lineups - Sports Mole https://t.co/bAYrGSDg8E",False,"[0, 232]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1445722237,1445722237,Marseille vs PSG Live Stream,psgfreelive,United States,"French Ligue 1 - PSG vs Lille: Preview, when and where to watch #PSG #Marseille #PSGBAY #Football #Messi #Neymar #PSGMarseille",https://t.co/G0FPcHnlil,"[{'url': 'https://t.co/G0FPcHnlil', 'expanded_url': 'https://naeim-tv.blogspot.com/2023/02/psg_26.html', 'display_url': 'naeim-tv.blogspot.com/2023/02/psg_26…', 'indices': [0, 23]}]",[],False,278,20,0,Tue May 21 07:30:12 +0000 2013,1,,,False,False,877,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1623335243506909185/X3PVpz3W_normal.jpg,https://pbs.twimg.com/profile_images/1623335243506909185/X3PVpz3W_normal.jpg,https://pbs.twimg.com/profile_banners/1445722237/1676120825,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 19:59:05 +0000 2023,1629934092535070721,1629934092535070721,"Live Stream |  🧍🏼
+
+🏇🏻 OM vs PSG
+
+Watch from here :
+
+Link 1 : 
+@BrightonLiveUK
+
+Link 2 : 
+@BrightonLiveUK
+
+#OMPSG #LeClassique
+
+Preview: Montpellier HSC vs  Marseille - prediction, team news, lineups - Sports Mole 
+@BrightonLiveUK 
+fghjk https://t.co/ZPZDIqfxqe",False,"[0, 236]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1587743610,1587743610,Marseille vs PSG live stream,BrightonLiveUK,United State,Olympique de Marseille - Paris Saint-Germain #Marseille vs #PSG #Football,https://t.co/emJJYRY4EZ,"[{'url': 'https://t.co/emJJYRY4EZ', 'expanded_url': 'https://tinyurl.com/2xrc5cue', 'display_url': 'tinyurl.com/2xrc5cue', 'indices': [0, 23]}]",[],False,19,9,0,Fri Jul 12 06:31:51 +0000 2013,0,,,False,False,144,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1629931949367373824/xt0J2Xf9_normal.jpg,https://pbs.twimg.com/profile_images/1629931949367373824/xt0J2Xf9_normal.jpg,https://pbs.twimg.com/profile_banners/1587743610/1677441036,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 22:02:09 +0000 2023,1629602675401662469,1629602675401662469,"#Ligue1 🇫🇷 | Jornada 25 📝
+
+Angers SCO 1-3️⃣ @OL
+Montpellier HSC 1️⃣-1️⃣ RC Lens
+
+#SCOOL #MHSCRCL ⚽ https://t.co/KAnHIgIgAu",False,"[0, 98]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,97759790,97759790,Solo ⚽ Fútbol (Héctor),SoloFutbolPlus,"León, Guanajuato, México",🇲🇽 15 Años informándote toda la actualidad del Planeta Fútbol. 🇵🇪  Publicidad / Ventas: ventas@solofutbol.com.mx,https://t.co/BCZAwy0ljF,"[{'url': 'https://t.co/BCZAwy0ljF', 'expanded_url': 'http://www.solofutbol.com.mx', 'display_url': 'solofutbol.com.mx', 'indices': [0, 23]}]",[],False,92642,82539,227,Fri Dec 18 22:19:09 +0000 2009,43613,,,True,False,137474,,False,False,False,FCEBB6,http://abs.twimg.com/images/themes/theme15/bg.png,https://abs.twimg.com/images/themes/theme15/bg.png,True,http://pbs.twimg.com/profile_images/1608902629098426368/Ylu_6pQ2_normal.jpg,https://pbs.twimg.com/profile_images/1608902629098426368/Ylu_6pQ2_normal.jpg,https://pbs.twimg.com/profile_banners/97759790/1522641877,1B95E0,FFFFFF,78C0A8,5E412F,True,True,False,False,False,False,False,none,[],1027fcd83c280af3,https://api.twitter.com/1.1/geo/id/1027fcd83c280af3.json,city,Lagos de Moreno,"Lagos de Moreno, Jalisco",MX,Mexico,[],Polygon,"[[[-102.16888, 21.1778369], [-101.568873, 21.1778369], [-101.568873, 21.8892021], [-102.16888, 21.8892021]]]",1.6296026754016625e+18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:25:36 +0000 2023,1629593481114181634,1629593481114181634,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Enjoy Streaming https://t.co/ZJR0C3fsni",False,"[0, 250]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1597107633915187201,1597107633915187201,Sport TV HD,SportTVHD8,,,,,[],False,2,5,0,Mon Nov 28 05:59:07 +0000 2022,0,,,False,False,1108,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_banners/1597107633915187201/1676306341,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:25:27 +0000 2023,1629593442685947904,1629593442685947904,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Enjoy Streaming https://t.co/FItkUoJ1OJ",False,"[0, 250]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1613559284067086339,1613559284067086339,Football streaming HD,FotbalStreaming,US,,,,[],False,3,9,0,Thu Jan 12 15:31:40 +0000 2023,0,,,False,False,616,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_banners/1613559284067086339/1673879215,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:25:11 +0000 2023,1629593374473981953,1629593374473981953,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Enjoy Streaming https://t.co/15JurekPJp",False,"[0, 250]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1614629987340161026,1614629987340161026,Fox Tv,FoxTv29881848,,,,,[],False,2,8,0,Sun Jan 15 14:26:16 +0000 2023,0,,,False,False,731,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_banners/1614629987340161026/1673880009,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:19:31 +0000 2023,1629591950440407040,1629591950440407040,"BUUUUUUUUUUUUUT DE MAOUASSA (5️⃣9️⃣’)
+Montpellier HSC 1️⃣-1️⃣ RC Lens https://t.co/TzsHxO135A",False,"[0, 69]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,0,1,False,False,False,en,en,recent,1504534893958737929,1504534893958737929,hug0_yt,Hug0_yt,,,,,[],False,27,34,0,Thu Mar 17 19:07:42 +0000 2022,1042,,,False,False,242,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625140357372514310/OnNTgV-u_normal.jpg,https://pbs.twimg.com/profile_images/1625140357372514310/OnNTgV-u_normal.jpg,https://pbs.twimg.com/profile_banners/1504534893958737929/1647544386,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:11:31 +0000 2023,1629589934813347840,1629589934813347840,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Enjoy Streaming https://t.co/JN2Akaizcp",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1597107633915187201,1597107633915187201,Sport TV HD,SportTVHD8,,,,,[],False,2,5,0,Mon Nov 28 05:59:07 +0000 2022,0,,,False,False,1108,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_banners/1597107633915187201/1676306341,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:11:27 +0000 2023,1629589920384962560,1629589920384962560,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Enjoy Streaming https://t.co/WfhD6snnoI",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615006395749007361,1615006395749007361,NBC Tv Networks,nbc_networks,,,,,[],False,3,9,0,Mon Jan 16 15:21:51 +0000 2023,0,,,False,False,701,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_banners/1615006395749007361/1674234171,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:11:20 +0000 2023,1629589890106023936,1629589890106023936,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/5ofOT5efOX
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/5ofOT5efOX
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/5ofOT5efOX
+
+Enjoy Streaming https://t.co/4d3gRybSfZ",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615004520911900672,1615004520911900672,CBS Tv Networks,CBSTvNetworks1,,,,,[],False,1,7,0,Mon Jan 16 15:14:25 +0000 2023,0,,,False,False,699,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_banners/1615004520911900672/1674232858,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:11:11 +0000 2023,1629589851510300672,1629589851510300672,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Enjoy Streaming https://t.co/VcWkoS6GrF",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1613559284067086339,1613559284067086339,Football streaming HD,FotbalStreaming,US,,,,[],False,3,9,0,Thu Jan 12 15:31:40 +0000 2023,0,,,False,False,616,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_banners/1613559284067086339/1673879215,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:11:05 +0000 2023,1629589827502092289,1629589827502092289,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Enjoy Streaming https://t.co/Nm79cyVAHI",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1614629987340161026,1614629987340161026,Fox Tv,FoxTv29881848,,,,,[],False,2,8,0,Sun Jan 15 14:26:16 +0000 2023,0,,,False,False,731,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_banners/1614629987340161026/1673880009,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:10:34 +0000 2023,1629589697956823040,1629589697956823040,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Enjoy Streaming https://t.co/S5E2zWjkLq",False,"[0, 255]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1597107633915187201,1597107633915187201,Sport TV HD,SportTVHD8,,,,,[],False,2,5,0,Mon Nov 28 05:59:07 +0000 2022,0,,,False,False,1108,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_banners/1597107633915187201/1676306341,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:10:27 +0000 2023,1629589667535527936,1629589667535527936,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Enjoy Streaming https://t.co/90nJcfiXxa",False,"[0, 255]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615006395749007361,1615006395749007361,NBC Tv Networks,nbc_networks,,,,,[],False,3,9,0,Mon Jan 16 15:21:51 +0000 2023,0,,,False,False,701,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_banners/1615006395749007361/1674234171,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:10:23 +0000 2023,1629589647809736704,1629589647809736704,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Enjoy Streaming https://t.co/ZBLgI5FXua",False,"[0, 255]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615004520911900672,1615004520911900672,CBS Tv Networks,CBSTvNetworks1,,,,,[],False,1,7,0,Mon Jan 16 15:14:25 +0000 2023,0,,,False,False,699,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_banners/1615004520911900672/1674232858,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:10:14 +0000 2023,1629589610249719809,1629589610249719809,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Enjoy Streaming https://t.co/KjWGQPebFv",False,"[0, 255]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1613559284067086339,1613559284067086339,Football streaming HD,FotbalStreaming,US,,,,[],False,3,9,0,Thu Jan 12 15:31:40 +0000 2023,0,,,False,False,616,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_banners/1613559284067086339/1673879215,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:10:08 +0000 2023,1629589586690347008,1629589586690347008,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Enjoy Streaming https://t.co/ag1UBPe1lq",False,"[0, 255]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1614629987340161026,1614629987340161026,Fox Tv,FoxTv29881848,,,,,[],False,2,8,0,Sun Jan 15 14:26:16 +0000 2023,0,,,False,False,731,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_banners/1614629987340161026/1673880009,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:09:30 +0000 2023,1629589426887360512,1629589426887360512,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Enjoy Streaming https://t.co/pso3cb2JFi",False,"[0, 250]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1597107633915187201,1597107633915187201,Sport TV HD,SportTVHD8,,,,,[],False,2,5,0,Mon Nov 28 05:59:07 +0000 2022,0,,,False,False,1108,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_banners/1597107633915187201/1676306341,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:09:26 +0000 2023,1629589409313193984,1629589409313193984,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Enjoy Streaming https://t.co/7pYGr776fs",False,"[0, 250]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615006395749007361,1615006395749007361,NBC Tv Networks,nbc_networks,,,,,[],False,3,9,0,Mon Jan 16 15:21:51 +0000 2023,0,,,False,False,701,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_banners/1615006395749007361/1674234171,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:09:20 +0000 2023,1629589383992197120,1629589383992197120,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Enjoy Streaming https://t.co/2gsqhqANmP",False,"[0, 250]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615004520911900672,1615004520911900672,CBS Tv Networks,CBSTvNetworks1,,,,,[],False,1,7,0,Mon Jan 16 15:14:25 +0000 2023,0,,,False,False,699,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_banners/1615004520911900672/1674232858,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:09:14 +0000 2023,1629589360227282944,1629589360227282944,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Enjoy Streaming https://t.co/3f4fq0W4Ag",False,"[0, 250]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1613559284067086339,1613559284067086339,Football streaming HD,FotbalStreaming,US,,,,[],False,3,9,0,Thu Jan 12 15:31:40 +0000 2023,0,,,False,False,616,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_banners/1613559284067086339/1673879215,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:09:08 +0000 2023,1629589334419718145,1629589334419718145,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Enjoy Streaming https://t.co/I11Md0Aa1k",False,"[0, 250]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1614629987340161026,1614629987340161026,Fox Tv,FoxTv29881848,,,,,[],False,2,8,0,Sun Jan 15 14:26:16 +0000 2023,0,,,False,False,731,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_banners/1614629987340161026/1673880009,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 21:08:08 +0000 2023,1629589085659754496,1629589085659754496,"#MHSCRCL 
+
+🔴🅻🅸🆅🅴ᴴᴰ En Direct Gratuit
+
+Montpellier - Lens    
+
+🔗Live Link=&gt;https://t.co/0Sg34RTEOu
+
+MHSC - Lens   
+
+🔗Live Link https://t.co/0Sg34RTEOu
+
+Montpellier HSC -  RC Lens  
+
+🔗Live Link https://t.co/0Sg34RTEOu
+
+🔄 Retweet
+dfghhgh https://t.co/2R8SfqSOUs",False,"[0, 237]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1609576967757791232,1609576967757791232,Sup Spo,sup_spo,,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,,[],False,5,3,0,Sun Jan 01 15:47:25 +0000 2023,119,,,False,False,3209,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1609613469766287360/vK3xzgTL_normal.jpg,https://pbs.twimg.com/profile_images/1609613469766287360/vK3xzgTL_normal.jpg,https://pbs.twimg.com/profile_banners/1609576967757791232/1672596744,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 20:34:21 +0000 2023,1629580583142846464,1629580583142846464,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/EKInjlfOj2
+
+Enjoy Streaming https://t.co/SslNaL1gDo",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1597107633915187201,1597107633915187201,Sport TV HD,SportTVHD8,,,,,[],False,2,5,0,Mon Nov 28 05:59:07 +0000 2022,0,,,False,False,1108,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_banners/1597107633915187201/1676306341,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 20:34:15 +0000 2023,1629580558392254465,1629580558392254465,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/JStDSrFZ5v
+
+Enjoy Streaming https://t.co/yviaqOKeOZ",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615006395749007361,1615006395749007361,NBC Tv Networks,nbc_networks,,,,,[],False,3,9,0,Mon Jan 16 15:21:51 +0000 2023,0,,,False,False,701,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_banners/1615006395749007361/1674234171,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 20:33:59 +0000 2023,1629580489727303682,1629580489727303682,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Enjoy Streaming https://t.co/dEtqVncgFK",False,"[0, 260]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1614629987340161026,1614629987340161026,Fox Tv,FoxTv29881848,,,,,[],False,2,8,0,Sun Jan 15 14:26:16 +0000 2023,0,,,False,False,731,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_banners/1614629987340161026/1673880009,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 20:33:21 +0000 2023,1629580328355663872,1629580328355663872,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Enjoy Streaming https://t.co/6KAPhbHSX4",False,"[0, 255]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615004520911900672,1615004520911900672,CBS Tv Networks,CBSTvNetworks1,,,,,[],False,1,7,0,Mon Jan 16 15:14:25 +0000 2023,0,,,False,False,699,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_banners/1615004520911900672/1674232858,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 20:33:14 +0000 2023,1629580302510362624,1629580302510362624,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/zuMf33cvt0
+
+Enjoy Streaming https://t.co/I3fgpIEKhn",False,"[0, 255]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1613559284067086339,1613559284067086339,Football streaming HD,FotbalStreaming,US,,,,[],False,3,9,0,Thu Jan 12 15:31:40 +0000 2023,0,,,False,False,616,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_banners/1613559284067086339/1673879215,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 20:31:18 +0000 2023,1629579815312556033,1629579815312556033,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/5ofOT5eNEv
+
+Enjoy Streaming https://t.co/hjsqrz4bNu",False,"[0, 250]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615004520911900672,1615004520911900672,CBS Tv Networks,CBSTvNetworks1,,,,,[],False,1,7,0,Mon Jan 16 15:14:25 +0000 2023,0,,,False,False,699,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_banners/1615004520911900672/1674232858,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Feb 25 20:31:00 +0000 2023,1629579738636500992,1629579738636500992,"EN DIRECT HD STREAMS #MHSCRCL
+
+Montpellier - Lens Match En Direct
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier - RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Montpellier HSC RC Lens
+
+🔗Live Link=&gt;https://t.co/pP9HcpMuzK
+
+Enjoy Streaming https://t.co/yAX0yDYLf4",False,"[0, 250]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1614629987340161026,1614629987340161026,Fox Tv,FoxTv29881848,,,,,[],False,2,8,0,Sun Jan 15 14:26:16 +0000 2023,0,,,False,False,731,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_banners/1614629987340161026/1673880009,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,353 @@
+created_at,id,id_str,full_text,truncated,display_text_range,source,in_reply_to_status_id,in_reply_to_status_id_str,in_reply_to_user_id,in_reply_to_user_id_str,in_reply_to_screen_name,geo,coordinates,place,contributors,is_quote_status,retweet_count,favorite_count,favorited,retweeted,possibly_sensitive,lang,metadata.iso_language_code,metadata.result_type,user.id,user.id_str,user.name,user.screen_name,user.location,user.description,user.url,user.entities.url.urls,user.entities.description.urls,user.protected,user.followers_count,user.friends_count,user.listed_count,user.created_at,user.favourites_count,user.utc_offset,user.time_zone,user.geo_enabled,user.verified,user.statuses_count,user.lang,user.contributors_enabled,user.is_translator,user.is_translation_enabled,user.profile_background_color,user.profile_background_image_url,user.profile_background_image_url_https,user.profile_background_tile,user.profile_image_url,user.profile_image_url_https,user.profile_banner_url,user.profile_link_color,user.profile_sidebar_border_color,user.profile_sidebar_fill_color,user.profile_text_color,user.profile_use_background_image,user.has_extended_profile,user.default_profile,user.default_profile_image,user.following,user.follow_request_sent,user.notifications,user.translator_type,user.withheld_in_countries,quoted_status_id,quoted_status_id_str,quoted_status.created_at,quoted_status.id,quoted_status.id_str,quoted_status.full_text,quoted_status.truncated,quoted_status.display_text_range,quoted_status.metadata.iso_language_code,quoted_status.metadata.result_type,quoted_status.source,quoted_status.in_reply_to_status_id,quoted_status.in_reply_to_status_id_str,quoted_status.in_reply_to_user_id,quoted_status.in_reply_to_user_id_str,quoted_status.in_reply_to_screen_name,quoted_status.user.id,quoted_status.user.id_str,quoted_status.user.name,quoted_status.user.screen_name,quoted_status.user.location,quoted_status.user.description,quoted_status.user.url,quoted_status.user.entities.url.urls,quoted_status.user.entities.description.urls,quoted_status.user.protected,quoted_status.user.followers_count,quoted_status.user.friends_count,quoted_status.user.listed_count,quoted_status.user.created_at,quoted_status.user.favourites_count,quoted_status.user.utc_offset,quoted_status.user.time_zone,quoted_status.user.geo_enabled,quoted_status.user.verified,quoted_status.user.statuses_count,quoted_status.user.lang,quoted_status.user.contributors_enabled,quoted_status.user.is_translator,quoted_status.user.is_translation_enabled,quoted_status.user.profile_background_color,quoted_status.user.profile_background_image_url,quoted_status.user.profile_background_image_url_https,quoted_status.user.profile_background_tile,quoted_status.user.profile_image_url,quoted_status.user.profile_image_url_https,quoted_status.user.profile_banner_url,quoted_status.user.profile_link_color,quoted_status.user.profile_sidebar_border_color,quoted_status.user.profile_sidebar_fill_color,quoted_status.user.profile_text_color,quoted_status.user.profile_use_background_image,quoted_status.user.has_extended_profile,quoted_status.user.default_profile,quoted_status.user.default_profile_image,quoted_status.user.following,quoted_status.user.follow_request_sent,quoted_status.user.notifications,quoted_status.user.translator_type,quoted_status.user.withheld_in_countries,quoted_status.geo,quoted_status.coordinates,quoted_status.place,quoted_status.contributors,quoted_status.is_quote_status,quoted_status.retweet_count,quoted_status.favorite_count,quoted_status.favorited,quoted_status.retweeted,quoted_status.lang
+Tue Mar 07 13:43:09 +0000 2023,1633100980030930944,1633100980030930944,"To celebrate becoming PSG's record goalscorer, Nike have provided @KMbappe with a reissue of the Nike Mercurial Vapor XI that he wore when he scored his first goal for PSG against FC Metz in September 2017.
+
+More details: https://t.co/5f3T76z9J2 https://t.co/X84uLZpkOJ",False,"[0, 245]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,3,64,False,False,False,en,en,recent,26489598,26489598,SoccerBible,SoccerBible,United Kingdom,"The New Soccer Culture | Est. 2001.
+SoccerBible Volumes: 'All Power' out now: https://t.co/fkObGNfAmN",https://t.co/eQpmtDKd19,"[{'url': 'https://t.co/eQpmtDKd19', 'expanded_url': 'http://www.soccerbible.com', 'display_url': 'soccerbible.com', 'indices': [0, 23]}]","[{'url': 'https://t.co/fkObGNfAmN', 'expanded_url': 'https://bit.ly/3yhWyab', 'display_url': 'bit.ly/3yhWyab', 'indices': [78, 101]}]",False,226654,1137,702,Wed Mar 25 12:52:51 +0000 2009,1450,,,True,False,19819,,False,False,False,131516,http://abs.twimg.com/images/themes/theme14/bg.gif,https://abs.twimg.com/images/themes/theme14/bg.gif,True,http://pbs.twimg.com/profile_images/454562011289247744/w377Bn1x_normal.jpeg,https://pbs.twimg.com/profile_images/454562011289247744/w377Bn1x_normal.jpeg,https://pbs.twimg.com/profile_banners/26489598/1656682912,009999,FFFFFF,EFEFEF,333333,True,False,False,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Mar 07 01:19:19 +0000 2023,1632913784787423233,1632913784787423233,"22 y/o 🇬🇪 Georgian forward Georges Mikautadze is shining in 🇫🇷 Ligue 2 with impressive 1v1 dribbling and versatility to play any of ST/CF/LW/CAM. Sitting at 14 goals, 6 assists for FC Metz, he’s been a key factor in their success this season. His transfer market value is €2.4M. https://t.co/2inHrtskon",False,"[0, 278]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",1.632913487310512e+18,1632913487310512130,1.622389970135548e+18,1622389970135547905,RevsFanLive,,,,,False,3,8,False,False,False,en,en,recent,1622389970135547905,1622389970135547905,RevsFanLive,RevsFanLive,,"Welcome to RevsFanLive, the ultimate source for the latest fan reactions and media for the @NERevolution.  Stay tuned for more content on the #NERevs hashtag!",,,[],False,152,169,0,Mon Feb 06 00:21:33 +0000 2023,36,,,False,False,29,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1629733973680181250/PXyYyc9p_normal.jpg,https://pbs.twimg.com/profile_images/1629733973680181250/PXyYyc9p_normal.jpg,https://pbs.twimg.com/profile_banners/1622389970135547905/1677393818,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:39:50 +0000 2023,1632873649454579714,1632873649454579714,"🇬🇲Ablie Jallow is the only FC Metz player to complete 33 successful dribbles and create 35 chances this season. 
+
+He played 82’ minutes in Metz's 3-0 win over Annecy FC on Saturday with the most dribbles (3). https://t.co/JzWaRiITqH",False,"[0, 208]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,1,56,False,False,False,en,en,recent,1290376515608354817,1290376515608354817,Foday Manneh 🇬🇲,foday_manneh_,Gambia,#Activist #Journalist #Writer #Gambian,https://t.co/khLUBCFvFD,"[{'url': 'https://t.co/khLUBCFvFD', 'expanded_url': 'http://alkambatimes.com', 'display_url': 'alkambatimes.com', 'indices': [0, 23]}]",[],False,147,704,2,Mon Aug 03 19:58:47 +0000 2020,3831,,,True,False,306,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1422574358292271108/wIlByx4p_normal.jpg,https://pbs.twimg.com/profile_images/1422574358292271108/wIlByx4p_normal.jpg,https://pbs.twimg.com/profile_banners/1290376515608354817/1597673545,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 22:07:16 +0000 2023,1632865456167034883,1632865456167034883,@FIFAUTeam FC Metz's Mikautadze? two goals and one assist against Annecy and a great peformance overall 👌,False,"[11, 105]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",1.63286459568452e+18,1632864595684519939,1244353710.0,1244353710,FIFAUTeam,,,,,False,0,1,False,False,,en,en,recent,319125958,319125958,Nikola ☣️,nikolazsk,Moselle,"Football ⚽ Gaming 🎮 Musique🤘
+#FCMetz #Warframe #Metal",https://t.co/OU6ou9BuEt,"[{'url': 'https://t.co/OU6ou9BuEt', 'expanded_url': 'http://www.hornsup.fr', 'display_url': 'hornsup.fr', 'indices': [0, 23]}]",[],False,74,282,1,Fri Jun 17 16:08:33 +0000 2011,1940,,,False,False,3827,,False,False,False,000000,http://abs.twimg.com/images/themes/theme9/bg.gif,https://abs.twimg.com/images/themes/theme9/bg.gif,False,http://pbs.twimg.com/profile_images/1616591624439562240/y4rzK5Xs_normal.jpg,https://pbs.twimg.com/profile_images/1616591624439562240/y4rzK5Xs_normal.jpg,https://pbs.twimg.com/profile_banners/319125958/1674260514,FF691F,000000,000000,000000,False,True,False,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Mar 05 20:13:47 +0000 2023,1632474510946455554,1632474510946455554,"@lukas_BVB1909 @WL3PPERK1NG I know I did, FC Metz 2012",False,"[28, 54]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",1.6324743796520632e+18,1632474379652063235,1.612577490160976e+18,1612577490160975873,lukas_BVB1909,,,,,False,0,3,False,False,,en,en,recent,1521073981956280321,1521073981956280321,َ 𝟸𝟸,JB22Prop,,fan account • Follow me for Daily Football Quizzes •,,,[],False,3859,1235,0,Mon May 02 10:27:58 +0000 2022,10349,,,False,False,7420,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1627639769806123009/DoxGYDOx_normal.jpg,https://pbs.twimg.com/profile_images/1627639769806123009/DoxGYDOx_normal.jpg,https://pbs.twimg.com/profile_banners/1521073981956280321/1676906487,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Mar 05 01:08:36 +0000 2023,1632186315708981252,1632186315708981252,Annecy – FC Metz : ascension express en Savoie #FCMetz #FCM | Lets go Metz https://t.co/t178I4zbHa,False,"[0, 98]","<a href=""http://www.football-addict.com/fr/news/ligue-1/fc-metz"" rel=""nofollow"">FC Metz Addict 2</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,830110041902563330,830110041902563330,FC Metz Addict,addict_FCMetz,"Metz, France",Impossible de rater une info du Football Club de Metz avec FC Metz Addict !,https://t.co/siIh2KIKmA,"[{'url': 'https://t.co/siIh2KIKmA', 'expanded_url': 'http://www.football-addict.com/fr/news/ligue-1/fc-metz', 'display_url': 'football-addict.com/fr/news/ligue-…', 'indices': [0, 23]}]",[],False,962,1684,5,Fri Feb 10 17:43:51 +0000 2017,161,,,False,False,17645,,False,False,False,000000,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/887704708818886656/5k4UeGlC_normal.jpg,https://pbs.twimg.com/profile_images/887704708818886656/5k4UeGlC_normal.jpg,https://pbs.twimg.com/profile_banners/830110041902563330/1500480413,7F0728,000000,000000,000000,False,True,False,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 19:40:08 +0000 2023,1632103652843307010,1632103652843307010,another georgian gem btw (metz fc) https://t.co/o1ut7pHL2F,False,"[0, 34]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1613360871639498752,1613360871639498752,andrea,calcio_andrea,20,@juventusfc,,,[],False,72,112,0,Thu Jan 12 02:23:14 +0000 2023,371,,,False,False,877,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1629771037435994112/ELWZt_Kn_normal.jpg,https://pbs.twimg.com/profile_images/1629771037435994112/ELWZt_Kn_normal.jpg,https://pbs.twimg.com/profile_banners/1613360871639498752/1677246015,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 18:00:00 +0000 2023,1632078454719123456,1632078454719123456,"FRANCE Ligue 2
+
+Amiens vs Pau FC
+Annecy vs Metz
+Bastia vs Nimes
+Dijon vs Grenoble
+(19:00 GMT +2)
+
+Watch live stream on this link
+https://t.co/7a1kz6wfJN",False,"[0, 152]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1581613941347729414,1581613941347729414,Football12Live,Football12Live,New York,Sport Bar,https://t.co/gPvIM8hgXw,"[{'url': 'https://t.co/gPvIM8hgXw', 'expanded_url': 'http://livefootballempire.com', 'display_url': 'livefootballempire.com', 'indices': [0, 23]}]",[],False,37,107,2,Sun Oct 16 11:52:22 +0000 2022,849,,,False,False,1452,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1581615827425574913/vj52kSSJ_normal.jpg,https://pbs.twimg.com/profile_images/1581615827425574913/vj52kSSJ_normal.jpg,https://pbs.twimg.com/profile_banners/1581613941347729414/1665921574,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 18:00:00 +0000 2023,1632078454345662478,1632078454345662478,"FRANCE Ligue 2
+
+Amiens vs Pau FC
+Annecy vs Metz
+Bastia vs Nimes
+Dijon vs Grenoble
+Le Havre vs Laval
+Niort vs Rodez
+Paris FC vs Guingamp
+Quevilly Rouen vs Valenciennes
+
+  (19:00 GMT +2)
+Watch live stream on this link
+https://t.co/nvNGnW0DMg",False,"[0, 239]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1592852030023942144,1592852030023942144,EMFootballLive,EMFootballLive,New York,Football,https://t.co/7Vco0j4FWj,"[{'url': 'https://t.co/7Vco0j4FWj', 'expanded_url': 'http://Livefootballempire.com', 'display_url': 'Livefootballempire.com', 'indices': [0, 23]}]",[],False,32,107,0,Wed Nov 16 12:08:25 +0000 2022,682,,,False,False,1176,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1592852701351641088/AEFpzVar_normal.jpg,https://pbs.twimg.com/profile_images/1592852701351641088/AEFpzVar_normal.jpg,https://pbs.twimg.com/profile_banners/1592852030023942144/1668600902,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 18:00:00 +0000 2023,1632078452827234311,1632078452827234311,"FRANCE Ligue 2
+
+Amiens vs Pau FC
+Annecy vs Metz
+Bastia vs Nimes
+Dijon vs Grenoble
+(19:00 GMT +2)
+
+Watch live stream on this link
+https://t.co/zdDm9LWGVm",False,"[0, 152]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1596224390986874882,1596224390986874882,StreamFootball,StreamF95870582,Manchester,Football News,,,[],False,73,130,0,Fri Nov 25 19:28:58 +0000 2022,1605,,,False,False,1278,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1596225186969550848/_kxyTZW9_normal.jpg,https://pbs.twimg.com/profile_images/1596225186969550848/_kxyTZW9_normal.jpg,https://pbs.twimg.com/profile_banners/1596224390986874882/1669404727,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 17:30:00 +0000 2023,1632070903713484801,1632070903713484801,"FRANCE Ligue 2
+
+Amiens vs Pau FC
+Annecy vs Metz
+Bastia vs Nimes
+Dijon vs Grenoble
+(19:00 GMT +2)
+
+Watch live stream on this link
+https://t.co/8LOajM0O3W",False,"[0, 152]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1578836129146720259,1578836129146720259,FutbollEMP,FutbollEmp,England,"Futboll , Live , Free",https://t.co/KZPB3ViXt3,"[{'url': 'https://t.co/KZPB3ViXt3', 'expanded_url': 'http://Livefootballempire.com', 'display_url': 'Livefootballempire.com', 'indices': [0, 23]}]",[],False,28,107,0,Sat Oct 08 19:54:16 +0000 2022,926,,,False,False,1483,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1578836710753976320/zoJdAnsn_normal.jpg,https://pbs.twimg.com/profile_images/1578836710753976320/zoJdAnsn_normal.jpg,https://pbs.twimg.com/profile_banners/1578836129146720259/1665259035,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 17:30:00 +0000 2023,1632070902530867203,1632070902530867203,"FRANCE Ligue 2
+
+Amiens vs Pau FC
+Annecy vs Metz
+Bastia vs Nimes
+Dijon vs Grenoble
+Le Havre vs Laval
+Niort vs Rodez
+Paris FC vs Guingamp
+Quevilly Rouen vs Valenciennes
+
+  (19:00 GMT +2)
+Watch live stream on this link
+https://t.co/8SuqS8WZAS",False,"[0, 239]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1586354683509186561,1586354683509186561,EmpireTeam11,EmpireTeam11,London,Football News,https://t.co/FqMgUqUISz,"[{'url': 'https://t.co/FqMgUqUISz', 'expanded_url': 'http://livefootballempire.com', 'display_url': 'livefootballempire.com', 'indices': [0, 23]}]",[],False,27,118,0,Sat Oct 29 13:50:16 +0000 2022,796,,,False,False,1309,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1586356714697367553/-BymnROE_normal.jpg,https://pbs.twimg.com/profile_images/1586356714697367553/-BymnROE_normal.jpg,https://pbs.twimg.com/profile_banners/1586354683509186561/1667051889,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 17:28:00 +0000 2023,1632070399134425089,1632070399134425089,"FRANCE Ligue 2
+
+Amiens vs Pau FC
+Annecy vs Metz
+Bastia vs Nimes
+Dijon vs Grenoble
+(19:00 GMT +2)
+
+Watch live stream on this link
+https://t.co/JOqP7VIoId",False,"[0, 152]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1566373518937292800,1566373518937292800,Live Football,LiveF00tba11,,Football and Sports,https://t.co/HAPPXQE8ku,"[{'url': 'https://t.co/HAPPXQE8ku', 'expanded_url': 'http://Livefootballempire.com', 'display_url': 'Livefootballempire.com', 'indices': [0, 23]}]",[],False,34,146,0,Sun Sep 04 10:32:14 +0000 2022,452,,,False,False,1455,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1566373694741553155/niVew_-4_normal.jpg,https://pbs.twimg.com/profile_images/1566373694741553155/niVew_-4_normal.jpg,https://pbs.twimg.com/profile_banners/1566373518937292800/1662833591,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:41:02 +0000 2023,1632058582723076097,1632058582723076097,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/SEBlNuILFy",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,1,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:41:00 +0000 2023,1632058573134999552,1632058573134999552,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/Fd5CCsvRXv",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:58 +0000 2023,1632058565832704000,1632058565832704000,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/Q1AQUClG0M",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,1,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:57 +0000 2023,1632058558563876869,1632058558563876869,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/HggICkM1Vq",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,2,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:55 +0000 2023,1632058553434271745,1632058553434271745,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/NfmYxtzUI7",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:54 +0000 2023,1632058546127794178,1632058546127794178,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/rn62xC5LOZ",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,1,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:52 +0000 2023,1632058540142542850,1632058540142542850,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/WT7CrqSVIg",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:51 +0000 2023,1632058533473599488,1632058533473599488,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/auhUoHECVs",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:49 +0000 2023,1632058526519394304,1632058526519394304,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/T9idyO7I2W",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:47 +0000 2023,1632058516620865537,1632058516620865537,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/oYvfHK1mZ2",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,1,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:45 +0000 2023,1632058507674415106,1632058507674415106,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/a5TqFoA0nD",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,1,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:42 +0000 2023,1632058497352323072,1632058497352323072,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/hZYHqX0iWB",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,1,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:40 +0000 2023,1632058487160164355,1632058487160164355,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/MSGjK97JX4",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,1,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:38 +0000 2023,1632058478939324416,1632058478939324416,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/qTucP8pOvp",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,1,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:36 +0000 2023,1632058470395420674,1632058470395420674,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/QR7DOmPE19",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,1,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 16:40:34 +0000 2023,1632058462380126212,1632058462380126212,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/7IkQMETWwd",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 15:40:52 +0000 2023,1632043439813537798,1632043439813537798,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/GrFeesE3Hb",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,1,1,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 15:40:50 +0000 2023,1632043432708284417,1632043432708284417,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/72sW7HtfNw",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 15:40:48 +0000 2023,1632043421182337025,1632043421182337025,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/sU87BmXrNe",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 15:40:45 +0000 2023,1632043409228611585,1632043409228611585,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/2BHhttJiEN",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 15:40:42 +0000 2023,1632043396725448706,1632043396725448706,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/53GM10K2TE",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 15:40:39 +0000 2023,1632043385694420993,1632043385694420993,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/wsSbLrJzud",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sat Mar 04 15:40:37 +0000 2023,1632043375674159105,1632043375674159105,"Match amical
+ASSE / FC Metz
+Victoire 5-0
+Longvic
+
+#asse #assefeminines #assaintetienne #allezlesvertes #football #footfeminin #photography #womanfootball #instagram
+#instafootball #canon #nike #d2 #hummel #soccer #sportfeminin #footofeminin #photographie https://t.co/cWixsRUWzw",False,"[0, 254]","<a href=""https://ifttt.com"" rel=""nofollow"">IFTTT</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1471092386696736778,1471092386696736778,Allez Les Vertes !,AllezLesVertes,"Saint-Etienne, France",📸 Instagram @allez_lesvertes,https://t.co/kzMKLES0vU,"[{'url': 'https://t.co/kzMKLES0vU', 'expanded_url': 'http://www.instagram.com/allez_lesvertes', 'display_url': 'instagram.com/allez_lesvertes', 'indices': [0, 23]}]",[],False,72,60,2,Wed Dec 15 12:19:03 +0000 2021,254,,,True,False,2470,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_images/1488961716578836486/MAxE2Yso_normal.jpg,https://pbs.twimg.com/profile_banners/1471092386696736778/1642782619,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fri Mar 03 20:46:41 +0000 2023,1631758011092938753,1631758011092938753,"A Vote
+
+Will be Much Appreciated, Help Me to Deicide Which Team to Manage for my next Save. Please 
+
+Académica de Coimbra 🇵🇹
+
+Sandecja Nowy Sącz 🇵🇱
+
+FC Metz 🇨🇵
+
+Dundee F.C 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+
+#FM23",False,"[0, 186]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,False,1,1,False,False,,en,en,recent,1454750491410370563,1454750491410370563,FM Firenze ⚽,FmFirenze,"Dubai, United Arab Emirates","🇦🇪 #UAE & 🟡⚫ @AlWaslSC Club Assistant Researcher @FootballManager #AlWasl U18 Team Manager 🟡⚫️
+
+AFC C Diploma #FootballManager💜",,,[],False,192,361,2,Sun Oct 31 10:02:29 +0000 2021,742,,,True,False,593,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1529176156196544514/U-QR5FsY_normal.jpg,https://pbs.twimg.com/profile_images/1529176156196544514/U-QR5FsY_normal.jpg,https://pbs.twimg.com/profile_banners/1454750491410370563/1653418907,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fri Mar 03 18:59:16 +0000 2023,1631730982519808012,1631730982519808012,"FC Annecy - Metz : Bissenty Mendy revient, Arnold Temanfo forfait  https://t.co/PY6lP7MN4G",False,"[0, 90]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,316688021,316688021,Julien Babaud,JuBabaud,annecy,Journaliste sportif @ledauphine à Annecy/Haute-Savoie depuis 2006.,https://t.co/N0SwipDO0J,"[{'url': 'https://t.co/N0SwipDO0J', 'expanded_url': 'https://www.ledauphine.com/sport/sports-haute-savoie', 'display_url': 'ledauphine.com/sport/sports-h…', 'indices': [0, 23]}]",[],False,1602,1399,27,Mon Jun 13 20:30:20 +0000 2011,3630,,,False,False,11013,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1582770243323174912/l4N3x47Q_normal.jpg,https://pbs.twimg.com/profile_images/1582770243323174912/l4N3x47Q_normal.jpg,https://pbs.twimg.com/profile_banners/316688021/1420669523,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wed Mar 01 13:00:24 +0000 2023,1630915890928668674,1630915890928668674,"@StokeyyG2 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Sheffield Wednesday / Oldham Athletic
+🇪🇸: Valencia CF
+🇮🇹: Napoli
+🇫🇷: FC Metz
+🇩🇪: Schalke 04
+🇳🇱: None
+🇵🇹: Boavista",False,"[11, 133]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",1.6306087524276388e+18,1630608752427638790,1.303026765737218e+18,1303026765737218049,StokeyyG2,,,,,False,0,0,False,False,,en,en,recent,1173367183,1173367183,Stefan Meng Tamstrup,StefanPedersen3,6690 Gørding,,https://t.co/k3XMrsRKzD,"[{'url': 'https://t.co/k3XMrsRKzD', 'expanded_url': 'http://www.efb.dk', 'display_url': 'efb.dk', 'indices': [0, 23]}]",[],False,453,1791,15,Tue Feb 12 23:35:27 +0000 2013,35173,,,True,False,13754,,False,False,False,000000,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1167802356395851779/NshNmFKO_normal.jpg,https://pbs.twimg.com/profile_images/1167802356395851779/NshNmFKO_normal.jpg,https://pbs.twimg.com/profile_banners/1173367183/1677795745,0024B3,000000,000000,000000,False,True,False,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wed Mar 01 12:38:31 +0000 2023,1630910385241874433,1630910385241874433,"Favourite team from each country 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 : Manchester United 
+🇪🇸 : Atletico Madrid
+🇮🇹 : AC Milan
+🇫🇷 : FC Metz
+🇩🇪 : Eintracht Frankfurt
+🇳🇱 : Ajax Amsterdam
+🇵🇹 : Sporting Portugal https://t.co/jighz6cm5c",False,"[0, 178]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,True,0,1,False,False,False,en,en,recent,1440722700905816073,1440722700905816073,Valentin 🇨🇵 ☨🎈,Valent1UltraHD,Bas-fonds de Coruscant,"Ici on parle de Star Wars, de Marvel, de DC, de Tolkien, d'Harry Potter et de Pixar. On parle foot et jeux vidéos aussi. @FCMetz @PSG_inside. /@Valent1UltraHD2",https://t.co/VxSUPj3kEk,"[{'url': 'https://t.co/VxSUPj3kEk', 'expanded_url': 'https://open.spotify.com/playlist/4Mm5kImexjj8OTaa4iRvKM?si=8ljX4ZF8Sk2XmK31yh5tvg&utm_source=copy-l', 'display_url': 'open.spotify.com/playlist/4Mm5k…', 'indices': [0, 23]}]",[],False,477,1996,2,Wed Sep 22 17:00:48 +0000 2021,48973,,,True,False,16197,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625617786847240206/udXa1GVn_normal.jpg,https://pbs.twimg.com/profile_images/1625617786847240206/udXa1GVn_normal.jpg,https://pbs.twimg.com/profile_banners/1440722700905816073/1677946045,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],1.6306087524276388e+18,1630608752427638790,Tue Feb 28 16:39:56 +0000 2023,1.6306087524276388e+18,1630608752427638790,"Favourite team from each country 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 :
+🇪🇸 :
+🇮🇹 :
+🇫🇷 :
+🇩🇪 :
+🇳🇱 :
+🇵🇹 :",False,"[0, 73]",en,recent,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,1.303026765737218e+18,1303026765737218049,george,StokeyyG2,send me tweets to nab,📩 My Business Email: stokeyenquiries@gmail.com | drop my second account a follow! @StokeyyFC,https://t.co/I1D0FXgaYN,"[{'url': 'https://t.co/I1D0FXgaYN', 'expanded_url': 'https://linktr.ee/stokeyyg2', 'display_url': 'linktr.ee/stokeyyg2', 'indices': [0, 23]}]",[],False,331430.0,3802.0,530.0,Mon Sep 07 17:46:15 +0000 2020,73184.0,,,True,False,50294.0,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565722268738748416/4FWACDQs_normal.jpg,https://pbs.twimg.com/profile_images/1565722268738748416/4FWACDQs_normal.jpg,https://pbs.twimg.com/profile_banners/1303026765737218049/1653306587,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,False,298.0,17005.0,False,False,en
+Wed Mar 01 02:46:12 +0000 2023,1630761323805179905,1630761323805179905,"@MohdSaadAli11 @ChampionsLeague probably back to france
+FC Metz",False,"[32, 63]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",1.6307462654442988e+18,1630746265444298753,1.3047060274560614e+18,1304706027456061440,MohdSaadAli11,,,,,False,0,1,False,False,,en,en,recent,1492847055408369664,1492847055408369664,MudBall,panjang_jenggot,,Any bot spammer reply to me = auto kick,,,[],False,35,5,0,Sun Feb 13 13:04:17 +0000 2022,1,,,False,False,1360,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1622084197275041793/cs_LHkOs_normal.jpg,https://pbs.twimg.com/profile_images/1622084197275041793/cs_LHkOs_normal.jpg,https://pbs.twimg.com/profile_banners/1492847055408369664/1675570090,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wed Mar 01 00:19:13 +0000 2023,1630724334737055745,1630724334737055745,"@BBCSport 
+Hi, Im tommy metz from the newly rebranded 322 sports channel, We are dedicated to following york city fc, the minster bells and the development teams.  Please enjoythe video
+https://t.co/Jqk69Edyd7",False,"[0, 209]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,265902729.0,265902729,BBCSport,,,,,False,0,0,False,False,False,en,en,recent,1620107659373428736,1620107659373428736,the322channel,the322channel,york,"We are the322channel, bringing you York city fc, the minsterbells and the development teams  video reports.",,,[],False,2,29,0,Mon Jan 30 17:13:31 +0000 2023,2,,,False,False,50,,False,False,False,F5F8FA,,,False,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,https://pbs.twimg.com/profile_banners/1620107659373428736/1677676872,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,True,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Feb 28 22:17:18 +0000 2023,1630693652191232003,1630693652191232003,"🏴󠁧󠁢󠁥󠁮󠁧󠁿 : man united
+🇪🇸 : real madrid 
+🇮🇹 : AC Milan 
+🇫🇷 : Metz
+🇩🇪 : Dortmund 
+🇳🇱 : Ajax
+🇵🇹 : CR7 fc https://t.co/0sy3OKtuPR",False,"[0, 100]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,True,0,0,False,False,False,en,en,recent,1381244550929342464,1381244550929342464,benziicius 🤍,Footix26704140,la cage de ter Stegen,#realmadrid 🇪🇸 #CR7𓃵🇵🇹 #Fcmetz 🇱🇻,https://t.co/2cwzFqjyq6,"[{'url': 'https://t.co/2cwzFqjyq6', 'expanded_url': 'https://twitter.com/FCBarcelona/status/1294375616041684992?s=19', 'display_url': 'twitter.com/FCBarcelona/st…', 'indices': [0, 23]}]",[],False,269,279,1,Sun Apr 11 13:55:50 +0000 2021,5796,,,False,False,9379,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1624526340614488066/uquK3hvz_normal.jpg,https://pbs.twimg.com/profile_images/1624526340614488066/uquK3hvz_normal.jpg,https://pbs.twimg.com/profile_banners/1381244550929342464/1652603414,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],1.6306087524276388e+18,1630608752427638790,Tue Feb 28 16:39:56 +0000 2023,1.6306087524276388e+18,1630608752427638790,"Favourite team from each country 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 :
+🇪🇸 :
+🇮🇹 :
+🇫🇷 :
+🇩🇪 :
+🇳🇱 :
+🇵🇹 :",False,"[0, 73]",en,recent,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,1.303026765737218e+18,1303026765737218049,george,StokeyyG2,send me tweets to nab,📩 My Business Email: stokeyenquiries@gmail.com | drop my second account a follow! @StokeyyFC,https://t.co/I1D0FXgaYN,"[{'url': 'https://t.co/I1D0FXgaYN', 'expanded_url': 'https://linktr.ee/stokeyyg2', 'display_url': 'linktr.ee/stokeyyg2', 'indices': [0, 23]}]",[],False,331430.0,3802.0,530.0,Mon Sep 07 17:46:15 +0000 2020,73184.0,,,True,False,50294.0,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565722268738748416/4FWACDQs_normal.jpg,https://pbs.twimg.com/profile_images/1565722268738748416/4FWACDQs_normal.jpg,https://pbs.twimg.com/profile_banners/1303026765737218049/1653306587,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,False,298.0,17005.0,False,False,en
+Tue Feb 28 19:59:41 +0000 2023,1630659022146641945,1630659022146641945,"Favourite team from each country 
+🇮🇪🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿: Celtic
+🇪🇸 : Athletic Bilbao
+🇮🇹 : Inter
+🇫🇷 : FC Metz
+🇩🇪 : Werder Bremen
+🇨🇭: FC Basel
+🇹🇷: Bursaspor https://t.co/Php0GVgWFc",False,"[0, 149]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,True,0,2,False,False,False,en,en,recent,1215330263493943297,1215330263493943297,Sole Rosso 🌹,Palmi89015,95 ,je ne suis qu’une somme de jours -interista-lorrain-@espritducricket-vive la révolution Syrienne- parle Français/Calabbrisi/Türkce/English,,,[],False,110,350,1,Thu Jan 09 17:51:37 +0000 2020,10221,,,True,False,4528,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1630498770923167748/oKbYvx0h_normal.jpg,https://pbs.twimg.com/profile_images/1630498770923167748/oKbYvx0h_normal.jpg,https://pbs.twimg.com/profile_banners/1215330263493943297/1677704074,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],1.6306087524276388e+18,1630608752427638790,Tue Feb 28 16:39:56 +0000 2023,1.6306087524276388e+18,1630608752427638790,"Favourite team from each country 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 :
+🇪🇸 :
+🇮🇹 :
+🇫🇷 :
+🇩🇪 :
+🇳🇱 :
+🇵🇹 :",False,"[0, 73]",en,recent,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,1.303026765737218e+18,1303026765737218049,george,StokeyyG2,send me tweets to nab,📩 My Business Email: stokeyenquiries@gmail.com | drop my second account a follow! @StokeyyFC,https://t.co/I1D0FXgaYN,"[{'url': 'https://t.co/I1D0FXgaYN', 'expanded_url': 'https://linktr.ee/stokeyyg2', 'display_url': 'linktr.ee/stokeyyg2', 'indices': [0, 23]}]",[],False,331430.0,3802.0,530.0,Mon Sep 07 17:46:15 +0000 2020,73184.0,,,True,False,50294.0,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565722268738748416/4FWACDQs_normal.jpg,https://pbs.twimg.com/profile_images/1565722268738748416/4FWACDQs_normal.jpg,https://pbs.twimg.com/profile_banners/1303026765737218049/1653306587,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,False,298.0,17005.0,False,False,en
+Tue Feb 28 13:25:34 +0000 2023,1630559838576033792,1630559838576033792,"Prochaine journée Samedi 4 Mars :
+
+ 1⃣5⃣ Heure :
+Bordeaux - Saint Etienne
+
+1⃣9⃣ Heure :
+Amiens - Pau
+Annecy - Metz
+Bastia - Nîmes 
+Niort - Rodez
+Dijon - Grenoble
+Le Havre - Laval
+Paris FC - Guingamp
+QRM - VA
+
+lundi 6 Mars :
+2⃣0⃣ H 4⃣5⃣
+Caen - Sochaux",False,"[0, 250]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,2,26,False,False,,en,en,recent,1910790139,1910790139,𝕌𝕝𝕥𝕣@𝕞𝕒𝕣𝕚𝕟,87_ub,Guadeloupe ,"Supporter des @girondins en #Guadeloupe et parfois au VS  / Abonné VS / 2e de @Ligue2BKT
+#oldschool
+CM https://t.co/t072tSfpNM…",,,"[{'url': 'https://t.co/t072tSfpNM', 'expanded_url': 'http://facebook.com/Livemeteoguade', 'display_url': 'facebook.com/Livemeteoguade', 'indices': [103, 126]}]",False,1295,996,1,Fri Sep 27 10:34:44 +0000 2013,53349,,,True,False,31836,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1611351855753216000/ipdvH6oJ_normal.jpg,https://pbs.twimg.com/profile_images/1611351855753216000/ipdvH6oJ_normal.jpg,https://pbs.twimg.com/profile_banners/1910790139/1675539958,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Feb 27 14:05:01 +0000 2023,1630207379642937344,1630207379642937344,"Georges Mikautadze's last three seasons:
+
+☑️20/21: 24 games, 22 goals &amp; 2 assists (RFC Seraing)
+
+☑️21/22: 33 games, 14 goals &amp; 2 assists (RFC Seraing)
+
+☑️22/23 so far: 27 games, 13 goals &amp; 6 assists (FC Metz)
+
+22 years of age. A very interesting striker. 🇬🇪 https://t.co/cs5EJMK9JD",False,"[0, 269]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,17,353,False,False,False,en,en,recent,2266207230,2266207230,Football Talent Scout - Jacek Kulig,FTalentScout,,"Probably the best website about football talents in the world.
+
+In youth we trust.
+
+Scouting 24/7.
+
+Business: drfootball1@gmail.com",https://t.co/3sQ73tWaxU,"[{'url': 'https://t.co/3sQ73tWaxU', 'expanded_url': 'http://footballtalentscout.net/', 'display_url': 'footballtalentscout.net', 'indices': [0, 23]}]",[],False,238356,985,1242,Sat Dec 28 17:34:24 +0000 2013,10530,,,False,False,30865,,False,False,False,000000,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1245864827177832449/iYtecyej_normal.png,https://pbs.twimg.com/profile_images/1245864827177832449/iYtecyej_normal.png,https://pbs.twimg.com/profile_banners/2266207230/1644326887,ABB8C2,000000,000000,000000,False,True,False,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 11:43:48 +0000 2023,1629809452261015552,1629809452261015552,"@_BeFootball 1: Real madrid 
+2: CR7 FC
+3: FC Metz",False,"[13, 49]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",1.629753885115179e+18,1629753885115179010,854342210.0,854342210,_BeFootball,,,,,False,0,0,False,False,,en,en,recent,1381244550929342464,1381244550929342464,benziicius 🤍,Footix26704140,la cage de ter Stegen,#realmadrid 🇪🇸 #CR7𓃵🇵🇹 #Fcmetz 🇱🇻,https://t.co/2cwzFqjyq6,"[{'url': 'https://t.co/2cwzFqjyq6', 'expanded_url': 'https://twitter.com/FCBarcelona/status/1294375616041684992?s=19', 'display_url': 'twitter.com/FCBarcelona/st…', 'indices': [0, 23]}]",[],False,269,279,1,Sun Apr 11 13:55:50 +0000 2021,5796,,,False,False,9379,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1624526340614488066/uquK3hvz_normal.jpg,https://pbs.twimg.com/profile_images/1624526340614488066/uquK3hvz_normal.jpg,https://pbs.twimg.com/profile_banners/1381244550929342464/1652603414,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

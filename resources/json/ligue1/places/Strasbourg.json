@@ -1,0 +1,179 @@
+{
+    "data": [
+        {
+            "id": "7db9cca94bb9e657",
+            "url": "https://api.twitter.com/1.1/geo/id/7db9cca94bb9e657.json",
+            "place_type": "city",
+            "name": "McKillop No. 220",
+            "full_name": "McKillop No. 220, Saskatchewan",
+            "country_code": "CA",
+            "country": "Canada",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -105.280036,
+                            50.781386
+                        ],
+                        [
+                            -104.798354,
+                            50.781386
+                        ],
+                        [
+                            -104.798354,
+                            51.095947
+                        ],
+                        [
+                            -105.280036,
+                            51.095947
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633285402282041344
+        },
+        {
+            "id": "0cce40c33dd43000",
+            "url": "https://api.twitter.com/1.1/geo/id/0cce40c33dd43000.json",
+            "place_type": "poi",
+            "name": "Picard",
+            "full_name": "Picard",
+            "country_code": "FR",
+            "country": "France",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            7.741693,
+                            48.582896
+                        ],
+                        [
+                            7.741693,
+                            48.582896
+                        ],
+                        [
+                            7.741693,
+                            48.582896
+                        ],
+                        [
+                            7.741693,
+                            48.582896
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633191799815651329
+        },
+        {
+            "id": "0cce40c33dd43000",
+            "url": "https://api.twitter.com/1.1/geo/id/0cce40c33dd43000.json",
+            "place_type": "poi",
+            "name": "Picard",
+            "full_name": "Picard",
+            "country_code": "FR",
+            "country": "France",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            7.741693,
+                            48.582896
+                        ],
+                        [
+                            7.741693,
+                            48.582896
+                        ],
+                        [
+                            7.741693,
+                            48.582896
+                        ],
+                        [
+                            7.741693,
+                            48.582896
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633183509903704064
+        },
+        {
+            "id": "511655fc081bb251",
+            "url": "https://api.twitter.com/1.1/geo/id/511655fc081bb251.json",
+            "place_type": "city",
+            "name": "Portsmouth",
+            "full_name": "Portsmouth, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.117912,
+                            50.778429
+                        ],
+                        [
+                            -1.0160589,
+                            50.778429
+                        ],
+                        [
+                            -1.0160589,
+                            50.8593
+                        ],
+                        [
+                            -1.117912,
+                            50.8593
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633177467799175169
+        },
+        {
+            "id": "0701e94ee168b555",
+            "url": "https://api.twitter.com/1.1/geo/id/0701e94ee168b555.json",
+            "place_type": "city",
+            "name": "Strasbourg",
+            "full_name": "Strasbourg, France",
+            "country_code": "FR",
+            "country": "France",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            7.6881601,
+                            48.4924213
+                        ],
+                        [
+                            7.836256,
+                            48.4924213
+                        ],
+                        [
+                            7.836256,
+                            48.6461915
+                        ],
+                        [
+                            7.6881601,
+                            48.6461915
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633145433319981058
+        }
+    ]
+}

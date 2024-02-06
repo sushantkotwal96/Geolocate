@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "3078869807f9dd36",
+            "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+            "place_type": "city",
+            "name": "Berlin",
+            "full_name": "Berlin, Germany",
+            "country_code": "DE",
+            "country": "Germany",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.088304,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.675323
+                        ],
+                        [
+                            13.088304,
+                            52.675323
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632155195034542081
+        },
+        {
+            "id": "3078869807f9dd36",
+            "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+            "place_type": "city",
+            "name": "Berlin",
+            "full_name": "Berlin, Germany",
+            "country_code": "DE",
+            "country": "Germany",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.088304,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.675323
+                        ],
+                        [
+                            13.088304,
+                            52.675323
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632155195034542081
+        }
+    ]
+}

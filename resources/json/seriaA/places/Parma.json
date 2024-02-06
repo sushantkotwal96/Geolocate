@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "id": "4723507d8ce23a60",
+            "url": "https://api.twitter.com/1.1/geo/id/4723507d8ce23a60.json",
+            "place_type": "admin",
+            "name": "Idaho",
+            "full_name": "Idaho, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -117.243028,
+                            41.987982
+                        ],
+                        [
+                            -111.0434969,
+                            41.987982
+                        ],
+                        [
+                            -111.0434969,
+                            49.001121
+                        ],
+                        [
+                            -117.243028,
+                            49.001121
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633226048228954112
+        },
+        {
+            "id": "55fa5f4b4d3d6743",
+            "url": "https://api.twitter.com/1.1/geo/id/55fa5f4b4d3d6743.json",
+            "place_type": "city",
+            "name": "Cernusco sul Naviglio",
+            "full_name": "Cernusco sul Naviglio, Lombardia",
+            "country_code": "IT",
+            "country": "Italy",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.2992158,
+                            45.5002702
+                        ],
+                        [
+                            9.3675515,
+                            45.5002702
+                        ],
+                        [
+                            9.3675515,
+                            45.5480102
+                        ],
+                        [
+                            9.2992158,
+                            45.5480102
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633225345120780288
+        },
+        {
+            "id": "dbd1fd3168748e88",
+            "url": "https://api.twitter.com/1.1/geo/id/dbd1fd3168748e88.json",
+            "place_type": "city",
+            "name": "Parma",
+            "full_name": "Parma, OH",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.785053,
+                            41.3503583
+                        ],
+                        [
+                            -81.68457,
+                            41.3503583
+                        ],
+                        [
+                            -81.68457,
+                            41.419489
+                        ],
+                        [
+                            -81.785053,
+                            41.419489
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633213613426249728
+        }
+    ]
+}

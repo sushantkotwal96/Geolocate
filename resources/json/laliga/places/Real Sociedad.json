@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "58a4c3a0d54e1400",
+            "url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+            "place_type": "admin",
+            "name": "Central Region",
+            "full_name": "Central Region, Singapore",
+            "country_code": "SG",
+            "country": "Singapore",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            103.749959507073,
+                            1.2123138339349
+                        ],
+                        [
+                            103.918426999964,
+                            1.2123138339349
+                        ],
+                        [
+                            103.918426999964,
+                            1.36874499902569
+                        ],
+                        [
+                            103.749959507073,
+                            1.36874499902569
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633077720484827136
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+id,url,place_type,name,full_name,country_code,country,contained_within,tweet_id,bounding_box.type,bounding_box.coordinates
+38d5974e82ed1a6c,https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json,city,Ottawa,"Ottawa, Ontario",CA,Canada,[],1633245311425716225,Polygon,"[[[-76.353876, 44.961937], [-75.246407, 44.961937], [-75.246407, 45.5356446], [-76.353876, 45.5356446]]]"
+38d5974e82ed1a6c,https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json,city,Ottawa,"Ottawa, Ontario",CA,Canada,[],1633245311425716225,Polygon,"[[[-76.353876, 44.961937], [-75.246407, 44.961937], [-75.246407, 45.5356446], [-76.353876, 45.5356446]]]"

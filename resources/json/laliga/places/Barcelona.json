@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "id": "512a8a4a4c4b4be0",
+            "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json",
+            "place_type": "city",
+            "name": "Charlotte",
+            "full_name": "Charlotte, NC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.046876,
+                            35.001706
+                        ],
+                        [
+                            -80.646695,
+                            35.001706
+                        ],
+                        [
+                            -80.646695,
+                            35.416412
+                        ],
+                        [
+                            -81.046876,
+                            35.416412
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633304112853929987
+        },
+        {
+            "id": "512a8a4a4c4b4be0",
+            "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json",
+            "place_type": "city",
+            "name": "Charlotte",
+            "full_name": "Charlotte, NC",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.046876,
+                            35.001706
+                        ],
+                        [
+                            -80.646695,
+                            35.001706
+                        ],
+                        [
+                            -80.646695,
+                            35.416412
+                        ],
+                        [
+                            -81.046876,
+                            35.416412
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633297617227579395
+        },
+        {
+            "id": "1a27537478dd8e38",
+            "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+            "place_type": "city",
+            "name": "Barcelona",
+            "full_name": "Barcelona, Spain",
+            "country_code": "ES",
+            "country": "Spain",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.0524766,
+                            41.3170475
+                        ],
+                        [
+                            2.2299781,
+                            41.3170475
+                        ],
+                        [
+                            2.2299781,
+                            41.4682658
+                        ],
+                        [
+                            2.0524766,
+                            41.4682658
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633286430628642816
+        }
+    ]
+}

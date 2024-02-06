@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "8abc99434d4f5d28",
+            "url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+            "place_type": "city",
+            "name": "Cologne",
+            "full_name": "Cologne, Germany",
+            "country_code": "DE",
+            "country": "Germany",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.772567,
+                            50.830287
+                        ],
+                        [
+                            7.162373,
+                            50.830287
+                        ],
+                        [
+                            7.162373,
+                            51.0849471
+                        ],
+                        [
+                            6.772567,
+                            51.0849471
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1630824650866302976
+        },
+        {
+            "id": "8abc99434d4f5d28",
+            "url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+            "place_type": "city",
+            "name": "Cologne",
+            "full_name": "Cologne, Germany",
+            "country_code": "DE",
+            "country": "Germany",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.772567,
+                            50.830287
+                        ],
+                        [
+                            7.162373,
+                            50.830287
+                        ],
+                        [
+                            7.162373,
+                            51.0849471
+                        ],
+                        [
+                            6.772567,
+                            51.0849471
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1630824650866302976
+        }
+    ]
+}

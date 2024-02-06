@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "id": "3b77caf94bfc81fe",
+            "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+            "place_type": "city",
+            "name": "Los Angeles",
+            "full_name": "Los Angeles, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -118.668404,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            34.337041
+                        ],
+                        [
+                            -118.668404,
+                            34.337041
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633299196286750721
+        },
+        {
+            "id": "002e24c6736f069d",
+            "url": "https://api.twitter.com/1.1/geo/id/002e24c6736f069d.json",
+            "place_type": "city",
+            "name": "Bronx",
+            "full_name": "Bronx, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.933612,
+                            40.785365
+                        ],
+                        [
+                            -73.765271,
+                            40.785365
+                        ],
+                        [
+                            -73.765271,
+                            40.91533
+                        ],
+                        [
+                            -73.933612,
+                            40.91533
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633297679437516805
+        },
+        {
+            "id": "5c2b5e46ab891f07",
+            "url": "https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json",
+            "place_type": "city",
+            "name": "Las Vegas",
+            "full_name": "Las Vegas, NV",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -115.384091,
+                            36.129459
+                        ],
+                        [
+                            -115.062159,
+                            36.129459
+                        ],
+                        [
+                            -115.062159,
+                            36.336371
+                        ],
+                        [
+                            -115.384091,
+                            36.336371
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633272950236512256
+        }
+    ]
+}

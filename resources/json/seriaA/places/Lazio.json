@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "a0583a9994e6bf1b",
+            "url": "https://api.twitter.com/1.1/geo/id/a0583a9994e6bf1b.json",
+            "place_type": "country",
+            "name": "Malawi",
+            "full_name": "Malawi",
+            "country_code": "MW",
+            "country": "Malawi",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            32.6718934,
+                            -17.1276504
+                        ],
+                        [
+                            35.92038,
+                            -17.1276504
+                        ],
+                        [
+                            35.92038,
+                            -9.3670837
+                        ],
+                        [
+                            32.6718934,
+                            -9.3670837
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633232333477126145
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "003d5766281b4194",
+            "url": "https://api.twitter.com/1.1/geo/id/003d5766281b4194.json",
+            "place_type": "city",
+            "name": "Lahore",
+            "full_name": "Lahore, Pakistan",
+            "country_code": "PK",
+            "country": "Pakistan",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74.267586,
+                            31.451222
+                        ],
+                        [
+                            74.449387,
+                            31.451222
+                        ],
+                        [
+                            74.449387,
+                            31.612417
+                        ],
+                        [
+                            74.267586,
+                            31.612417
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633282911142125568
+        }
+    ]
+}

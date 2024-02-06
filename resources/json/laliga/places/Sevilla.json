@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "01d487de3c4e0807",
+            "url": "https://api.twitter.com/1.1/geo/id/01d487de3c4e0807.json",
+            "place_type": "admin",
+            "name": "Maldonado",
+            "full_name": "Maldonado, Uruguay",
+            "country_code": "UY",
+            "country": "Uruguay",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -55.4833278,
+                            -34.973751
+                        ],
+                        [
+                            -54.462574,
+                            -34.973751
+                        ],
+                        [
+                            -54.462574,
+                            -33.940979
+                        ],
+                        [
+                            -55.4833278,
+                            -33.940979
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633248573595762689
+        }
+    ]
+}

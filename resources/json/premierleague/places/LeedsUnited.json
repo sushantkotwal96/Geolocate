@@ -1,0 +1,623 @@
+{
+    "data": [
+        {
+            "id": "dfc037f64a373ac8",
+            "url": "https://api.twitter.com/1.1/geo/id/dfc037f64a373ac8.json",
+            "place_type": "city",
+            "name": "Kagiso",
+            "full_name": "Kagiso, South Africa",
+            "country_code": "ZA",
+            "country": "South Africa",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            27.759883,
+                            -26.1820597
+                        ],
+                        [
+                            27.8211823,
+                            -26.1820597
+                        ],
+                        [
+                            27.8211823,
+                            -26.1369441
+                        ],
+                        [
+                            27.759883,
+                            -26.1369441
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01ca6d740243aa31",
+            "url": "https://api.twitter.com/1.1/geo/id/01ca6d740243aa31.json",
+            "place_type": "admin",
+            "name": "Rivers",
+            "full_name": "Rivers, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.351687,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            5.7275834
+                        ],
+                        [
+                            6.351687,
+                            5.7275834
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01ca6d740243aa31",
+            "url": "https://api.twitter.com/1.1/geo/id/01ca6d740243aa31.json",
+            "place_type": "admin",
+            "name": "Rivers",
+            "full_name": "Rivers, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.351687,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            5.7275834
+                        ],
+                        [
+                            6.351687,
+                            5.7275834
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "001aff55522d96c9",
+            "url": "https://api.twitter.com/1.1/geo/id/001aff55522d96c9.json",
+            "place_type": "admin",
+            "name": "Dhaka",
+            "full_name": "Dhaka, Bangladesh",
+            "country_code": "BD",
+            "country": "Bangladesh",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            89.3488235,
+                            22.8894691
+                        ],
+                        [
+                            91.3085938,
+                            22.8894691
+                        ],
+                        [
+                            91.3085938,
+                            25.3072923
+                        ],
+                        [
+                            89.3488235,
+                            25.3072923
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01ca6d740243aa31",
+            "url": "https://api.twitter.com/1.1/geo/id/01ca6d740243aa31.json",
+            "place_type": "admin",
+            "name": "Rivers",
+            "full_name": "Rivers, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.351687,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            5.7275834
+                        ],
+                        [
+                            6.351687,
+                            5.7275834
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01ca6d740243aa31",
+            "url": "https://api.twitter.com/1.1/geo/id/01ca6d740243aa31.json",
+            "place_type": "admin",
+            "name": "Rivers",
+            "full_name": "Rivers, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.351687,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            5.7275834
+                        ],
+                        [
+                            6.351687,
+                            5.7275834
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "001aff55522d96c9",
+            "url": "https://api.twitter.com/1.1/geo/id/001aff55522d96c9.json",
+            "place_type": "admin",
+            "name": "Dhaka",
+            "full_name": "Dhaka, Bangladesh",
+            "country_code": "BD",
+            "country": "Bangladesh",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            89.3488235,
+                            22.8894691
+                        ],
+                        [
+                            91.3085938,
+                            22.8894691
+                        ],
+                        [
+                            91.3085938,
+                            25.3072923
+                        ],
+                        [
+                            89.3488235,
+                            25.3072923
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01ca6d740243aa31",
+            "url": "https://api.twitter.com/1.1/geo/id/01ca6d740243aa31.json",
+            "place_type": "admin",
+            "name": "Rivers",
+            "full_name": "Rivers, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.351687,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            5.7275834
+                        ],
+                        [
+                            6.351687,
+                            5.7275834
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01ca6d740243aa31",
+            "url": "https://api.twitter.com/1.1/geo/id/01ca6d740243aa31.json",
+            "place_type": "admin",
+            "name": "Rivers",
+            "full_name": "Rivers, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.351687,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            4.3176116
+                        ],
+                        [
+                            7.5957889,
+                            5.7275834
+                        ],
+                        [
+                            6.351687,
+                            5.7275834
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "001aff55522d96c9",
+            "url": "https://api.twitter.com/1.1/geo/id/001aff55522d96c9.json",
+            "place_type": "admin",
+            "name": "Dhaka",
+            "full_name": "Dhaka, Bangladesh",
+            "country_code": "BD",
+            "country": "Bangladesh",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            89.3488235,
+                            22.8894691
+                        ],
+                        [
+                            91.3085938,
+                            22.8894691
+                        ],
+                        [
+                            91.3085938,
+                            25.3072923
+                        ],
+                        [
+                            89.3488235,
+                            25.3072923
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01eddd9d0dbec2c8",
+            "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json",
+            "place_type": "city",
+            "name": "Ikeja",
+            "full_name": "Ikeja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.198942,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.6985461
+                        ],
+                        [
+                            3.198942,
+                            6.6985461
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01eddd9d0dbec2c8",
+            "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json",
+            "place_type": "city",
+            "name": "Ikeja",
+            "full_name": "Ikeja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.198942,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.6985461
+                        ],
+                        [
+                            3.198942,
+                            6.6985461
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633207917267628032
+        },
+        {
+            "id": "01eddd9d0dbec2c8",
+            "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json",
+            "place_type": "city",
+            "name": "Ikeja",
+            "full_name": "Ikeja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.198942,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.6985461
+                        ],
+                        [
+                            3.198942,
+                            6.6985461
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633207917267628032
+        },
+        {
+            "id": "01eddd9d0dbec2c8",
+            "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json",
+            "place_type": "city",
+            "name": "Ikeja",
+            "full_name": "Ikeja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.198942,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.6985461
+                        ],
+                        [
+                            3.198942,
+                            6.6985461
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633207917267628032
+        },
+        {
+            "id": "01eddd9d0dbec2c8",
+            "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json",
+            "place_type": "city",
+            "name": "Ikeja",
+            "full_name": "Ikeja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.198942,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.4826762
+                        ],
+                        [
+                            3.43719,
+                            6.6985461
+                        ],
+                        [
+                            3.198942,
+                            6.6985461
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633207917267628032
+        },
+        {
+            "id": "2ca76c5e29f4452e",
+            "url": "https://api.twitter.com/1.1/geo/id/2ca76c5e29f4452e.json",
+            "place_type": "city",
+            "name": "Munlochy",
+            "full_name": "Munlochy, Scotland",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.267471,
+                            57.546012
+                        ],
+                        [
+                            -4.254825,
+                            57.546012
+                        ],
+                        [
+                            -4.254825,
+                            57.552355
+                        ],
+                        [
+                            -4.267471,
+                            57.552355
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634999072313737217
+        },
+        {
+            "id": "3d02dc63d6af35a8",
+            "url": "https://api.twitter.com/1.1/geo/id/3d02dc63d6af35a8.json",
+            "place_type": "city",
+            "name": "Pederneiras",
+            "full_name": "Pederneiras, Brasil",
+            "country_code": "BR",
+            "country": "Brazil",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -49.0543176,
+                            -22.490168
+                        ],
+                        [
+                            -48.7031407,
+                            -22.490168
+                        ],
+                        [
+                            -48.7031407,
+                            -22.0885668
+                        ],
+                        [
+                            -49.0543176,
+                            -22.0885668
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636849163345248256
+        },
+        {
+            "id": "508f122a15cfa5d4",
+            "url": "https://api.twitter.com/1.1/geo/id/508f122a15cfa5d4.json",
+            "place_type": "city",
+            "name": "Wolverhampton",
+            "full_name": "Wolverhampton, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.206829,
+                            52.543947
+                        ],
+                        [
+                            -2.089101,
+                            52.543947
+                        ],
+                        [
+                            -2.089101,
+                            52.616322
+                        ],
+                        [
+                            -2.206829,
+                            52.616322
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636841975629357057
+        }
+    ]
+}

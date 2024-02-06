@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "07d9cd93dc883000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9cd93dc883000.json",
+            "place_type": "poi",
+            "name": "Levi's and ROMP",
+            "full_name": "Levi's and ROMP",
+            "country_code": "MY",
+            "country": "Malaysia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            101.73346159160623,
+                            3.2029236977512743
+                        ],
+                        [
+                            101.73346159160623,
+                            3.2029236977512743
+                        ],
+                        [
+                            101.73346159160623,
+                            3.2029236977512743
+                        ],
+                        [
+                            101.73346159160623,
+                            3.2029236977512743
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633307104663736321
+        }
+    ]
+}

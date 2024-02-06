@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "e32192decc296cf8",
+            "url": "https://api.twitter.com/1.1/geo/id/e32192decc296cf8.json",
+            "place_type": "city",
+            "name": "Aquiraz",
+            "full_name": "Aquiraz, Brasil",
+            "country_code": "BR",
+            "country": "Brazil",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.535621,
+                            -4.079451
+                        ],
+                        [
+                            -38.224157,
+                            -4.079451
+                        ],
+                        [
+                            -38.224157,
+                            -3.819636
+                        ],
+                        [
+                            -38.535621,
+                            -3.819636
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633066912128151553
+        },
+        {
+            "id": "e32192decc296cf8",
+            "url": "https://api.twitter.com/1.1/geo/id/e32192decc296cf8.json",
+            "place_type": "city",
+            "name": "Aquiraz",
+            "full_name": "Aquiraz, Brasil",
+            "country_code": "BR",
+            "country": "Brazil",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.535621,
+                            -4.079451
+                        ],
+                        [
+                            -38.224157,
+                            -4.079451
+                        ],
+                        [
+                            -38.224157,
+                            -3.819636
+                        ],
+                        [
+                            -38.535621,
+                            -3.819636
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633066335147114500
+        }
+    ]
+}

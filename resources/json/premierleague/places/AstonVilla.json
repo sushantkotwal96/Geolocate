@@ -1,0 +1,1003 @@
+{
+    "data": [
+        {
+            "id": "6fd19c7b8cc0ed61",
+            "url": "https://api.twitter.com/1.1/geo/id/6fd19c7b8cc0ed61.json",
+            "place_type": "city",
+            "name": "Lowestoft",
+            "full_name": "Lowestoft, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.684724,
+                            52.441164
+                        ],
+                        [
+                            1.762324,
+                            52.441164
+                        ],
+                        [
+                            1.762324,
+                            52.5110445
+                        ],
+                        [
+                            1.684724,
+                            52.5110445
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "00611f1548c7bdef",
+            "url": "https://api.twitter.com/1.1/geo/id/00611f1548c7bdef.json",
+            "place_type": "city",
+            "name": "Kano",
+            "full_name": "Kano, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.4475987,
+                            11.9296331
+                        ],
+                        [
+                            8.6073347,
+                            11.9296331
+                        ],
+                        [
+                            8.6073347,
+                            12.0803669
+                        ],
+                        [
+                            8.4475987,
+                            12.0803669
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "52bb236ce4bb9be1",
+            "url": "https://api.twitter.com/1.1/geo/id/52bb236ce4bb9be1.json",
+            "place_type": "city",
+            "name": "Coventry",
+            "full_name": "Coventry, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6128929,
+                            52.3653979
+                        ],
+                        [
+                            -1.4244104,
+                            52.3653979
+                        ],
+                        [
+                            -1.4244104,
+                            52.458428
+                        ],
+                        [
+                            -1.6128929,
+                            52.458428
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01e215db7136a37e",
+            "url": "https://api.twitter.com/1.1/geo/id/01e215db7136a37e.json",
+            "place_type": "city",
+            "name": "Nairobi",
+            "full_name": "Nairobi, Kenya",
+            "country_code": "KE",
+            "country": "Kenya",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            36.6645733,
+                            -1.3890532
+                        ],
+                        [
+                            37.0626672,
+                            -1.3890532
+                        ],
+                        [
+                            37.0626672,
+                            -1.1606735
+                        ],
+                        [
+                            36.6645733,
+                            -1.1606735
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "6fd19c7b8cc0ed61",
+            "url": "https://api.twitter.com/1.1/geo/id/6fd19c7b8cc0ed61.json",
+            "place_type": "city",
+            "name": "Lowestoft",
+            "full_name": "Lowestoft, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.684724,
+                            52.441164
+                        ],
+                        [
+                            1.762324,
+                            52.441164
+                        ],
+                        [
+                            1.762324,
+                            52.5110445
+                        ],
+                        [
+                            1.684724,
+                            52.5110445
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "00611f1548c7bdef",
+            "url": "https://api.twitter.com/1.1/geo/id/00611f1548c7bdef.json",
+            "place_type": "city",
+            "name": "Kano",
+            "full_name": "Kano, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.4475987,
+                            11.9296331
+                        ],
+                        [
+                            8.6073347,
+                            11.9296331
+                        ],
+                        [
+                            8.6073347,
+                            12.0803669
+                        ],
+                        [
+                            8.4475987,
+                            12.0803669
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "52bb236ce4bb9be1",
+            "url": "https://api.twitter.com/1.1/geo/id/52bb236ce4bb9be1.json",
+            "place_type": "city",
+            "name": "Coventry",
+            "full_name": "Coventry, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6128929,
+                            52.3653979
+                        ],
+                        [
+                            -1.4244104,
+                            52.3653979
+                        ],
+                        [
+                            -1.4244104,
+                            52.458428
+                        ],
+                        [
+                            -1.6128929,
+                            52.458428
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01e215db7136a37e",
+            "url": "https://api.twitter.com/1.1/geo/id/01e215db7136a37e.json",
+            "place_type": "city",
+            "name": "Nairobi",
+            "full_name": "Nairobi, Kenya",
+            "country_code": "KE",
+            "country": "Kenya",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            36.6645733,
+                            -1.3890532
+                        ],
+                        [
+                            37.0626672,
+                            -1.3890532
+                        ],
+                        [
+                            37.0626672,
+                            -1.1606735
+                        ],
+                        [
+                            36.6645733,
+                            -1.1606735
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "6fd19c7b8cc0ed61",
+            "url": "https://api.twitter.com/1.1/geo/id/6fd19c7b8cc0ed61.json",
+            "place_type": "city",
+            "name": "Lowestoft",
+            "full_name": "Lowestoft, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.684724,
+                            52.441164
+                        ],
+                        [
+                            1.762324,
+                            52.441164
+                        ],
+                        [
+                            1.762324,
+                            52.5110445
+                        ],
+                        [
+                            1.684724,
+                            52.5110445
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "00611f1548c7bdef",
+            "url": "https://api.twitter.com/1.1/geo/id/00611f1548c7bdef.json",
+            "place_type": "city",
+            "name": "Kano",
+            "full_name": "Kano, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.4475987,
+                            11.9296331
+                        ],
+                        [
+                            8.6073347,
+                            11.9296331
+                        ],
+                        [
+                            8.6073347,
+                            12.0803669
+                        ],
+                        [
+                            8.4475987,
+                            12.0803669
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "52bb236ce4bb9be1",
+            "url": "https://api.twitter.com/1.1/geo/id/52bb236ce4bb9be1.json",
+            "place_type": "city",
+            "name": "Coventry",
+            "full_name": "Coventry, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6128929,
+                            52.3653979
+                        ],
+                        [
+                            -1.4244104,
+                            52.3653979
+                        ],
+                        [
+                            -1.4244104,
+                            52.458428
+                        ],
+                        [
+                            -1.6128929,
+                            52.458428
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "01e215db7136a37e",
+            "url": "https://api.twitter.com/1.1/geo/id/01e215db7136a37e.json",
+            "place_type": "city",
+            "name": "Nairobi",
+            "full_name": "Nairobi, Kenya",
+            "country_code": "KE",
+            "country": "Kenya",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            36.6645733,
+                            -1.3890532
+                        ],
+                        [
+                            37.0626672,
+                            -1.3890532
+                        ],
+                        [
+                            37.0626672,
+                            -1.1606735
+                        ],
+                        [
+                            36.6645733,
+                            -1.1606735
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "6fd19c7b8cc0ed61",
+            "url": "https://api.twitter.com/1.1/geo/id/6fd19c7b8cc0ed61.json",
+            "place_type": "city",
+            "name": "Lowestoft",
+            "full_name": "Lowestoft, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.684724,
+                            52.441164
+                        ],
+                        [
+                            1.762324,
+                            52.441164
+                        ],
+                        [
+                            1.762324,
+                            52.5110445
+                        ],
+                        [
+                            1.684724,
+                            52.5110445
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "687a884c4cf3323a",
+            "url": "https://api.twitter.com/1.1/geo/id/687a884c4cf3323a.json",
+            "place_type": "city",
+            "name": "Abertillery",
+            "full_name": "Abertillery, Wales",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.151625,
+                            51.7129841
+                        ],
+                        [
+                            -3.1230205,
+                            51.7129841
+                        ],
+                        [
+                            -3.1230205,
+                            51.749505
+                        ],
+                        [
+                            -3.151625,
+                            51.749505
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "6c6a452a02394ba8",
+            "url": "https://api.twitter.com/1.1/geo/id/6c6a452a02394ba8.json",
+            "place_type": "city",
+            "name": "Saint-Nazaire",
+            "full_name": "Saint-Nazaire, France",
+            "country_code": "FR",
+            "country": "France",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.3101925,
+                            47.2321302
+                        ],
+                        [
+                            -2.1681257,
+                            47.2321302
+                        ],
+                        [
+                            -2.1681257,
+                            47.3203155
+                        ],
+                        [
+                            -2.3101925,
+                            47.3203155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "019255ed24d69779",
+            "url": "https://api.twitter.com/1.1/geo/id/019255ed24d69779.json",
+            "place_type": "city",
+            "name": "Kpone",
+            "full_name": "Kpone, Ghana",
+            "country_code": "GH",
+            "country": "Ghana",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.0094425,
+                            5.6672599
+                        ],
+                        [
+                            0.0658141,
+                            5.6672599
+                        ],
+                        [
+                            0.0658141,
+                            5.7731965
+                        ],
+                        [
+                            -0.0094425,
+                            5.7731965
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "3078869807f9dd36",
+            "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+            "place_type": "city",
+            "name": "Berlin",
+            "full_name": "Berlin, Germany",
+            "country_code": "DE",
+            "country": "Germany",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.088304,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.675323
+                        ],
+                        [
+                            13.088304,
+                            52.675323
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633225650575138823
+        },
+        {
+            "id": "6c6a452a02394ba8",
+            "url": "https://api.twitter.com/1.1/geo/id/6c6a452a02394ba8.json",
+            "place_type": "city",
+            "name": "Saint-Nazaire",
+            "full_name": "Saint-Nazaire, France",
+            "country_code": "FR",
+            "country": "France",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.3101925,
+                            47.2321302
+                        ],
+                        [
+                            -2.1681257,
+                            47.2321302
+                        ],
+                        [
+                            -2.1681257,
+                            47.3203155
+                        ],
+                        [
+                            -2.3101925,
+                            47.3203155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633212737739169792
+        },
+        {
+            "id": "3078869807f9dd36",
+            "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+            "place_type": "city",
+            "name": "Berlin",
+            "full_name": "Berlin, Germany",
+            "country_code": "DE",
+            "country": "Germany",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.088304,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.675323
+                        ],
+                        [
+                            13.088304,
+                            52.675323
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633225650575138823
+        },
+        {
+            "id": "6c6a452a02394ba8",
+            "url": "https://api.twitter.com/1.1/geo/id/6c6a452a02394ba8.json",
+            "place_type": "city",
+            "name": "Saint-Nazaire",
+            "full_name": "Saint-Nazaire, France",
+            "country_code": "FR",
+            "country": "France",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.3101925,
+                            47.2321302
+                        ],
+                        [
+                            -2.1681257,
+                            47.2321302
+                        ],
+                        [
+                            -2.1681257,
+                            47.3203155
+                        ],
+                        [
+                            -2.3101925,
+                            47.3203155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633212737739169792
+        },
+        {
+            "id": "3078869807f9dd36",
+            "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+            "place_type": "city",
+            "name": "Berlin",
+            "full_name": "Berlin, Germany",
+            "country_code": "DE",
+            "country": "Germany",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.088304,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.675323
+                        ],
+                        [
+                            13.088304,
+                            52.675323
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633225650575138823
+        },
+        {
+            "id": "6c6a452a02394ba8",
+            "url": "https://api.twitter.com/1.1/geo/id/6c6a452a02394ba8.json",
+            "place_type": "city",
+            "name": "Saint-Nazaire",
+            "full_name": "Saint-Nazaire, France",
+            "country_code": "FR",
+            "country": "France",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.3101925,
+                            47.2321302
+                        ],
+                        [
+                            -2.1681257,
+                            47.2321302
+                        ],
+                        [
+                            -2.1681257,
+                            47.3203155
+                        ],
+                        [
+                            -2.3101925,
+                            47.3203155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633212737739169792
+        },
+        {
+            "id": "3078869807f9dd36",
+            "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+            "place_type": "city",
+            "name": "Berlin",
+            "full_name": "Berlin, Germany",
+            "country_code": "DE",
+            "country": "Germany",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.088304,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.338079
+                        ],
+                        [
+                            13.760909,
+                            52.675323
+                        ],
+                        [
+                            13.088304,
+                            52.675323
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633225650575138823
+        },
+        {
+            "id": "6c6a452a02394ba8",
+            "url": "https://api.twitter.com/1.1/geo/id/6c6a452a02394ba8.json",
+            "place_type": "city",
+            "name": "Saint-Nazaire",
+            "full_name": "Saint-Nazaire, France",
+            "country_code": "FR",
+            "country": "France",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.3101925,
+                            47.2321302
+                        ],
+                        [
+                            -2.1681257,
+                            47.2321302
+                        ],
+                        [
+                            -2.1681257,
+                            47.3203155
+                        ],
+                        [
+                            -2.3101925,
+                            47.3203155
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633212737739169792
+        },
+        {
+            "id": "1027fcd83c280af3",
+            "url": "https://api.twitter.com/1.1/geo/id/1027fcd83c280af3.json",
+            "place_type": "city",
+            "name": "Lagos de Moreno",
+            "full_name": "Lagos de Moreno, Jalisco",
+            "country_code": "MX",
+            "country": "Mexico",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -102.16888,
+                            21.1778369
+                        ],
+                        [
+                            -101.568873,
+                            21.1778369
+                        ],
+                        [
+                            -101.568873,
+                            21.8892021
+                        ],
+                        [
+                            -102.16888,
+                            21.8892021
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634992653036318723
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634984621032247296
+        },
+        {
+            "id": "00b1231d2214913c",
+            "url": "https://api.twitter.com/1.1/geo/id/00b1231d2214913c.json",
+            "place_type": "city",
+            "name": "Abeokuta",
+            "full_name": "Abeokuta, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.2713206,
+                            7.0996682
+                        ],
+                        [
+                            3.4335622,
+                            7.0996682
+                        ],
+                        [
+                            3.4335622,
+                            7.209188
+                        ],
+                        [
+                            3.2713206,
+                            7.209188
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643672775834443776
+        },
+        {
+            "id": "53b67b1d1cc81a51",
+            "url": "https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json",
+            "place_type": "city",
+            "name": "Birmingham",
+            "full_name": "Birmingham, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.033651,
+                            52.381063
+                        ],
+                        [
+                            -1.74763,
+                            52.381063
+                        ],
+                        [
+                            -1.74763,
+                            52.60687
+                        ],
+                        [
+                            -2.033651,
+                            52.60687
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643664723093643264
+        },
+        {
+            "id": "53b67b1d1cc81a51",
+            "url": "https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json",
+            "place_type": "city",
+            "name": "Birmingham",
+            "full_name": "Birmingham, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.033651,
+                            52.381063
+                        ],
+                        [
+                            -1.74763,
+                            52.381063
+                        ],
+                        [
+                            -1.74763,
+                            52.60687
+                        ],
+                        [
+                            -2.033651,
+                            52.60687
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643662212261609474
+        }
+    ]
+}

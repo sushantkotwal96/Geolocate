@@ -1,0 +1,1457 @@
+created_at,id,id_str,full_text,truncated,display_text_range,source,in_reply_to_status_id,in_reply_to_status_id_str,in_reply_to_user_id,in_reply_to_user_id_str,in_reply_to_screen_name,geo,coordinates,place,contributors,is_quote_status,retweet_count,favorite_count,favorited,retweeted,possibly_sensitive,lang,metadata.iso_language_code,metadata.result_type,user.id,user.id_str,user.name,user.screen_name,user.location,user.description,user.url,user.entities.description.urls,user.protected,user.followers_count,user.friends_count,user.listed_count,user.created_at,user.favourites_count,user.utc_offset,user.time_zone,user.geo_enabled,user.verified,user.statuses_count,user.lang,user.contributors_enabled,user.is_translator,user.is_translation_enabled,user.profile_background_color,user.profile_background_image_url,user.profile_background_image_url_https,user.profile_background_tile,user.profile_image_url,user.profile_image_url_https,user.profile_banner_url,user.profile_link_color,user.profile_sidebar_border_color,user.profile_sidebar_fill_color,user.profile_text_color,user.profile_use_background_image,user.has_extended_profile,user.default_profile,user.default_profile_image,user.following,user.follow_request_sent,user.notifications,user.translator_type,user.withheld_in_countries,user.entities.url.urls,place.id,place.url,place.place_type,place.name,place.full_name,place.country_code,place.country,place.contained_within,place.bounding_box.type,place.bounding_box.coordinates,place.tweet_id,quoted_status_id,quoted_status_id_str,quoted_status.created_at,quoted_status.id,quoted_status.id_str,quoted_status.full_text,quoted_status.truncated,quoted_status.display_text_range,quoted_status.metadata.iso_language_code,quoted_status.metadata.result_type,quoted_status.source,quoted_status.in_reply_to_status_id,quoted_status.in_reply_to_status_id_str,quoted_status.in_reply_to_user_id,quoted_status.in_reply_to_user_id_str,quoted_status.in_reply_to_screen_name,quoted_status.user.id,quoted_status.user.id_str,quoted_status.user.name,quoted_status.user.screen_name,quoted_status.user.location,quoted_status.user.description,quoted_status.user.url,quoted_status.user.entities.url.urls,quoted_status.user.entities.description.urls,quoted_status.user.protected,quoted_status.user.followers_count,quoted_status.user.friends_count,quoted_status.user.listed_count,quoted_status.user.created_at,quoted_status.user.favourites_count,quoted_status.user.utc_offset,quoted_status.user.time_zone,quoted_status.user.geo_enabled,quoted_status.user.verified,quoted_status.user.statuses_count,quoted_status.user.lang,quoted_status.user.contributors_enabled,quoted_status.user.is_translator,quoted_status.user.is_translation_enabled,quoted_status.user.profile_background_color,quoted_status.user.profile_background_image_url,quoted_status.user.profile_background_image_url_https,quoted_status.user.profile_background_tile,quoted_status.user.profile_image_url,quoted_status.user.profile_image_url_https,quoted_status.user.profile_banner_url,quoted_status.user.profile_link_color,quoted_status.user.profile_sidebar_border_color,quoted_status.user.profile_sidebar_fill_color,quoted_status.user.profile_text_color,quoted_status.user.profile_use_background_image,quoted_status.user.has_extended_profile,quoted_status.user.default_profile,quoted_status.user.default_profile_image,quoted_status.user.following,quoted_status.user.follow_request_sent,quoted_status.user.notifications,quoted_status.user.translator_type,quoted_status.user.withheld_in_countries,quoted_status.geo,quoted_status.coordinates,quoted_status.place,quoted_status.contributors,quoted_status.is_quote_status,quoted_status.retweet_count,quoted_status.favorite_count,quoted_status.favorited,quoted_status.retweeted,quoted_status.lang
+Tue Mar 07 13:52:37 +0000 2023,1633103361951117313,1633103361951117313,"📷 Stade Rennais FC by night
+#srfc #rennes #staderennais 
+#football #Bretagne https://t.co/aFBRYlzhl5",False,"[0, 76]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,False,0,15,False,False,False,en,en,recent,1392144706155565062,1392144706155565062,Stade de la route de Lorient 🔴⚫,Route_Lorient,Rennes,"Stade Rennais FC. Abonné Mordelles bas (et tribune Populaire). Archives, photos et vidéos :)
+#staderennais #srfc #rennes #doku #football",,[],False,1196,923,3,Tue May 11 15:50:16 +0000 2021,228,,,False,False,590,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1629183018068738049/ddnj1fEM_normal.jpg,https://pbs.twimg.com/profile_images/1629183018068738049/ddnj1fEM_normal.jpg,https://pbs.twimg.com/profile_banners/1392144706155565062/1626981287,1DA1F2,C0DEED,DDEEF6,333333,True,False,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mon Mar 06 00:23:46 +0000 2023,1632537419261116417,1632537419261116417,"#Ligue1 🇫🇷 | Jornada 26 📝
+
+Troyes 2️⃣-2️⃣ AS Mónaco
+@MontpellierHSC 🖐🏽-0 Angers 🟥
+@StadeDeReims 1️⃣-0 AC Ajaccio
+Strasbourg 0-1️⃣ @SB29
+Toulouse FC 0-1️⃣ @ClermontFoot
+Lyon 0️⃣-0️⃣ Lorient
+Stade Rennais 0-1️⃣ @OM_Officiel
+
+#ESTACASM #MHSCSCO #SDRACA #RCSASB29 #TFCCF63 #OLFCL #SRFCOM ⚽ https://t.co/OLg7A7aUvl",False,"[0, 285]","<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,97759790,97759790,Solo ⚽ Fútbol (Héctor),SoloFutbolPlus,"León, Guanajuato, México",🇲🇽 15 Años informándote toda la actualidad del Planeta Fútbol. 🇵🇪  Publicidad / Ventas: ventas@solofutbol.com.mx,https://t.co/BCZAwy0ljF,[],False,92642,82539,227,Fri Dec 18 22:19:09 +0000 2009,43613,,,True,False,137474,,False,False,False,FCEBB6,http://abs.twimg.com/images/themes/theme15/bg.png,https://abs.twimg.com/images/themes/theme15/bg.png,True,http://pbs.twimg.com/profile_images/1608902629098426368/Ylu_6pQ2_normal.jpg,https://pbs.twimg.com/profile_images/1608902629098426368/Ylu_6pQ2_normal.jpg,https://pbs.twimg.com/profile_banners/97759790/1522641877,1B95E0,FFFFFF,78C0A8,5E412F,True,True,False,False,False,False,False,none,[],"[{'url': 'https://t.co/BCZAwy0ljF', 'expanded_url': 'http://www.solofutbol.com.mx', 'display_url': 'solofutbol.com.mx', 'indices': [0, 23]}]",1027fcd83c280af3,https://api.twitter.com/1.1/geo/id/1027fcd83c280af3.json,city,Lagos de Moreno,"Lagos de Moreno, Jalisco",MX,Mexico,[],Polygon,"[[[-102.16888, 21.1778369], [-101.568873, 21.1778369], [-101.568873, 21.8892021], [-102.16888, 21.8892021]]]",1.6325374192611164e+18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Mar 05 22:05:36 +0000 2023,1632502648342736897,1632502648342736897,"Leicester City FC - Chelsea FC
+Paris Saint-Germain FC - Stade Rennais FC
+
+Bet slip link: https://t.co/JewDptprMQ https://t.co/yH62ZsuNlw",False,"[0, 112]","<a href=""https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels"" rel=""nofollow"">sportstakewin</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1115823201316110336,1115823201316110336,Stake Sports Betting Tips,stakesportsbet,,"👍 USA https://t.co/D0xL2p1ZOY
+👍 Non-USA https://t.co/dEXMo3LpSl
+👍 Use code TIP to get an Exclusive Welcome Offer.",https://t.co/dEXMo3LpSl,"[{'url': 'https://t.co/D0xL2p1ZOY', 'expanded_url': 'https://stake.us/?c=sportsbet', 'display_url': 'stake.us/?c=sportsbet', 'indices': [6, 29]}, {'url': 'https://t.co/dEXMo3LpSl', 'expanded_url': 'https://stake.com/?c=tip', 'display_url': 'stake.com/?c=tip', 'indices': [40, 63]}]",False,2534,4991,14,Wed Apr 10 03:45:56 +0000 2019,3337,,,False,False,56223,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1369539195685859333/N0uorGvB_normal.jpg,https://pbs.twimg.com/profile_images/1369539195685859333/N0uorGvB_normal.jpg,https://pbs.twimg.com/profile_banners/1115823201316110336/1619740034,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],"[{'url': 'https://t.co/dEXMo3LpSl', 'expanded_url': 'https://stake.com/?c=tip', 'display_url': 'stake.com/?c=tip', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Mar 05 20:52:46 +0000 2023,1632484317875019779,1632484317875019779,"ALERT: New high roller bet posted!
+A bet has been placed for $10,000.00 on Stade Rennais FC - Olympique Marseille to win $13,000.00.
+To view this bet or copy it https://t.co/t0T2kQoDGo https://t.co/WOmWZSjOUQ",False,"[0, 184]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1310800524619386880,1310800524619386880,Stake High Roller,stakehighroller,Everywhere,"Follow the big money. All bets here are REAL. Go where the big money goes and increase your chances of winning!
+Welcome BONUS register here 👉 https://t.co/gsqJWkYdAh",https://t.co/gsqJWkYdAh,"[{'url': 'https://t.co/gsqJWkYdAh', 'expanded_url': 'http://betonstake.com', 'display_url': 'betonstake.com', 'indices': [142, 165]}]",False,17823,8929,66,Tue Sep 29 04:36:21 +0000 2020,3616,,,False,False,94344,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1323851625769754624/nrLTZT-Z_normal.png,https://pbs.twimg.com/profile_images/1323851625769754624/nrLTZT-Z_normal.png,https://pbs.twimg.com/profile_banners/1310800524619386880/1604464316,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],"[{'url': 'https://t.co/gsqJWkYdAh', 'expanded_url': 'http://betonstake.com', 'display_url': 'betonstake.com', 'indices': [0, 23]}]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tue Feb 28 17:11:59 +0000 2023,1630616818246205474,1630616818246205474,"Favourite team from each country 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 : Chelsea
+🇪🇸 : FC Barcelona
+🇮🇹 : AC Milan 
+🇫🇷 : Stade Rennais
+🇩🇪 : FC Schalke 04
+🇳🇱 : Vitesse
+🇵🇹 : - https://t.co/Ex1pseAguM",False,"[0, 142]","<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",,,,,,,,,,True,0,5,False,False,False,en,en,recent,911935330839916545,911935330839916545,Cas🇳🇱,cas_026,Nederland,,,[],False,154,255,0,Sun Sep 24 12:48:20 +0000 2017,22527,,,True,False,2949,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1441139954688561161/BQJu41s9_normal.jpg,https://pbs.twimg.com/profile_images/1441139954688561161/BQJu41s9_normal.jpg,https://pbs.twimg.com/profile_banners/911935330839916545/1618431752,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,1.6306136683952046e+18,1630613668395204633,Tue Feb 28 16:59:28 +0000 2023,1.6306136683952046e+18,1630613668395204633,"Favourite team from each country 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 : Chelsea
+🇪🇸 : Real Madrid
+🇮🇹 : Palermo 
+🇫🇷 : RC Lens
+🇩🇪 : Borussia Dortmund
+🇳🇱 : Vitesse
+🇵🇹 : Benfica (don't really care but I'll say Benfica because of @Nusidonio)
+
+@Nusidonio @cas_026 @rv026_",False,"[0, 236]",en,recent,"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>",,,,,,3093045237.0,3093045237,TJ,Timonedy,,Small Twitch streamer | 24 | Professional Idiot | Vitesse Fan 💛🖤,https://t.co/TtQbptDQj3,"[{'url': 'https://t.co/TtQbptDQj3', 'expanded_url': 'http://twitch.tv/demilios_tj', 'display_url': 'twitch.tv/demilios_tj', 'indices': [0, 23]}]",[],False,25.0,72.0,0.0,Tue Mar 17 18:49:00 +0000 2015,2564.0,,,False,False,386.0,,False,False,False,C0DEED,http://abs.twimg.com/images/themes/theme1/bg.png,https://abs.twimg.com/images/themes/theme1/bg.png,False,http://pbs.twimg.com/profile_images/1558604212510097411/joH2GKUz_normal.jpg,https://pbs.twimg.com/profile_images/1558604212510097411/joH2GKUz_normal.jpg,https://pbs.twimg.com/profile_banners/3093045237/1645743605,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,False,0.0,8.0,False,False,en
+Sun Feb 26 15:58:58 +0000 2023,1629873668661686272,1629873668661686272,"FC Nantes - Stade Rennais
+📺 Watch all the videos of this match here:
+https://t.co/N52g1jC680
+#SofaScore #FCN #REN",False,"[0, 113]","<a href=""https://goals.zone"" rel=""nofollow"">goals__zone</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1576286998066765827,1576286998066765827,goals.zone,goals__zone,,,,[],False,3059,17,17,Sat Oct 01 19:04:46 +0000 2022,0,,,False,False,13631,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1576287458349793282/ivy9wcCI_normal.jpg,https://pbs.twimg.com/profile_images/1576287458349793282/ivy9wcCI_normal.jpg,https://pbs.twimg.com/profile_banners/1576286998066765827/1664652398,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:45:10 +0000 2023,1629870192418496512,1629870192418496512,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-TV]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/pZhhfuMkeC",False,"[0, 219]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:45:07 +0000 2023,1629870181337149440,1629870181337149440,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-TV]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/MRXteB96na",False,"[0, 219]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:45:05 +0000 2023,1629870171270807553,1629870171270807553,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-TV]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/umbHwsWFEL",False,"[0, 219]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:45:02 +0000 2023,1629870161766531079,1629870161766531079,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-TV]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/P6CO2hlvqS",False,"[0, 219]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:43:15 +0000 2023,1629869710870466561,1629869710870466561,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-TV]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/lrE32BXo6N",False,"[0, 219]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:43:13 +0000 2023,1629869702813188096,1629869702813188096,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-TV]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/brOdKURsD1",False,"[0, 219]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:43:10 +0000 2023,1629869691824128000,1629869691824128000,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-TV]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/d0an8E7QZT",False,"[0, 219]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:43:08 +0000 2023,1629869683561365504,1629869683561365504,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-TV]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/MwAo1OB3p1",False,"[0, 219]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:42:21 +0000 2023,1629869485095260166,1629869485095260166,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-LIVE]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/tNdjuCMN3F",False,"[0, 221]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:42:19 +0000 2023,1629869476593434625,1629869476593434625,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-LIVE]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/uvW8lluwUt",False,"[0, 221]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:42:16 +0000 2023,1629869465545633792,1629869465545633792,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-LIVE]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/nZ5weKA2Nl",False,"[0, 221]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:42:14 +0000 2023,1629869457807134722,1629869457807134722,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-LIVE]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/5ZAgbC3LWC",False,"[0, 221]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:41:14 +0000 2023,1629869203514851329,1629869203514851329,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-LIVE]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/jScFVhqu6J",False,"[0, 221]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:41:12 +0000 2023,1629869194325164033,1629869194325164033,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-LIVE]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/v05BGLdWhK",False,"[0, 221]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:41:10 +0000 2023,1629869186473418753,1629869186473418753,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-LIVE]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/mDG3sB1dTd",False,"[0, 221]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:41:08 +0000 2023,1629869177736679426,1629869177736679426,"#Ligue1 #FCNSRFC 
+
+[[DIRETC-LIVE]] Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/aqt8QRnSTL",False,"[0, 221]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:40:14 +0000 2023,1629868951621734400,1629868951621734400,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/1uuKUUJfn3",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:40:12 +0000 2023,1629868943635795969,1629868943635795969,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/bQt0ppKqF7",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:40:10 +0000 2023,1629868934106337281,1629868934106337281,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/6K8tZygCLn",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:40:08 +0000 2023,1629868925826793473,1629868925826793473,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/bGkGkIkpGE",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:34:02 +0000 2023,1629867393806893056,1629867393806893056,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Résultats en Direct et Streaming
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+Enjoy Streaming https://t.co/HtP13tHWGc",False,"[0, 273]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1597107633915187201,1597107633915187201,Sport TV HD,SportTVHD8,,,,[],False,2,5,0,Mon Nov 28 05:59:07 +0000 2022,0,,,False,False,1108,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_banners/1597107633915187201/1676306341,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:33:55 +0000 2023,1629867364224491523,1629867364224491523,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Résultats en Direct et Streaming
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+Enjoy Streaming https://t.co/9pVGtAjLXH",False,"[0, 273]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615006395749007361,1615006395749007361,NBC Tv Networks,nbc_networks,,,,[],False,3,9,0,Mon Jan 16 15:21:51 +0000 2023,0,,,False,False,701,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_banners/1615006395749007361/1674234171,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:33:50 +0000 2023,1629867340639903744,1629867340639903744,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Résultats en Direct et Streaming
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+Enjoy Streaming https://t.co/jPTVs7kLEz",False,"[0, 273]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615004520911900672,1615004520911900672,CBS Tv Networks,CBSTvNetworks1,,,,[],False,1,7,0,Mon Jan 16 15:14:25 +0000 2023,0,,,False,False,699,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_banners/1615004520911900672/1674232858,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:33:42 +0000 2023,1629867308767416322,1629867308767416322,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Résultats en Direct et Streaming
+
+🔗Live Link=&gt;https://t.co/RBagz2CB8A
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/RBagz2CB8A
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/RBagz2CB8A
+
+Enjoy Streaming https://t.co/PfgJBkjdd8",False,"[0, 273]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1613559284067086339,1613559284067086339,Football streaming HD,FotbalStreaming,US,,,[],False,3,9,0,Thu Jan 12 15:31:40 +0000 2023,0,,,False,False,616,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_banners/1613559284067086339/1673879215,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:33:35 +0000 2023,1629867277469491205,1629867277469491205,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Résultats en Direct et Streaming
+
+🔗Live Link=&gt;https://t.co/sXry6NdXlh
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/sXry6NdXlh
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/sXry6NdXlh
+
+Enjoy Streaming https://t.co/0OkLoeR64a",False,"[0, 273]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1614629987340161026,1614629987340161026,Fox Tv,FoxTv29881848,,,,[],False,2,8,0,Sun Jan 15 14:26:16 +0000 2023,0,,,False,False,731,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_banners/1614629987340161026/1673880009,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:33:06 +0000 2023,1629867156262490113,1629867156262490113,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/sCBPR7mFLP",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:33:04 +0000 2023,1629867147160879104,1629867147160879104,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/FRWBlXIQQY",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:33:01 +0000 2023,1629867136696082433,1629867136696082433,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/bVCE6gisRo",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:32:59 +0000 2023,1629867128416522240,1629867128416522240,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/oWgg71fn58",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:32:16 +0000 2023,1629866948245979136,1629866948245979136,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/CLzm9gLF9r",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:32:14 +0000 2023,1629866939748335616,1629866939748335616,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/Qn8FegqfVa",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:32:12 +0000 2023,1629866930919346176,1629866930919346176,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/n2Z333g8zZ",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:32:11 +0000 2023,1629866928184655872,1629866928184655872,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+Enjoy Streaming https://t.co/7qBNzaPdBr",False,"[0, 266]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1597107633915187201,1597107633915187201,Sport TV HD,SportTVHD8,,,,[],False,2,5,0,Mon Nov 28 05:59:07 +0000 2022,0,,,False,False,1108,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_banners/1597107633915187201/1676306341,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:32:10 +0000 2023,1629866921121435648,1629866921121435648,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/Kl9g2z9IXH",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:32:05 +0000 2023,1629866899734659072,1629866899734659072,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+Enjoy Streaming https://t.co/Vq3nAfW8X7",False,"[0, 266]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615006395749007361,1615006395749007361,NBC Tv Networks,nbc_networks,,,,[],False,3,9,0,Mon Jan 16 15:21:51 +0000 2023,0,,,False,False,701,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_banners/1615006395749007361/1674234171,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:31:57 +0000 2023,1629866870185811969,1629866870185811969,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+Enjoy Streaming https://t.co/429bIFHPlS",False,"[0, 266]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615004520911900672,1615004520911900672,CBS Tv Networks,CBSTvNetworks1,,,,[],False,1,7,0,Mon Jan 16 15:14:25 +0000 2023,0,,,False,False,699,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_banners/1615004520911900672/1674232858,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:31:51 +0000 2023,1629866844294201347,1629866844294201347,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/RBagz2C3j2
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/RBagz2C3j2
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/RBagz2C3j2
+
+Enjoy Streaming https://t.co/WsjeGt5CiF",False,"[0, 266]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1613559284067086339,1613559284067086339,Football streaming HD,FotbalStreaming,US,,,[],False,3,9,0,Thu Jan 12 15:31:40 +0000 2023,0,,,False,False,616,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_banners/1613559284067086339/1673879215,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:31:45 +0000 2023,1629866815911231489,1629866815911231489,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct Streaming
+
+🔗Live Link=&gt;https://t.co/sXry6NdpvJ
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/sXry6NdpvJ
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/sXry6NdpvJ
+
+Enjoy Streaming https://t.co/UQZk6m5ocd",False,"[0, 266]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1614629987340161026,1614629987340161026,Fox Tv,FoxTv29881848,,,,[],False,2,8,0,Sun Jan 15 14:26:16 +0000 2023,0,,,False,False,731,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_banners/1614629987340161026/1673880009,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:31:09 +0000 2023,1629866667433156608,1629866667433156608,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/rnsZ3URhIw",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:31:07 +0000 2023,1629866660126679046,1629866660126679046,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/guLAApKvMS",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:31:05 +0000 2023,1629866649833836544,1629866649833836544,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/GGI9eovC7i",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:31:02 +0000 2023,1629866639385841664,1629866639385841664,"#Ligue1 #FCNSRFC 
+
+[[match-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/QNdJQ000bI",False,"[0, 212]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:30:25 +0000 2023,1629866481277349890,1629866481277349890,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+Enjoy Streaming https://t.co/vp8VZiYkDP",False,"[0, 261]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1597107633915187201,1597107633915187201,Sport TV HD,SportTVHD8,,,,[],False,2,5,0,Mon Nov 28 05:59:07 +0000 2022,0,,,False,False,1108,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_banners/1597107633915187201/1676306341,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:30:18 +0000 2023,1629866454563852288,1629866454563852288,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+Enjoy Streaming https://t.co/elWiUl3DQw",False,"[0, 261]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615006395749007361,1615006395749007361,NBC Tv Networks,nbc_networks,,,,[],False,3,9,0,Mon Jan 16 15:21:51 +0000 2023,0,,,False,False,701,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_banners/1615006395749007361/1674234171,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:30:12 +0000 2023,1629866428525596679,1629866428525596679,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+Enjoy Streaming https://t.co/2y9x1Wv1RW",False,"[0, 261]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615004520911900672,1615004520911900672,CBS Tv Networks,CBSTvNetworks1,,,,[],False,1,7,0,Mon Jan 16 15:14:25 +0000 2023,0,,,False,False,699,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_banners/1615004520911900672/1674232858,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:30:07 +0000 2023,1629866407751208960,1629866407751208960,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/RBagz2CB8A
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/RBagz2CB8A
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/RBagz2CB8A
+
+Enjoy Streaming https://t.co/wZTuJWjeoq",False,"[0, 261]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1613559284067086339,1613559284067086339,Football streaming HD,FotbalStreaming,US,,,[],False,3,9,0,Thu Jan 12 15:31:40 +0000 2023,0,,,False,False,616,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_banners/1613559284067086339/1673879215,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:30:06 +0000 2023,1629866401925300224,1629866401925300224,"#Ligue1 #FCNSRFC 
+
+[[STREAMING-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/VazGCxCpjn",False,"[0, 216]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:30:03 +0000 2023,1629866389791207426,1629866389791207426,"#Ligue1 #FCNSRFC 
+
+[[STREAMING-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/UvOnn9v92p",False,"[0, 216]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:30:02 +0000 2023,1629866387924742145,1629866387924742145,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct Live
+
+🔗Live Link=&gt;https://t.co/sXry6NdXlh
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/sXry6NdXlh
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/sXry6NdXlh
+
+Enjoy Streaming https://t.co/qmO33WYRRo",False,"[0, 261]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1614629987340161026,1614629987340161026,Fox Tv,FoxTv29881848,,,,[],False,2,8,0,Sun Jan 15 14:26:16 +0000 2023,0,,,False,False,731,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_banners/1614629987340161026/1673880009,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:30:01 +0000 2023,1629866381108977665,1629866381108977665,"#Ligue1 #FCNSRFC 
+
+[[STREAMING-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/nkNvgGHfNs",False,"[0, 216]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:29:58 +0000 2023,1629866369708888064,1629866369708888064,"#Ligue1 #FCNSRFC 
+
+[[STREAMING-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/42BZTGJQGa",False,"[0, 216]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:29:36 +0000 2023,1629866277576806401,1629866277576806401,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/8OeJyleS8I
+
+Enjoy Streaming https://t.co/OKMhhBCO6J",False,"[0, 256]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1597107633915187201,1597107633915187201,Sport TV HD,SportTVHD8,,,,[],False,2,5,0,Mon Nov 28 05:59:07 +0000 2022,0,,,False,False,1108,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_images/1625172790293962752/AXGRDVAP_normal.png,https://pbs.twimg.com/profile_banners/1597107633915187201/1676306341,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:29:28 +0000 2023,1629866245150609408,1629866245150609408,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/4VRbqH7qQL
+
+Enjoy Streaming https://t.co/UKWOs973Yf",False,"[0, 256]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615006395749007361,1615006395749007361,NBC Tv Networks,nbc_networks,,,,[],False,3,9,0,Mon Jan 16 15:21:51 +0000 2023,0,,,False,False,701,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_images/1616481393328156672/fOAVwz3i_normal.jpg,https://pbs.twimg.com/profile_banners/1615006395749007361/1674234171,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:29:21 +0000 2023,1629866213152292866,1629866213152292866,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/DbUepw2I2M
+
+Enjoy Streaming https://t.co/MAFqxqHqRA",False,"[0, 256]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1615004520911900672,1615004520911900672,CBS Tv Networks,CBSTvNetworks1,,,,[],False,1,7,0,Mon Jan 16 15:14:25 +0000 2023,0,,,False,False,699,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_images/1616475885288427520/ROgFluLE_normal.jpg,https://pbs.twimg.com/profile_banners/1615004520911900672/1674232858,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:29:16 +0000 2023,1629866193355177985,1629866193355177985,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct
+
+🔗Live Link=&gt;https://t.co/RBagz2CB8A
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/RBagz2CB8A
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/RBagz2CB8A
+
+Enjoy Streaming https://t.co/X1D2L7RPAy",False,"[0, 256]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1613559284067086339,1613559284067086339,Football streaming HD,FotbalStreaming,US,,,[],False,3,9,0,Thu Jan 12 15:31:40 +0000 2023,0,,,False,False,616,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_images/1614992598678269952/jcGQOBQD_normal.jpg,https://pbs.twimg.com/profile_banners/1613559284067086339/1673879215,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:29:11 +0000 2023,1629866170034814977,1629866170034814977,"#Ligue1 #FCNSRFC 
+
+[[STREAMING-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/q6US9cv36c",False,"[0, 216]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:29:08 +0000 2023,1629866160656379905,1629866160656379905,"EN DIRECT HD STREAMS #FCNSRFC #SDRTFC
+
+Nantes - Rennes Match En Direct
+
+🔗Live Link=&gt;https://t.co/sXry6NdXlh
+
+FC Nantes Stade Rennes
+
+🔗Live Link=&gt;https://t.co/sXry6NdXlh
+
+FC Nantes Stade Rennais
+
+🔗Live Link=&gt;https://t.co/sXry6NdXlh
+
+Enjoy Streaming https://t.co/l6UdxiceuH",False,"[0, 256]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1614629987340161026,1614629987340161026,Fox Tv,FoxTv29881848,,,,[],False,2,8,0,Sun Jan 15 14:26:16 +0000 2023,0,,,False,False,731,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_images/1614995929807065088/3txXhGFU_normal.jpg,https://pbs.twimg.com/profile_banners/1614629987340161026/1673880009,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:29:08 +0000 2023,1629866160010461184,1629866160010461184,"#Ligue1 #FCNSRFC 
+
+[[STREAMING-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/OBLD3c6LUu",False,"[0, 216]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:29:06 +0000 2023,1629866150346752006,1629866150346752006,"#Ligue1 #FCNSRFC 
+
+[[STREAMING-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/VvK2silW8x",False,"[0, 216]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:29:04 +0000 2023,1629866140657946631,1629866140657946631,"#Ligue1 #FCNSRFC 
+
+[[STREAMING-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/NNRQcbTk08",False,"[0, 216]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:28:41 +0000 2023,1629866047322079232,1629866047322079232,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-STREAMING]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/0n6asOlB9Z",False,"[0, 220]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:28:39 +0000 2023,1629866037327052802,1629866037327052802,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-STREAMING]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/FBx6Ips5b5",False,"[0, 220]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:28:37 +0000 2023,1629866027457839104,1629866027457839104,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-STREAMING]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/A3CIGAZ0ph",False,"[0, 220]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:28:34 +0000 2023,1629866017949372417,1629866017949372417,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-STREAMING]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/qfeZ0BMcFz",False,"[0, 220]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:27:36 +0000 2023,1629865774000250880,1629865774000250880,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-STREAMING]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/hebYZGgSdK",False,"[0, 220]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:27:34 +0000 2023,1629865763254472704,1629865763254472704,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-STREAMING]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/KYdI8iOKkn",False,"[0, 220]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:27:31 +0000 2023,1629865754303827969,1629865754303827969,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-STREAMING]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/Ql7bMIhdcS",False,"[0, 220]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:27:29 +0000 2023,1629865743616729089,1629865743616729089,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-STREAMING]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/NmqEpffckV",False,"[0, 220]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:26:31 +0000 2023,1629865502335180801,1629865502335180801,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/Ec37BUu4TU",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:26:29 +0000 2023,1629865492939956225,1629865492939956225,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/ijAcjRaO7q",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:26:27 +0000 2023,1629865485293727744,1629865485293727744,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/NtakQpS1Tw",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:26:25 +0000 2023,1629865476825427974,1629865476825427974,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/YD2xHEKK0m",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:26:10 +0000 2023,1629865414351265794,1629865414351265794,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/a540IJRp7d",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:26:08 +0000 2023,1629865403232169987,1629865403232169987,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/hFtJwdha2e",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:26:06 +0000 2023,1629865394524639233,1629865394524639233,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/8edU65hUVC
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65hUVC
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65hUVC
+
+Enjoy Streaming https://t.co/UTPJ5keSaS",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:26:03 +0000 2023,1629865384345214979,1629865384345214979,"#Ligue1 #FCNSRFC 
+
+[[DIRECT-TV]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/INI8Zh1DKa",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:25:01 +0000 2023,1629865124411609088,1629865124411609088,"#Ligue1 #FCNSRFC 
+
+[[EN DIRECT]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/ZoTGQVpRCu",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:24:59 +0000 2023,1629865114198491136,1629865114198491136,"#Ligue1 #FCNSRFC 
+
+[[EN DIRECT]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/vQ9rNBIuKd",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:24:57 +0000 2023,1629865105482727429,1629865105482727429,"#Ligue1 #FCNSRFC 
+
+[[EN DIRECT]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/bq4eIiH7Zq",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:24:54 +0000 2023,1629865095047282688,1629865095047282688,"#Ligue1 #FCNSRFC 
+
+[[EN DIRECT]] Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/Fa8nXbxOJ0",False,"[0, 213]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:24:02 +0000 2023,1629864876893143040,1629864876893143040,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/uxRSHbA0wV",False,"[0, 199]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:24:00 +0000 2023,1629864865778262019,1629864865778262019,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/l6zzZFWLwL",False,"[0, 199]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:23:57 +0000 2023,1629864855598686212,1629864855598686212,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/R7ETVd2dN1",False,"[0, 199]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:23:55 +0000 2023,1629864845733658625,1629864845733658625,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/LApvhNU7jw",False,"[0, 199]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:17:12 +0000 2023,1629863156372713480,1629863156372713480,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/hJs3nxo1wp
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxo1wp
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxo1wp
+
+Enjoy Streaming https://t.co/qcHxYuMmtj",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:17:10 +0000 2023,1629863147007004679,1629863147007004679,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/OlLrOss1LO",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:17:08 +0000 2023,1629863137385283585,1629863137385283585,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/PtwP0L2PyF",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:17:05 +0000 2023,1629863128812093441,1629863128812093441,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/KuLFmwOSU9",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:16:06 +0000 2023,1629862880316387328,1629862880316387328,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/AVK1ZOf4Zw",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:16:03 +0000 2023,1629862866550657025,1629862866550657025,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/VMO3O6qX3J",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:16:01 +0000 2023,1629862857675526147,1629862857675526147,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/8edU65isLa
+
+FC Nantes - Rennes 
+
+👉 https://t.co/8edU65isLa
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/8edU65isLa
+
+Enjoy Streaming https://t.co/bsU3Hmrvk5",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562730588376743936,1562730588376743936,Canelo Alvarez vs. Gennadiy Golovkin,cricket51627004,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,7,62,0,Thu Aug 25 09:17:15 +0000 2022,20,,,False,False,640,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_images/1563162429642907660/nwQ9-9uM_normal.jpg,https://pbs.twimg.com/profile_banners/1562730588376743936/1661521991,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:15:58 +0000 2023,1629862844660609024,1629862844660609024,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/C4FXcT3Fl6
+
+FC Nantes - Rennes 
+
+👉 https://t.co/C4FXcT3Fl6
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/C4FXcT3Fl6
+
+Enjoy Streaming https://t.co/u4judSztBX",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1556898192486084608,1556898192486084608,World Cup Watching,CupWatching,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,10,55,0,Tue Aug 09 07:00:42 +0000 2022,17,,,False,False,1535,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,https://pbs.twimg.com/profile_images/1557051502841040897/OoqBfsny_normal.jpg,,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:14:47 +0000 2023,1629862547989094402,1629862547989094402,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/hJs3nxozlX
+
+FC Nantes - Rennes 
+
+👉 https://t.co/hJs3nxozlX
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/hJs3nxozlX
+
+Enjoy Streaming https://t.co/PjKzLdCNGG",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562747619469713409,1562747619469713409,premier league 2k22,22Premier,United States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,8,60,0,Thu Aug 25 10:24:09 +0000 2022,17,,,False,False,1481,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_images/1565333714808487939/eJr6qmIS_normal.jpg,https://pbs.twimg.com/profile_banners/1562747619469713409/1662039621,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sun Feb 26 15:14:45 +0000 2023,1629862539109732354,1629862539109732354,"#Ligue1 #FCNSRFC 
+
+Nantes - Rennes Match En Direct Streaming
+
+👉 https://t.co/DgLJFPEWov
+
+FC Nantes - Rennes 
+
+👉 https://t.co/DgLJFPEWov
+
+Nantes - Stade Rennais  
+
+👉 https://t.co/DgLJFPEWov
+
+Enjoy Streaming https://t.co/dAIkAm7gUU",False,"[0, 205]","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>",,,,,,,,,,False,0,0,False,False,False,en,en,recent,1562744367034470402,1562744367034470402,Watch Ligue 1 online,forex97074913,Unted States,"Sports: Football,F1, Boxing,UFC, NFL, NBA, plus the latest sports news, transfers & scores See and live broadcast tv.",,[],False,6,50,0,Thu Aug 25 10:11:14 +0000 2022,18,,,False,False,820,,False,False,False,F5F8FA,,,False,http://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_images/1565328067064905729/ZfCnJfpc_normal.png,https://pbs.twimg.com/profile_banners/1562744367034470402/1662038280,1DA1F2,C0DEED,DDEEF6,333333,True,True,True,False,False,False,False,none,[],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

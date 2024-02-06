@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "id": "1ea588c12abd39d7",
+            "url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json",
+            "place_type": "city",
+            "name": "Milan",
+            "full_name": "Milan, Lombardy",
+            "country_code": "IT",
+            "country": "Italy",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.040628,
+                            45.3867262
+                        ],
+                        [
+                            9.2780451,
+                            45.3867262
+                        ],
+                        [
+                            9.2780451,
+                            45.5359644
+                        ],
+                        [
+                            9.040628,
+                            45.5359644
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632392074216480770
+        },
+        {
+            "id": "7dde0febc9ef245b",
+            "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+            "place_type": "city",
+            "name": "Dublin City",
+            "full_name": "Dublin City, Ireland",
+            "country_code": "IE",
+            "country": "Ireland",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.387438,
+                            53.2987449
+                        ],
+                        [
+                            -6.1078047,
+                            53.2987449
+                        ],
+                        [
+                            -6.1078047,
+                            53.4110598
+                        ],
+                        [
+                            -6.387438,
+                            53.4110598
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632358104145821702
+        },
+        {
+            "id": "266278c7decc8fa1",
+            "url": "https://api.twitter.com/1.1/geo/id/266278c7decc8fa1.json",
+            "place_type": "city",
+            "name": "Manises",
+            "full_name": "Manises, Spain",
+            "country_code": "ES",
+            "country": "Spain",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.529213,
+                            39.4827284
+                        ],
+                        [
+                            -0.4467039,
+                            39.4827284
+                        ],
+                        [
+                            -0.4467039,
+                            39.5249124
+                        ],
+                        [
+                            -0.529213,
+                            39.5249124
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632339859313504256
+        },
+        {
+            "id": "521b6f591c4b3ce8",
+            "url": "https://api.twitter.com/1.1/geo/id/521b6f591c4b3ce8.json",
+            "place_type": "city",
+            "name": "Florence",
+            "full_name": "Florence, Tuscany",
+            "country_code": "IT",
+            "country": "Italy",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            11.1496504,
+                            43.7259588
+                        ],
+                        [
+                            11.339984,
+                            43.7259588
+                        ],
+                        [
+                            11.339984,
+                            43.8354579
+                        ],
+                        [
+                            11.1496504,
+                            43.8354579
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632095277963264000
+        }
+    ]
+}

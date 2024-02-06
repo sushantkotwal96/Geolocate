@@ -1,0 +1,1005 @@
+{
+    "data": [
+        {
+            "id": "011add077f4d2da3",
+            "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+            "place_type": "city",
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.041878,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.739434
+                        ],
+                        [
+                            -74.041878,
+                            40.739434
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "4f5e9c38e0de7f69",
+            "url": "https://api.twitter.com/1.1/geo/id/4f5e9c38e0de7f69.json",
+            "place_type": "city",
+            "name": "Wednesfield",
+            "full_name": "Wednesfield, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.164786,
+                            52.546974
+                        ],
+                        [
+                            -2.048029,
+                            52.546974
+                        ],
+                        [
+                            -2.048029,
+                            52.637542
+                        ],
+                        [
+                            -2.164786,
+                            52.637542
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "011add077f4d2da3",
+            "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+            "place_type": "city",
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.041878,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.739434
+                        ],
+                        [
+                            -74.041878,
+                            40.739434
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "4f5e9c38e0de7f69",
+            "url": "https://api.twitter.com/1.1/geo/id/4f5e9c38e0de7f69.json",
+            "place_type": "city",
+            "name": "Wednesfield",
+            "full_name": "Wednesfield, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.164786,
+                            52.546974
+                        ],
+                        [
+                            -2.048029,
+                            52.546974
+                        ],
+                        [
+                            -2.048029,
+                            52.637542
+                        ],
+                        [
+                            -2.164786,
+                            52.637542
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "011add077f4d2da3",
+            "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+            "place_type": "city",
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.041878,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.739434
+                        ],
+                        [
+                            -74.041878,
+                            40.739434
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "011add077f4d2da3",
+            "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+            "place_type": "city",
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.041878,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.739434
+                        ],
+                        [
+                            -74.041878,
+                            40.739434
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "011add077f4d2da3",
+            "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+            "place_type": "city",
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.041878,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.739434
+                        ],
+                        [
+                            -74.041878,
+                            40.739434
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632766890899566593
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632748430559948800
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632642234511237124
+        },
+        {
+            "id": "011add077f4d2da3",
+            "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+            "place_type": "city",
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.041878,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.739434
+                        ],
+                        [
+                            -74.041878,
+                            40.739434
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632766890899566593
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632748430559948800
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632642234511237124
+        },
+        {
+            "id": "011add077f4d2da3",
+            "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+            "place_type": "city",
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.041878,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.739434
+                        ],
+                        [
+                            -74.041878,
+                            40.739434
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632766890899566593
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632748430559948800
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632642234511237124
+        },
+        {
+            "id": "011add077f4d2da3",
+            "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+            "place_type": "city",
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.041878,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.570842
+                        ],
+                        [
+                            -73.855673,
+                            40.739434
+                        ],
+                        [
+                            -74.041878,
+                            40.739434
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632766890899566593
+        },
+        {
+            "id": "315b740b108481f6",
+            "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+            "place_type": "city",
+            "name": "Manchester",
+            "full_name": "Manchester, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.319934,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.343623
+                        ],
+                        [
+                            -2.147026,
+                            53.5702824
+                        ],
+                        [
+                            -2.319934,
+                            53.5702824
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632748430559948800
+        },
+        {
+            "id": "06168d1feda43857",
+            "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+            "place_type": "admin",
+            "name": "South East",
+            "full_name": "South East, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.95729593780907,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            50.5746064789388
+                        ],
+                        [
+                            1.45178800018019,
+                            52.1962850088601
+                        ],
+                        [
+                            -1.95729593780907,
+                            52.1962850088601
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632642234511237124
+        },
+        {
+            "id": "07d9f5c07fc83000",
+            "url": "https://api.twitter.com/1.1/geo/id/07d9f5c07fc83000.json",
+            "place_type": "poi",
+            "name": "St James' Park",
+            "full_name": "St James' Park",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.6216850280761719,
+                            54.97545857854798
+                        ],
+                        [
+                            -1.6216850280761719,
+                            54.97545857854798
+                        ],
+                        [
+                            -1.6216850280761719,
+                            54.97545857854798
+                        ],
+                        [
+                            -1.6216850280761719,
+                            54.97545857854798
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634985615665295361
+        },
+        {
+            "id": "7de31e05e99a00f8",
+            "url": "https://api.twitter.com/1.1/geo/id/7de31e05e99a00f8.json",
+            "place_type": "city",
+            "name": "Bournemouth",
+            "full_name": "Bournemouth, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.93759,
+                            50.7095004
+                        ],
+                        [
+                            -1.7676241,
+                            50.7095004
+                        ],
+                        [
+                            -1.7676241,
+                            50.775036
+                        ],
+                        [
+                            -1.93759,
+                            50.775036
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644402412495548422
+        },
+        {
+            "id": "570002ce3d2a7ac1",
+            "url": "https://api.twitter.com/1.1/geo/id/570002ce3d2a7ac1.json",
+            "place_type": "city",
+            "name": "Addison",
+            "full_name": "Addison, TX",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.856247,
+                            32.932133
+                        ],
+                        [
+                            -96.807772,
+                            32.932133
+                        ],
+                        [
+                            -96.807772,
+                            32.987442
+                        ],
+                        [
+                            -96.856247,
+                            32.987442
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644016228216758279
+        }
+    ]
+}

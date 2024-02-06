@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "adc95f2911133646",
+            "url": "https://api.twitter.com/1.1/geo/id/adc95f2911133646.json",
+            "place_type": "city",
+            "name": "Colorado Springs",
+            "full_name": "Colorado Springs, CO",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -104.910562,
+                            38.741142
+                        ],
+                        [
+                            -104.668092,
+                            38.741142
+                        ],
+                        [
+                            -104.668092,
+                            39.035895
+                        ],
+                        [
+                            -104.910562,
+                            39.035895
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633294329891651585
+        },
+        {
+            "id": "b3b29b9ebf1e0e32",
+            "url": "https://api.twitter.com/1.1/geo/id/b3b29b9ebf1e0e32.json",
+            "place_type": "city",
+            "name": "Boden",
+            "full_name": "Boden, Sverige",
+            "country_code": "SE",
+            "country": "Sweden",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            20.3619662,
+                            65.6631379
+                        ],
+                        [
+                            22.1464519,
+                            65.6631379
+                        ],
+                        [
+                            22.1464519,
+                            66.4324084
+                        ],
+                        [
+                            20.3619662,
+                            66.4324084
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633215423347929088
+        }
+    ]
+}

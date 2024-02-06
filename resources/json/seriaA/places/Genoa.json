@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "id": "2b9a411906e75d9a",
+            "url": "https://api.twitter.com/1.1/geo/id/2b9a411906e75d9a.json",
+            "place_type": "city",
+            "name": "Palladam",
+            "full_name": "Palladam, India",
+            "country_code": "IN",
+            "country": "India",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            77.037403,
+                            10.774498
+                        ],
+                        [
+                            77.503067,
+                            10.774498
+                        ],
+                        [
+                            77.503067,
+                            11.315924
+                        ],
+                        [
+                            77.037403,
+                            11.315924
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633301775548829697
+        },
+        {
+            "id": "ac9b9070f6d17a9a",
+            "url": "https://api.twitter.com/1.1/geo/id/ac9b9070f6d17a9a.json",
+            "place_type": "admin",
+            "name": "Nebraska",
+            "full_name": "Nebraska, USA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -104.053515,
+                            39.9997506
+                        ],
+                        [
+                            -95.30829,
+                            39.9997506
+                        ],
+                        [
+                            -95.30829,
+                            43.001708
+                        ],
+                        [
+                            -104.053515,
+                            43.001708
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633167031120941059
+        },
+        {
+            "id": "9df3d1b39e7c078d",
+            "url": "https://api.twitter.com/1.1/geo/id/9df3d1b39e7c078d.json",
+            "place_type": "city",
+            "name": "Genoa",
+            "full_name": "Genoa, Liguria",
+            "country_code": "IT",
+            "country": "Italy",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.6658519,
+                            44.3790834
+                        ],
+                        [
+                            9.0958379,
+                            44.3790834
+                        ],
+                        [
+                            9.0958379,
+                            44.5199153
+                        ],
+                        [
+                            8.6658519,
+                            44.5199153
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633163387017261060
+        }
+    ]
+}

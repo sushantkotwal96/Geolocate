@@ -1,0 +1,733 @@
+{
+    "data": [
+        {
+            "id": "0985d468de1ea099",
+            "url": "https://api.twitter.com/1.1/geo/id/0985d468de1ea099.json",
+            "place_type": "city",
+            "name": "Whiteabbey",
+            "full_name": "Whiteabbey, Northern Ireland",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.9393623,
+                            54.6487192
+                        ],
+                        [
+                            -5.8934381,
+                            54.6487192
+                        ],
+                        [
+                            -5.8934381,
+                            54.6873416
+                        ],
+                        [
+                            -5.9393623,
+                            54.6873416
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "227ab02aca7f4b08",
+            "url": "https://api.twitter.com/1.1/geo/id/227ab02aca7f4b08.json",
+            "place_type": "admin",
+            "name": "Bavaria",
+            "full_name": "Bavaria, Germany",
+            "country_code": "DE",
+            "country": "Germany",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.976041,
+                            47.270127
+                        ],
+                        [
+                            13.839928,
+                            47.270127
+                        ],
+                        [
+                            13.839928,
+                            50.564736
+                        ],
+                        [
+                            8.976041,
+                            50.564736
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "208d28e57bdc12e9",
+            "url": "https://api.twitter.com/1.1/geo/id/208d28e57bdc12e9.json",
+            "place_type": "admin",
+            "name": "Wales",
+            "full_name": "Wales, United Kingdom",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -5.35340678071236,
+                            51.3787780012005
+                        ],
+                        [
+                            -2.64982707940341,
+                            51.3787780012005
+                        ],
+                        [
+                            -2.64982707940341,
+                            53.4300939018827
+                        ],
+                        [
+                            -5.35340678071236,
+                            53.4300939018827
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "a592bd6ceb1319f7",
+            "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+            "place_type": "city",
+            "name": "San Diego",
+            "full_name": "San Diego, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -117.282538,
+                            32.53962
+                        ],
+                        [
+                            -116.9274403,
+                            32.53962
+                        ],
+                        [
+                            -116.9274403,
+                            33.0804044
+                        ],
+                        [
+                            -117.282538,
+                            33.0804044
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "72606cdcf2847dd4",
+            "url": "https://api.twitter.com/1.1/geo/id/72606cdcf2847dd4.json",
+            "place_type": "city",
+            "name": "Macclesfield",
+            "full_name": "Macclesfield, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.176513,
+                            53.2366549
+                        ],
+                        [
+                            -2.094475,
+                            53.2366549
+                        ],
+                        [
+                            -2.094475,
+                            53.298646
+                        ],
+                        [
+                            -2.176513,
+                            53.298646
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "151b9e91272233d1",
+            "url": "https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json",
+            "place_type": "city",
+            "name": "Liverpool",
+            "full_name": "Liverpool, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.008791,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.474867
+                        ],
+                        [
+                            -3.008791,
+                            53.474867
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        {
+            "id": "7b02fbddf4d9f2c6",
+            "url": "https://api.twitter.com/1.1/geo/id/7b02fbddf4d9f2c6.json",
+            "place_type": "city",
+            "name": "Kuala Lumpur City",
+            "full_name": "Kuala Lumpur City, Kuala Lumpur Federal Territory",
+            "country_code": "MY",
+            "country": "Malaysia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            101.6682318,
+                            3.1049064
+                        ],
+                        [
+                            101.7423782,
+                            3.1049064
+                        ],
+                        [
+                            101.7423782,
+                            3.1921549
+                        ],
+                        [
+                            101.6682318,
+                            3.1921549
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633293163917082624
+        },
+        {
+            "id": "151b9e91272233d1",
+            "url": "https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json",
+            "place_type": "city",
+            "name": "Liverpool",
+            "full_name": "Liverpool, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.008791,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.474867
+                        ],
+                        [
+                            -3.008791,
+                            53.474867
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633303800684453891
+        },
+        {
+            "id": "2db5ca40220b6b0f",
+            "url": "https://api.twitter.com/1.1/geo/id/2db5ca40220b6b0f.json",
+            "place_type": "city",
+            "name": "Hepscott",
+            "full_name": "Hepscott, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -1.657273,
+                            55.145167
+                        ],
+                        [
+                            -1.64464,
+                            55.145167
+                        ],
+                        [
+                            -1.64464,
+                            55.155442
+                        ],
+                        [
+                            -1.657273,
+                            55.155442
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634999410030690304
+        },
+        {
+            "id": "35780b08c563d8ab",
+            "url": "https://api.twitter.com/1.1/geo/id/35780b08c563d8ab.json",
+            "place_type": "city",
+            "name": "Thane",
+            "full_name": "Thane, India",
+            "country_code": "IN",
+            "country": "India",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            72.80161,
+                            19.16162
+                        ],
+                        [
+                            73.03441,
+                            19.16162
+                        ],
+                        [
+                            73.03441,
+                            19.593413
+                        ],
+                        [
+                            72.80161,
+                            19.593413
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634999318901063685
+        },
+        {
+            "id": "6a0d12f667049f3d",
+            "url": "https://api.twitter.com/1.1/geo/id/6a0d12f667049f3d.json",
+            "place_type": "city",
+            "name": "Huyton-with-Roby",
+            "full_name": "Huyton-with-Roby, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.8925416,
+                            53.396594
+                        ],
+                        [
+                            -2.8107705,
+                            53.396594
+                        ],
+                        [
+                            -2.8107705,
+                            53.43392
+                        ],
+                        [
+                            -2.8925416,
+                            53.43392
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634998672072282112
+        },
+        {
+            "id": "6f31c24707aca514",
+            "url": "https://api.twitter.com/1.1/geo/id/6f31c24707aca514.json",
+            "place_type": "city",
+            "name": "Holywell",
+            "full_name": "Holywell, Wales",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.2617982,
+                            53.260434
+                        ],
+                        [
+                            -3.2027662,
+                            53.260434
+                        ],
+                        [
+                            -3.2027662,
+                            53.283915
+                        ],
+                        [
+                            -3.2617982,
+                            53.283915
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1634998249294823425
+        },
+        {
+            "id": "2615344c84ed87ee",
+            "url": "https://api.twitter.com/1.1/geo/id/2615344c84ed87ee.json",
+            "place_type": "city",
+            "name": "Oshawa",
+            "full_name": "Oshawa, Ontario",
+            "country_code": "CA",
+            "country": "Canada",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.959206,
+                            43.614586
+                        ],
+                        [
+                            -78.68523,
+                            43.614586
+                        ],
+                        [
+                            -78.68523,
+                            44.047385
+                        ],
+                        [
+                            -78.959206,
+                            44.047385
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1635001825484222464
+        },
+        {
+            "id": "25d3e991f5637f5a",
+            "url": "https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json",
+            "place_type": "admin",
+            "name": "South West",
+            "full_name": "South West, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -6.36850399906372,
+                            49.8824720005481
+                        ],
+                        [
+                            -1.48573420014269,
+                            49.8824720005481
+                        ],
+                        [
+                            -1.48573420014269,
+                            52.1125420344225
+                        ],
+                        [
+                            -6.36850399906372,
+                            52.1125420344225
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1635001037156405248
+        },
+        {
+            "id": "ce1899c5b27d0caa",
+            "url": "https://api.twitter.com/1.1/geo/id/ce1899c5b27d0caa.json",
+            "place_type": "country",
+            "name": "Saint Kitts and Nevis",
+            "full_name": "Saint Kitts and Nevis",
+            "country_code": "KN",
+            "country": "Saint Kitts and Nevis",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -62.8642124,
+                            17.0940756
+                        ],
+                        [
+                            -62.5393538,
+                            17.0940756
+                        ],
+                        [
+                            -62.5393538,
+                            17.417825
+                        ],
+                        [
+                            -62.8642124,
+                            17.417825
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636942265393266689
+        },
+        {
+            "id": "01a9dbb9232f0fac",
+            "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+            "place_type": "admin",
+            "name": "Montevideo",
+            "full_name": "Montevideo, Uruguay",
+            "country_code": "UY",
+            "country": "Uruguay",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -56.430439,
+                            -34.937896
+                        ],
+                        [
+                            -56.029341,
+                            -34.937896
+                        ],
+                        [
+                            -56.029341,
+                            -34.701599
+                        ],
+                        [
+                            -56.430439,
+                            -34.701599
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636936743776579584
+        },
+        {
+            "id": "572b2bb5c161e847",
+            "url": "https://api.twitter.com/1.1/geo/id/572b2bb5c161e847.json",
+            "place_type": "city",
+            "name": "Willow Springs",
+            "full_name": "Willow Springs, IL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.914681,
+                            41.716477
+                        ],
+                        [
+                            -87.847475,
+                            41.716477
+                        ],
+                        [
+                            -87.847475,
+                            41.760666
+                        ],
+                        [
+                            -87.914681,
+                            41.760666
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1636933953553674240
+        },
+        {
+            "id": "211f0fef623be63b",
+            "url": "https://api.twitter.com/1.1/geo/id/211f0fef623be63b.json",
+            "place_type": "city",
+            "name": "Moodiesburn",
+            "full_name": "Moodiesburn, Scotland",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -4.0949298,
+                            55.906039
+                        ],
+                        [
+                            -4.0748526,
+                            55.906039
+                        ],
+                        [
+                            -4.0748526,
+                            55.9222924
+                        ],
+                        [
+                            -4.0949298,
+                            55.9222924
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643686304641867776
+        },
+        {
+            "id": "151b9e91272233d1",
+            "url": "https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json",
+            "place_type": "city",
+            "name": "Liverpool",
+            "full_name": "Liverpool, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.008791,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.474867
+                        ],
+                        [
+                            -3.008791,
+                            53.474867
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643685671066902550
+        },
+        {
+            "id": "151b9e91272233d1",
+            "url": "https://api.twitter.com/1.1/geo/id/151b9e91272233d1.json",
+            "place_type": "city",
+            "name": "Liverpool",
+            "full_name": "Liverpool, England",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.008791,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.36489
+                        ],
+                        [
+                            -2.822063,
+                            53.474867
+                        ],
+                        [
+                            -3.008791,
+                            53.474867
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1643685491538026497
+        },
+        {
+            "id": "5920782e29e11cac",
+            "url": "https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json",
+            "place_type": "admin",
+            "name": "Rajasthan",
+            "full_name": "Rajasthan, India",
+            "country_code": "IN",
+            "country": "India",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            69.484366,
+                            23.060464
+                        ],
+                        [
+                            78.270755,
+                            23.060464
+                        ],
+                        [
+                            78.270755,
+                            30.196367
+                        ],
+                        [
+                            69.484366,
+                            30.196367
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1644413144914350080
+        }
+    ]
+}

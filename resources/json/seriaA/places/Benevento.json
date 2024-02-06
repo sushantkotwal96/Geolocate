@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "12156161985e5f5c",
+            "url": "https://api.twitter.com/1.1/geo/id/12156161985e5f5c.json",
+            "place_type": "city",
+            "name": "Terni",
+            "full_name": "Terni, Umbria",
+            "country_code": "IT",
+            "country": "Italy",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.5427789,
+                            42.5003008
+                        ],
+                        [
+                            12.7878849,
+                            42.5003008
+                        ],
+                        [
+                            12.7878849,
+                            42.6757882
+                        ],
+                        [
+                            12.5427789,
+                            42.6757882
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1632808867758235651
+        }
+    ]
+}

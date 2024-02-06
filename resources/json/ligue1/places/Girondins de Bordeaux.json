@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "b01880e7c3c472f9",
+            "url": "https://api.twitter.com/1.1/geo/id/b01880e7c3c472f9.json",
+            "place_type": "city",
+            "name": "Mashiko-machi",
+            "full_name": "Mashiko-machi, Tochigi",
+            "country_code": "JP",
+            "country": "Japan",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            140.062968,
+                            36.394171
+                        ],
+                        [
+                            140.16056,
+                            36.394171
+                        ],
+                        [
+                            140.16056,
+                            36.525108
+                        ],
+                        [
+                            140.062968,
+                            36.525108
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1631240220694962176
+        },
+        {
+            "id": "6e39810d49945420",
+            "url": "https://api.twitter.com/1.1/geo/id/6e39810d49945420.json",
+            "place_type": "city",
+            "name": "Talence",
+            "full_name": "Talence, France",
+            "country_code": "FR",
+            "country": "France",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.6111764,
+                            44.7868553
+                        ],
+                        [
+                            -0.5726949,
+                            44.7868553
+                        ],
+                        [
+                            -0.5726949,
+                            44.8253472
+                        ],
+                        [
+                            -0.6111764,
+                            44.8253472
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1630872063471767552
+        }
+    ]
+}

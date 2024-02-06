@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "018325d17666f4e3",
+            "url": "https://api.twitter.com/1.1/geo/id/018325d17666f4e3.json",
+            "place_type": "city",
+            "name": "Short Pump",
+            "full_name": "Short Pump, VA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.65493,
+                            37.624458
+                        ],
+                        [
+                            -77.582259,
+                            37.624458
+                        ],
+                        [
+                            -77.582259,
+                            37.689361
+                        ],
+                        [
+                            -77.65493,
+                            37.689361
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {},
+            "tweet_id": 1633259212112314369
+        }
+    ]
+}
