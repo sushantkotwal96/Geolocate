@@ -24,7 +24,7 @@ Football, being one of the most popular sports globally, has a significant impac
 
 ## Project Workflow
 
-![alt text](image.png)
+![Screenshot](image.png)
 
 1) **Data Extraction using Tweepy:**
     * Leveraged the Tweepy client to extract Twitter data for every football club in the Premier League
@@ -54,31 +54,31 @@ Football, being one of the most popular sports globally, has a significant impac
 
 -   **The Dashboard below shows all the tweets for all the clubs and the locations across the world from where they are made**
 
-    ![alt text](<Screenshot 2024-02-06 at 6.46.21 PM-1.png>)
+    ![Screenshot](<Screenshot 2024-02-06 at 6.46.21 PM-1.png>)
 
 
 
 -   **The user can select any club from the dropdown list to view the locations of the tweets for that respective club as shown here**
 
-    ![alt text](<Screenshot 2024-02-06 at 6.52.56 PM.png>)
+    ![Screenshot](<Screenshot 2024-02-06 at 6.52.56 PM.png>)
 
 
 
 -   **The locations of tweets made for Bournemouth club are visualized here. This contains tweets for all sentiments since we the filter for sentiments is not yet placed**
     
-    ![alt text](<Screenshot 2024-02-06 at 6.58.33 PM-1.png>)
+    ![Screenshot](<Screenshot 2024-02-06 at 6.58.33 PM-1.png>)
 
 
 
 -   **The user can then select any of the three sentiments from the dropdown list to view only the locations of that respective sentiment as shown here**
 
-    ![alt text](<Screenshot 2024-02-06 at 6.56.43 PM.png>)
+    ![Screenshot](<Screenshot 2024-02-06 at 6.56.43 PM.png>)
 
 
 
 -   **The tweets with negative sentiments for the Bournemouth club are visualized here**
 
-    ![alt text](<Screenshot 2024-02-06 at 7.00.12 PM-1.png>)
+    ![Screenshot](<Screenshot 2024-02-06 at 7.00.12 PM-1.png>)
 
 
 
